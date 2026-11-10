@@ -1,13 +1,13 @@
 {
  "date": "2026-11-10",
  "date_long": "mardi 10 novembre 2026",
- "issue": 1,
- "generated_at": "17 h 55",
+ "issue": 2,
+ "generated_at": "18 h 34",
  "quote": {
-  "text": "Les étudiants internationaux ne sont pas des immigrants. C’est un projet d’études, un projet de carrière, un projet de vie, alors il faut apporter les distinctions nécessaires.",
-  "speaker": "Alexandre Cloutier",
-  "context": "président de l’Université du Québec, devant la Chambre de commerce du Montréal métropolitain",
-  "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+  "text": "Il s’agit du plus grand contingent migratoire de l’histoire du Canada, et de loin.",
+  "speaker": "Catherine Gentilcore",
+  "context": "ministre de l’Immigration et de l’Intégration, sur X, à propos du plan fédéral des niveaux",
+  "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
  },
  "number": {
   "value": "2 337",
@@ -16,14 +16,14 @@
  },
  "agenda": [
   {
-   "date": "12 nov.",
-   "text": "Cour fédérale, Toronto : suite des audiences sur l’Entente sur les tiers pays sûrs",
-   "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs"
-  },
-  {
    "date": "13 nov.",
    "text": "Manifestation de la CRUES au centre-ville de Montréal, dernier jour de la semaine de grève étudiante",
    "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education"
+  },
+  {
+   "date": "14-16 nov.",
+   "text": "Sommet de la Francophonie au Cambodge : premier tête-à-tête St-Pierre Plamondon–Carney, l’immigration au menu",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
   },
   {
    "date": "21 nov.",
@@ -41,9 +41,9 @@
    "url": "https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec"
   },
   {
-   "date": "10 déc.",
-   "text": "Comparution à Montréal de l’ex-fonctionnaire accusée d’avoir délivré de faux CSQ",
-   "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+   "date": "17 déc.",
+   "text": "Début de la deuxième période d’un an du plafond québécois de demandes d’étudiants étrangers par établissement",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
   }
  ],
  "stories": [
@@ -77,53 +77,342 @@
    },
    "extra_sources": [
     {
+     "name": "Le Devoir (même discours)",
+     "url": "https://www.ledevoir.com/actualites/education/1024010/universite-quebec-compte-former-medecins-2031-doubler-chambres-etudiantes"
+    },
+    {
      "name": "Le Devoir (budget fédéral)",
      "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
     }
    ]
   },
   {
-   "id": "plan-niveaux-2027-2029",
-   "section": "immca",
-   "featured": true,
-   "brief": "Ottawa maintient 380 000 résidents permanents par an et en régularise 200 000 de plus en 2027",
-   "kicker": "Ottawa",
-   "suptitle": "Plan des niveaux 2027-2029",
-   "title": "Ottawa gèle ses cibles d’immigration jusqu’en 2029, mais accordera la résidence à 200 000 personnes déjà au pays",
-   "standfirst": "Présenté dans le budget du 5 novembre, le plan maintient 380 000 résidents permanents et 370 000 résidents temporaires par année, dont 150 000 étudiants. Une mesure ponctuelle porte toutefois le total de 2027 à près de 660 000 résidences permanentes.",
+   "id": "cible-150000-secteur-loin",
+   "section": "etudiants",
+   "kicker": "Canada",
+   "suptitle": "Réactions au plan fédéral",
+   "title": "150 000 étudiants étrangers par année : le secteur dit être « loin » d’atteindre même cette cible",
+   "standfirst": "Le Bureau canadien de l’éducation internationale salue la stabilité du plan fédéral, mais rappelle que les arrivées réelles restent bien en deçà des plafonds. Les permis d’études aux cycles supérieurs, eux, ont doublé.",
    "body": [
-    "Pour la deuxième année de suite, le plan fédéral des niveaux d’immigration a été intégré au budget, déposé le jeudi 5 novembre par le ministre des Finances, François-Philippe Champagne. Les cibles ne bougent pas : 380 000 résidents permanents et 370 000 nouveaux résidents temporaires pour chacune des années 2027, 2028 et 2029. Du côté temporaire, Ottawa prévoit 220 000 travailleurs et 150 000 étudiants étrangers par année. « Nous avons repris le contrôle de l’immigration », écrit le gouvernement dans le budget, cité par Le Devoir.",
-    "La nouveauté est ailleurs. En plus des cibles, Ottawa accordera d’ici la fin de 2027 la résidence permanente à 200 000 résidents temporaires déjà établis au pays : 100 000 travailleurs ayant déjà déposé une demande, choisis avec les provinces et les territoires, et 100 000 personnes issues des volets humanitaires et familiaux, dont environ 32 000 Hongkongais et près de 19 000 Ukrainiens. La mesure est assortie de 302 millions de dollars sur quatre ans. En ajoutant le reliquat d’une initiative annoncée l’an dernier, CBC arrive à 657 250 résidences permanentes en 2027.",
-    "Le chef conservateur, Pierre Poilievre, parle d’un record : « Monsieur Carney prévoit 650 000 résidents permanents l’année prochaine. […] C’est 200 000 plus que Justin Trudeau », a-t-il lancé vendredi à Brampton. Le premier ministre Mark Carney répond qu’il s’agit de « reconnaître la réalité » de gens qui travaillent ici depuis des années. La ministre de l’Immigration, Lena Diab, a refusé les demandes d’entrevue et n’a pas répondu aux questions après le dépôt. Son rapport complet est attendu « sous peu », selon Le Devoir.",
-    "Selon la ventilation publiée par Radio-Canada International, l’immigration économique compte pour 244 700 admissions par année, le regroupement familial pour 81 000 et les réfugiés et personnes protégées pour 49 300. Au Québec, qui sélectionne lui-même son immigration économique, « tout indique » que le statu quo se maintiendra, estime Yves Martineau, de l’Association québécoise des avocats et avocates en droit de l’immigration."
+    "La cible de 150 000 nouveaux étudiants étrangers par année, reconduite jusqu’en 2029, ne change rien pour 2027 et 2028 par rapport au plan de l’an dernier, note The PIE News; seule l’année 2029 s’ajoute. Le Bureau canadien de l’éducation internationale (BCEI) y voit la stabilité et la prévisibilité qu’il réclamait, avec un bémol de taille formulé par sa présidente-directrice générale, Larissa Bezo : « According to the most recent data from 2026, we are far from meeting our current targets, making this type of cross-sectoral collaboration key to achieving the targets set out in this year’s level plan. »",
+    "À une conférence internationale tenue en Australie, Mme Bezo a précisé l’ampleur du recul, rapporte la même publication : le Canada comptait un peu moins de 700 000 étudiants étrangers à la fin de 2025, contre plus d’un million à la fin de 2023. « Canada is moving from a conversation about growth to a conversation about sustainability, quality and longer-term impact », a-t-elle dit, en racontant s’être fait demander au Vietnam : « Why did you close the borders? »",
+    "Une catégorie fait exception. Le Canada a délivré 6 455 nouveaux permis d’études aux cycles supérieurs au deuxième trimestre de 2026, contre 3 085 un an plus tôt; les étudiants des cycles supérieurs sont désormais dispensés de la lettre d’attestation provinciale ou territoriale.",
+    "Le budget lui-même mentionne à peine l’enseignement postsecondaire, observe Affaires universitaires : aucun ajustement aux cibles d’immigration, permis d’études compris. Immigration Canada n’a encore rien publié sur le plafond de permis d’études de 2027 ni sur sa répartition entre les provinces."
    ],
-   "why": "Le plafond fédéral de 150 000 nouveaux étudiants étrangers par année est maintenant fixé jusqu’en 2029 : c’est le cadre dans lequel évolueront les collèges, privés compris. Et les 100 000 travailleurs régularisés seront choisis avec les provinces.",
+   "why": "Le plafond fédéral n’est plus la contrainte : c’est la demande qui manque. Pour un collège privé, la répartition provinciale de 2027 comptera moins que la capacité de recruter, et la reprise ne s’observe pour l’instant qu’aux cycles supérieurs.",
    "facts": [
-    "380 000 résidents permanents par année en 2027, 2028 et 2029",
-    "370 000 résidents temporaires : 220 000 travailleurs, 150 000 étudiants",
-    "Mesure ponctuelle : 200 000 résidences permanentes d’ici la fin de 2027, 302 M$ sur quatre ans",
-    "Le rapport détaillé de la ministre Diab reste à venir"
+    "Cible fédérale : 150 000 nouveaux étudiants par année de 2027 à 2029",
+    "Un peu moins de 700 000 étudiants étrangers au Canada à la fin de 2025, contre plus d’un million à la fin de 2023",
+    "Cycles supérieurs : 6 455 nouveaux permis au 2e trimestre de 2026, contre 3 085 un an plus tôt",
+    "Plafond et répartition provinciale des permis pour 2027 : pas encore annoncés"
    ],
    "opinion": false,
    "source": {
-    "name": "Le Devoir",
-    "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau",
+    "name": "The PIE News",
+    "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/",
+    "date": "6 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "The PIE News, 9 novembre",
+     "url": "https://thepienews.com/canada-cuts-nz-grows-as-australia-and-us-rethink-international-education/"
+    },
+    {
+     "name": "Affaires universitaires",
+     "url": "https://universityaffairs.ca/news/budget-2026-provides-small-investment-in-post-secondary-sector/"
+    }
+   ]
+  },
+  {
+   "id": "acpq-collaboration-lefebvre",
+   "section": "colleges",
+   "brief": "Collèges privés subventionnés : l’ACPQ offre sa « pleine collaboration » à la ministre Lefebvre et réclame moins de reddition de comptes",
+   "kicker": "Collèges privés subventionnés",
+   "suptitle": "Association des collèges privés du Québec",
+   "title": "L’ACPQ tend la main à la ministre Lefebvre et plaide pour un allègement de la reddition de comptes",
+   "standfirst": "Dans sa seule prise de position depuis l’élection, l’association des 21 collèges privés agréés fait valoir qu’elle accueille près de 10 % des collégiens pour 6 à 6,5 % de l’enveloppe publique. Elle ne dit mot des contingents ni du Collège LaSalle.",
+   "body": [
+    "Le communiqué date du 23 octobre, deux jours après l’assermentation du Conseil des ministres, et il n’avait pas pu être lu jusqu’ici. L’Association des collèges privés du Québec (ACPQ) y félicite le premier ministre et, « tout particulièrement », la ministre de l’Enseignement supérieur, Elsie Lefebvre, à qui elle offre sa « pleine collaboration ». Elle dit vouloir être, tout au long du mandat, « un partenaire qui apporte des solutions concrètes ».",
+    "L’association met de l’avant deux chiffres : ses 21 collèges agréés ont accueilli près de 17 000 étudiants en 2025-2026 dans des programmes menant au DEC ou à une AEC, soit près de 10 % de l’effectif collégial du Québec, pour une part de 6 à 6,5 % de l’enveloppe publique consacrée aux services éducatifs collégiaux. Elle nomme trois priorités gouvernementales auxquelles elle veut contribuer : l’efficacité de l’État, l’allègement de la reddition de comptes et l’accessibilité aux études collégiales, dans un contexte de hausse démographique de l’effectif.",
+    "« Nous voulons travailler avec la ministre Lefebvre et son équipe pour que chaque heure et chaque dollar soient consacrés à leur réussite », déclare le président de l’ACPQ, Luc Thifault, directeur général du Collège Jean-de-Brébeuf. Le directeur général de l’association, Patrick Bérubé, dit avoir félicité en personne le premier ministre et la ministre lors de l’assermentation : « Notre message est simple : notre réseau est prêt à collaborer, dès maintenant. »",
+    "M. Thifault a été élu le 23 septembre pour un mandat de deux ans, à la 71e assemblée de l’association. Selon le communiqué publié ce jour-là, la vice-présidence revient à Jacques Gravel (Séminaire de Sherbrooke) et à Stéphane Delisle (Collège Ellis), et le conseil compte notamment Claude Marchand, directeur général du Collège LaSalle, et Saloua Zraida, directrice générale du Collège Universel. Le nouveau président y annonçait ses dossiers : le financement et les allègements administratifs.",
+    "Le site de l’association ne montre aucune prise de position plus récente. Ni le communiqué d’octobre ni celui de septembre n’évoquent les contingents linguistiques, les quotas d’étudiants étrangers ou la dette du Collège LaSalle."
+   ],
+   "why": "C’est la position d’ouverture du réseau subventionné devant le nouveau gouvernement : financement et allègement administratif, silence sur les litiges. La demande d’alléger la reddition de comptes arrivera sur le bureau de celles et ceux qui la conçoivent.",
+   "facts": [
+    "21 collèges privés agréés, près de 17 000 étudiants en 2025-2026",
+    "Près de 10 % de l’effectif collégial pour 6 à 6,5 % de l’enveloppe publique, selon l’ACPQ",
+    "Président depuis le 23 septembre : Luc Thifault (Collège Jean-de-Brébeuf)",
+    "Les dirigeants de LaSalle, d’Ellis et d’Universel siègent à la direction de l’association"
+   ],
+   "opinion": true,
+   "source": {
+    "name": "ACPQ",
+    "url": "https://www.acpq.net/blog/nouveau-conseil-des-ministres--lacpq-offre-sa-pleine-collaboration-au-gouvernement-du-quebec",
+    "date": "23 octobre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "ACPQ, 23 septembre 2026",
+     "url": "https://www.acpq.net/blog/luc-thifault-elu-a-la-presidence-de-lassociation-des-colleges-prives-du-quebec"
+    }
+   ],
+   "image": null
+  },
+  {
+   "id": "loi-101-cegep-opposition",
+   "section": "superieur",
+   "featured": true,
+   "brief": "Loi 101 au cégep : les trois partis d’opposition, majoritaires ensemble, disent non",
+   "kicker": "Assemblée nationale",
+   "suptitle": "Protection du français",
+   "title": "Loi 101 au cégep : l’opposition fait bloc, le ministre Bérubé devra négocier",
+   "standfirst": "Libéraux, conservateurs et solidaires refusent d’étendre la Charte de la langue française au collégial. Ensemble, ils ont plus de sièges que le gouvernement.",
+   "body": [
+    "L’engagement phare du Parti québécois en matière de langue est dans une impasse avant même la rentrée parlementaire du 1er décembre, rapporte La Presse. Les trois partis d’opposition, qui comptent ensemble plus d’élus que le gouvernement minoritaire, s’opposent à l’application de la loi 101 au cégep, qui fermerait le réseau collégial anglophone aux francophones et aux allophones. Le ministre de la Langue française, Pascal Bérubé, « devra donc négocier ».",
+    "« Pour nous, c’est un non catégorique », dit la députée libérale de Bourassa-Sauvé, Madwa-Nika Cadet. Le solidaire Andrés Fontecilla, député de Laurier-Dorion, parle d’un élément « non négociable » : « Pour l’instant, étant donné l’évolution du débat dans notre parti, nous nous opposons à l’extension de la loi 101 au cégep. » Le conservateur Marcos Archambault, député de Louis-Hébert, invite M. Bérubé à « mettre de l’eau dans son vin ».",
+    "Le Parti conservateur du Québec juge que la loi 96 du gouvernement précédent constitue un « compromis acceptable » : priorité d’accès aux anglophones dans le réseau collégial anglais et plafonnement du nombre total d’inscriptions. Le PQ a aussi promis d’imposer l’école en français aux enfants d’immigrants temporaires établis au Québec depuis plus de 12 mois, ainsi qu’à la formation professionnelle et à la formation des adultes.",
+    "Dans Le Devoir de mardi, le chroniqueur Michel David estime qu’« il y a fort à parier que le PQ ne fera pas de compromis sur les questions touchant le français ». Il rappelle qu’un projet de loi du gouvernement précédent étendant la loi 101 à la formation professionnelle et à l’éducation des adultes n’a pas été adopté avant l’ajournement, et que le ministère évaluait alors à 27 000 le nombre d’élèves qui passeraient au réseau français."
+   ],
+   "why": "Si l’opposition tient, le régime actuel de contingents dans les programmes collégiaux en anglais, celui-là même qui est au cœur du litige entre Québec et le Collège LaSalle, reste le cadre applicable. Aucun des deux textes ne traite des collèges privés : c’est une lecture, pas une information.",
+   "facts": [
+    "PLQ, PCQ et QS : tous opposés, et majoritaires ensemble à l’Assemblée",
+    "Le PCQ défend le régime de la loi 96 : priorité aux anglophones et plafond d’inscriptions",
+    "Aucun projet de loi n’est déposé; la session s’ouvre le 1er décembre"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php",
     "date": "5 novembre 2026"
    },
    "extra_sources": [
     {
-     "name": "La Presse canadienne",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-06/poilievre-accuse-le-gouvernement-carney-de-falsifier-les-chiffres-sur-l-immigration.php"
-    },
-    {
-     "name": "CBC News",
-     "url": "https://www.cbc.ca/news/politics/carney-poilievre-budget-immigration-9.7412572"
-    },
-    {
-     "name": "Radio-Canada International",
-     "url": "https://ici.radio-canada.ca/rci/es/noticia/2298999/plan-de-inmigracion-2027-2029-metas-estables-y-medidas-para-quienes-estan-en-canada"
+     "name": "Le Devoir (chronique de Michel David)",
+     "url": "https://www.ledevoir.com/opinion/chroniques/1023629/faire-autruche"
     }
    ]
+  },
+  {
+   "id": "uq-medecine-lefebvre",
+   "section": "superieur",
+   "kicker": "Université du Québec",
+   "suptitle": "Nouveau programme de médecine",
+   "title": "La ministre Lefebvre fait du programme de médecine de l’UQ « une priorité de son mandat »",
+   "standfirst": "L’Université du Québec a rendu public son dossier d’opportunité : 200 étudiants en 2031, des stages hors des milieux habituels. Les quatre facultés de médecine existantes s’y opposent.",
+   "body": [
+    "Le cabinet de la ministre de l’Enseignement supérieur, Elsie Lefebvre, a fait savoir mardi par écrit que le dossier d’opportunité de l’Université du Québec (UQ) mérite « assurément » d’être étudié « avec une attention particulière », rapporte La Presse. « Le premier ministre a confié la tâche à la ministre de l’Enseignement supérieur d’ajouter ce nouveau programme à l’offre actuelle de cours dans le réseau universitaire. Elle en fait une priorité de son mandat », écrit le cabinet, qui précise que les équipes du ministère étudient « les différents scénarios ».",
+    "Le dossier, que La Presse a consulté, prévoit une première cohorte de 200 étudiants en 2031, dont au moins 75 % viendraient des régions et de milieux mal desservis. L’UQ vise à ce que 75 % des diplômés choisissent la médecine familiale. Le fonctionnement coûterait environ 26,1 millions de dollars en 2031-2032 et 38,7 millions en 2034-2035, avec quatre cohortes. Aucun nouveau bâtiment n’est demandé. « On demande exactement le même montant par étudiant que les autres programmes de médecine », dit le président de l’UQ, Alexandre Cloutier.",
+    "Les facultés de médecine de l’Université de Montréal, de Laval, de McGill et de Sherbrooke s’opposent au projet, qui leur nuirait selon elles parce que les places de stage sont déjà limitées. L’UQ répond que ses stages se feraient dans des milieux « sous-utilisés » : CHSLD, résidences privées pour aînés, centres de réadaptation. La Fédération médicale étudiante du Québec pose comme condition que le programme se développe « exclusivement dans des milieux de stage qui ne sont pas déjà utilisés par les facultés de médecine actuelles ».",
+    "Prochaine étape : l’UQ a besoin d’une autorisation de financement de Québec pour demander un agrément préliminaire au Comité d’agrément des facultés de médecine du Canada. Devant la Chambre de commerce du Montréal métropolitain, M. Cloutier a aussi annoncé, selon Le Devoir, l’intention de doubler les 2 500 chambres étudiantes du réseau au moyen de 650 millions de dollars d’investissements, « entre autres » des prêts et des subventions gouvernementales, dans 11 régions."
+   ],
+   "why": "C’est le premier engagement chiffrable de la ministre Lefebvre, et il mobilisera des crédits de l’Enseignement supérieur au moment où cégeps, universités et collèges privés subventionnés demandent tous un réinvestissement.",
+   "facts": [
+    "Première cohorte de 200 étudiants visée pour 2031",
+    "Coût de fonctionnement : 26,1 M$ en 2031-2032, 38,7 M$ en 2034-2035",
+    "Opposition des quatre facultés de médecine existantes",
+    "Résidences : l’UQ veut passer de 2 500 à 5 000 chambres, 650 M$"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-10/universite-du-quebec/la-ministre-lefebvre-en-faveur-d-un-nouveau-programme-de-medecine.php",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "La Presse (le dossier d’opportunité)",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/medecine/l-universite-du-quebec-fait-un-pas-de-plus-pour-creer-son-propre-programme.php"
+    },
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/education/1024010/universite-quebec-compte-former-medecins-2031-doubler-chambres-etudiantes"
+    }
+   ]
+  },
+  {
+   "id": "greve-etudiante-novembre",
+   "section": "superieur",
+   "kicker": "Cégeps et universités",
+   "suptitle": "Premier test pour la ministre Lefebvre",
+   "title": "Près de 75 000 étudiants en grève : « du concret, et maintenant »",
+   "standfirst": "Des associations de six cégeps et de six universités boycottent les cours jusqu’à vendredi pour dénoncer la précarité étudiante. La nouvelle ministre de l’Enseignement supérieur n’a pas encore accordé d’entrevue.",
+   "body": [
+    "Près de 75 000 étudiants des cégeps et des universités sont en grève cette semaine à l’appel de la Coalition de résistance pour l’unité étudiante syndicale (CRUES), une jeune organisation qui se présente comme un syndicat combatif. Le mouvement reste marginal à l’échelle des quelque 500 000 étudiants québécois, note Radio-Canada, mais il déborde la CRUES : sur les 41 associations qui ont voté un mandat de grève, 31 n’en sont pas membres, et l’Union étudiante du Québec (UEQ) appuie la mobilisation.",
+    "La CRUES réclame une réforme plus généreuse de l’aide financière aux études, un réinvestissement dans les établissements, notamment dans les bâtiments, et des résidences abordables. L’UEQ met de l’avant la rémunération des stages dans le secteur public. « On voit de l’austérité partout », dit Sophie Bouchard, responsable des affaires internes de la CRUES.",
+    "La ministre de l’Enseignement supérieur, Elsie Lefebvre, qui est aussi responsable de l’Habitation et de la Condition féminine, n’a pas accordé d’entrevue. Son équipe a répondu par écrit qu’elle est sensible aux préoccupations du mouvement et souhaite poursuivre le dialogue, en rappelant les engagements du Parti québécois sur la rémunération des stages et l’aide financière. Des travaux d’évaluation auraient été amorcés dès son entrée en fonction.",
+    "Mardi, deuxième jour du mouvement et Journée internationale des stagiaires, des marches ont eu lieu à Montréal, à Saguenay, à Sherbrooke et à Québec, rapporte Le Devoir. À Montréal, quelques centaines de personnes ont défilé depuis le parc Émilie-Gamelin en scandant « Pas de salaires, pas de stagiaires ». Le président de l’UEQ, Loïc Goyette, veut voir la rémunération des stages du secteur public inscrite au plus tard dans le premier budget du gouvernement. Le président de la Fédération étudiante collégiale du Québec, Abdelmajid El-Mouhib, est plus direct : « On veut payer tous les stages, c’est aussi simple que ça. » Sophie Bouchard, de la CRUES, évoque une grève générale illimitée à l’hiver 2027.",
+    "Une manifestation est prévue vendredi au centre-ville de Montréal. La CRUES se prononcera sur une grève générale illimitée à son congrès du 21 novembre. « On suit ça de façon très attentive », dit la présidente-directrice générale de la Fédération des cégeps, Marie Montpetit."
+   ],
+   "why": "C’est la première pression publique sur la nouvelle ministre. La réponse du gouvernement minoritaire sur l’aide financière et les stages dira quelle marge budgétaire il reste pour le reste du réseau.",
+   "facts": [
+    "41 associations ont un mandat de grève, dont 31 hors CRUES",
+    "10 novembre : marches pour la rémunération des stages dans quatre villes",
+    "Manifestation à Montréal le 13 novembre",
+    "Congrès de la CRUES le 21 novembre : vote sur la grève générale illimitée"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php"
+    },
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/actualites/societe/1023833/etudiants-mobilisent-demander-remuneration-stages"
+    }
+   ]
+  },
+  {
+   "id": "laicite-stages-prive-subventionne",
+   "section": "ecoles",
+   "kicker": "Laïcité",
+   "suptitle": "Établissements privés subventionnés visés",
+   "title": "Faute de stage, des étudiantes voilées abandonnent leur technique : les effets de la loi d’avril se font sentir",
+   "standfirst": "Depuis le 2 avril 2026, l’interdiction des signes religieux s’étend au personnel des CPE, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Au cégep de Saint-Laurent, trois étudiantes en éducation spécialisée ne trouvent plus de milieu de stage.",
+   "body": [
+    "La Presse raconte le cas de trois étudiantes voilées du cégep de Saint-Laurent, inscrites en techniques d’éducation spécialisée. L’une a abandonné le programme le 2 novembre, une autre compte le faire à la fin de la session, la troisième cherche encore. Elles avaient choisi ce métier précisément parce qu’il n’était pas visé par la Loi sur la laïcité de l’État, qui interdit les signes religieux aux enseignants et aux directions d’école.",
+    "Les règles ont changé le 2 avril 2026 : la Loi sur le renforcement de la laïcité a étendu l’interdiction au personnel des centres de la petite enfance, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Les étudiantes disent avoir ensuite essuyé des refus dans le privé et le communautaire. Le programme affiche pourtant un taux de placement de 98 %, selon son coordonnateur, Raphaël Milot, qui constate que les restrictions découragent déjà des inscriptions.",
+    "La direction du cégep reconnaît les difficultés d’application de la loi et dit accompagner les étudiantes « afin qu’elles rencontrent le moins d’obstacles possible ».",
+    "Le gouvernement péquiste promet d’aller plus loin. Le 28 octobre, le ministre de l’Éducation nationale, Joël Arseneau, a qualifié de « non négociable » l’engagement d’interdire les signes religieux ostensibles à tous les élèves du primaire, sans donner d’échéancier, rapporte Le Devoir. Des représentants de plusieurs confessions et l’Association canadienne des libertés civiles s’y opposent et n’écartent pas un recours aux tribunaux. Aucun projet de loi ne peut être déposé avant la rentrée du 1er décembre."
+   ],
+   "why": "La loi d’avril s’applique déjà aux établissements privés subventionnés, et ses effets débordent maintenant sur les stages du réseau collégial. Un autre projet de loi, visant cette fois les élèves, est promis.",
+   "facts": [
+    "En vigueur depuis le 2 avril 2026 : CPE, garderies subventionnées, privé subventionné",
+    "Trois étudiantes touchées, une a abandonné le 2 novembre",
+    "Interdiction pour les élèves du primaire : « non négociable », dit le ministre Arseneau"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-10/a-cause-de-leur-voile/des-etudiantes-privees-de-stage-dans-un-domaine-en-penurie-de-personnel.php",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1020890/pq-accuse-attaquer-enfants-interdisant-signes-religieux-primaire"
+    }
+   ]
+  },
+  {
+   "id": "gentilcore-seuils-insoutenables",
+   "section": "immqc",
+   "featured": true,
+   "brief": "Québec dénonce des « seuils insoutenables » : la ministre Gentilcore compte 662 000 résidents permanents de plus",
+   "kicker": "Québec",
+   "suptitle": "Plan fédéral des niveaux",
+   "title": "« Le plus grand contingent migratoire de l’histoire du Canada » : Québec s’en prend au plan d’Ottawa",
+   "standfirst": "La ministre Catherine Gentilcore parle d’une « hausse cachée » de l’immigration permanente. Le premier ministre Paul St-Pierre Plamondon en fera un sujet de sa première rencontre avec Mark Carney, cette semaine au Cambodge.",
+   "body": [
+    "Cinq jours après le dépôt du budget fédéral, le gouvernement du Québec a durci le ton mardi. « Il s’agit du plus grand contingent migratoire de l’histoire du Canada, et de loin », a écrit sur X la ministre de l’Immigration et de l’Intégration, Catherine Gentilcore, citée par La Presse. Son calcul : « en plus du seuil de 370 000 résidents temporaires, 662 000 résidents permanents seront ajoutés, dont 200 000 sur une voie accélérée et 82 000 restants de l’an dernier ». « Cette hausse cachée n’est ni expliquée ni justifiée », ajoute-t-elle.",
+    "Le premier ministre Paul St-Pierre Plamondon a repris l’argument en mêlée de presse à Québec, à la sortie d’une rencontre avec le chef du Bloc québécois, Yves-François Blanchet. « Force est de constater que le gouvernement Carney maintient les orientations du gouvernement Trudeau, c’est-à-dire des seuils d’immigration bien au-delà de la capacité de construire du logement », a-t-il dit, en annonçant qu’il en parlerait à Mark Carney au Cambodge. Les deux hommes doivent avoir leur premier entretien en marge du Sommet de la Francophonie, plus tard cette semaine.",
+    "Ottawa présente les choses autrement : une cible officielle stable de 380 000 admissions par année, et à part, une mesure ponctuelle qui accordera la résidence permanente en 2027 à un maximum de 200 000 personnes déjà au pays. Lundi, à Stellarton, en Nouvelle-Écosse, la ministre fédérale Lena Metlege Diab a défendu son plan pour la première fois depuis son dépôt. « Ce sont, pour la plupart, des personnes qui se trouvent déjà au Canada. Elles ont un logement, elles bénéficient de services, elles paient des impôts », a-t-elle dit, selon La Presse canadienne, qui rapporte que le gouvernement s’attend à plus de 600 000 résidents permanents l’an prochain en comptant une mesure semblable annoncée l’an dernier. Le chef conservateur Pierre Poilievre avance le chiffre de 650 000.",
+    "Un détail des documents fédéraux pèse sur ce débat : le volet « travailleurs » de la mesure ponctuelle, jusqu’à 100 000 places, vise selon la page d’Immigration Canada des travailleurs établis dans des communautés hors Québec, et la cible fédérale pour les travailleurs qualifiés du Québec est inscrite « à déterminer » en attendant le plan québécois. Ce que le Québec admettra en 2027 se décidera donc dans la planification pluriannuelle que Mme Gentilcore a promise pour la fin de novembre."
+   ],
+   "why": "Le ton est donné à trois semaines du plan d’immigration du Québec : le gouvernement se place en opposition frontale aux volumes fédéraux, temporaires compris. Les étudiants étrangers, comptés dans les 370 000 résidents temporaires, sont dans la même colonne que celle que Québec dit vouloir réduire.",
+   "facts": [
+    "Calcul de la ministre : 662 000 résidents permanents, dont 200 000 en « voie accélérée » et 82 000 « restants de l’an dernier »",
+    "Cible fédérale officielle : 380 000 par année; mesure ponctuelle de 200 000 en 2027, comptée à part",
+    "Première rencontre St-Pierre Plamondon–Carney au Sommet de la Francophonie, du 14 au 16 novembre",
+    "La publication de la ministre sur X n’a pas été lue directement : elle est citée d’après La Presse"
+   ],
+   "opinion": true,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "La Presse canadienne (L’actualité)",
+     "url": "https://lactualite.com/actualites/le-plan-liberal-en-matiere-dimmigration-repose-sur-la-previsibilite-du-systeme"
+    },
+    {
+     "name": "Immigration Canada",
+     "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/immigration-system/measures.html"
+    }
+   ]
+  },
+  {
+   "id": "fraude-csq-peq",
+   "section": "immqc",
+   "kicker": "Québec",
+   "suptitle": "Enquête de l’UPAC",
+   "title": "Une ex-fonctionnaire de l’Immigration accusée d’avoir délivré une centaine de faux certificats de sélection",
+   "standfirst": "L’ancienne coordonnatrice par intérim du Programme de l’expérience québécoise fait face à des accusations d’abus de confiance et de fabrication de faux. La ministre veut savoir s’il s’agit d’un cas isolé.",
+   "body": [
+    "Selon l’enquête du Commissaire à la lutte contre la corruption, Marilena Ida, ex-employée du ministère de l’Immigration, aurait délivré frauduleusement plus de cent certificats de sélection du Québec (CSQ) à des candidats qui ne remplissaient pas les critères. Les gestes reprochés auraient été commis entre août 2016 et février 2019, alors qu’elle était coordonnatrice par intérim du Programme de l’expérience québécoise (PEQ), rapporte Radio-Canada.",
+    "Elle est accusée d’abus de confiance et de fabrication de faux documents, et doit comparaître à Montréal le 10 décembre. Elle ne travaille plus au ministère depuis 2019, selon le cabinet de la ministre. Les accusations n’ont pas été prouvées devant un tribunal.",
+    "La ministre de l’Immigration et de l’Intégration, Catherine Gentilcore, s’est dite « très choquée » par ces révélations. « Cette situation ébranle ma confiance, et je m’attends à ce que toute la lumière soit faite », a-t-elle déclaré. Elle souhaite vérifier s’il s’agit d’un cas isolé et parle d’implanter des processus qui assurent l’intégrité des programmes, sans annoncer de mesure précise."
+   ],
+   "why": "Le CSQ est la pièce qui ouvre la porte à la résidence permanente. L’affaire risque de resserrer les contrôles documentaires dans tout le parcours des diplômés étrangers, au moment où le gouvernement doit clarifier le sort du PEQ.",
+   "facts": [
+    "Plus de cent CSQ visés, entre août 2016 et février 2019",
+    "Accusations : abus de confiance et fabrication de faux documents",
+    "Comparution le 10 décembre 2026 à Montréal"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
+    "date": "7 novembre 2026"
+   }
+  },
+  {
+   "id": "plan-niveaux-documents-quebec",
+   "section": "immca",
+   "featured": true,
+   "brief": "Plan fédéral 2027-2029 : la cible du Québec « à déterminer », et le volet travailleurs de la régularisation vise le hors-Québec",
+   "kicker": "Ottawa",
+   "suptitle": "Plan des niveaux 2027-2029, dans le texte",
+   "title": "Ce que disent les documents d’Ottawa : la part du Québec reste à écrire",
+   "standfirst": "Les tableaux publiés par Immigration Canada détaillent les 380 000 admissions annuelles et la mesure ponctuelle de 200 000 places. La ligne du Québec y est vide, et la moitié « travailleurs » de la régularisation ne vise que les autres provinces.",
+   "body": [
+    "Les renseignements supplémentaires publiés le 5 novembre avec le Plan des niveaux 2027-2029 donnent la ventilation que les comptes rendus de presse n’avaient pas. Sur 380 000 résidents permanents par année (fourchette de 352 500 à 422 000), la catégorie économique en compte 244 700, dont 100 000 travailleurs hautement qualifiés du fédéral et 95 000 candidats des provinces. La ligne « Travailleurs qualifiés et gens d’affaires du Québec » porte la mention « à déterminer » : une note rappelle qu’en vertu de l’Accord Canada-Québec, ces cibles figureront dans le plan que le Québec doit déposer à l’automne 2026.",
+    "Le reste se répartit ainsi : 81 000 admissions pour le regroupement familial (66 000 époux, conjoints et enfants; 15 000 parents et grands-parents), 49 300 réfugiés et personnes protégées (dont 11 750 réfugiés pris en charge par l’État et 17 550 parrainés par le secteur privé) et 5 000 admissions pour motifs humanitaires. Du côté temporaire, les 370 000 nouvelles arrivées annuelles se composent de 170 000 travailleurs du Programme de mobilité internationale, de 50 000 travailleurs étrangers temporaires et de 150 000 étudiants. Les chiffres de 2028 et de 2029 seront confirmés ou ajustés au plus tard le 1er novembre de l’année précédente.",
+    "La cible d’immigration francophone hors Québec passe à 9,5 % en 2027 (31 825 admissions), 10,5 % en 2028 et 12 % en 2029. Là encore, une note prévient que ces cibles « pourraient nécessiter des mises à jour » une fois le plan du Québec déposé. Le rapport annuel au Parlement indique que le Québec a reçu 60 135 résidents permanents en 2025, soit 15 % du total canadien.",
+    "Quant à la mesure ponctuelle, la page d’Immigration Canada précise qu’elle s’ajoute aux cibles pour la seule année 2027, qu’elle ne crée pas de nouveau programme et qu’aucune démarche n’est demandée aux candidats. Son volet « travailleurs », jusqu’à 100 000 places, vise des travailleurs déjà établis « in communities outside Quebec » et leur famille : des personnes en attente dans des programmes fermés (visa pour démarrage d’entreprise, travailleurs autonomes, projet pilote agroalimentaire, aides familiaux) ou admissibles au Programme des candidats des provinces. Le volet humanitaire a été chiffré mardi par le ministère : jusqu’à 32 000 personnes des voies d’accès pour Hong Kong, 18 800 Ukrainiens, 12 600 dossiers humanitaires déjà approuvés et 45 000 époux, conjoints et enfants déjà au Canada.",
+    "Le budget y consacre 302,3 millions de dollars sur quatre ans à compter de 2027-2028, plus 56,9 millions pour la mise en œuvre du plan. Il confirme aussi l’ampleur du recul déjà observé : de janvier à août 2026, 156 440 nouveaux étudiants étrangers de moins qu’à la même période de 2024, soit une baisse de 71 %."
+   ],
+   "why": "Le volet travailleurs de la régularisation ne concerne pas le Québec, contrairement à ce que laissaient entendre les premiers comptes rendus : la question de savoir qui, parmi les temporaires déjà au Québec, pourra rester relève entièrement du plan Gentilcore. Et tant que ce plan n’est pas déposé, les cibles fédérales elles-mêmes sont provisoires.",
+   "facts": [
+    "Québec, travailleurs qualifiés et gens d’affaires : « à déterminer » pour 2027, 2028 et 2029",
+    "Temporaires : 170 000 (mobilité internationale) + 50 000 (travailleurs étrangers temporaires) + 150 000 étudiants",
+    "Francophones hors Québec : 9,5 %, 10,5 %, puis 12 % en 2029",
+    "Mesure ponctuelle : volet travailleurs réservé au hors-Québec; 302,3 M$ sur quatre ans",
+    "Les pages de canada.ca ont été lues par l’outil de lecture, qui résume : les chiffres sont ceux des tableaux, les citations sont limitées aux fragments vérifiés"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Immigration, Réfugiés et Citoyenneté Canada",
+    "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/systeme-immigration/niveaux/renseignements-supplementaires-niveaux-immigration-2027-2029.html",
+    "date": "5 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "IRCC, mesure ponctuelle",
+     "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/immigration-system/measures.html"
+    },
+    {
+     "name": "IRCC, communiqué du 10 novembre",
+     "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-takes-action-to-efficiently-process-existing-permanent-residence-applications-for-ukrainians-and-hong-kongers.html"
+    },
+    {
+     "name": "Budget 2026, chapitre 3",
+     "url": "https://budget.canada.ca/2026/report-rapport/chap3-en.html"
+    },
+    {
+     "name": "Rapport annuel au Parlement 2026",
+     "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/annual-report-parliament-immigration-2026.html"
+    }
+   ],
+   "image": null
   },
   {
    "id": "travailleurs-temporaires-15-pour-cent",
@@ -158,185 +447,8 @@
    ]
   },
   {
-   "id": "refugies-parrainage-prive",
-   "section": "immca",
-   "kicker": "Ottawa",
-   "suptitle": "Réfugiés",
-   "title": "Plus de réfugiés parrainés par le privé, moins par l’État",
-   "standfirst": "Le plan fédéral garde le même total de réfugiés, mais en déplace une partie vers les groupes de parrainage. Le Conseil canadien pour les réfugiés y voit un désengagement de l’État.",
-   "body": [
-    "Le plan des niveaux prévoit qu’environ 29 000 réfugiés et 20 000 personnes protégées et membres de leur famille obtiendront la résidence permanente chaque année jusqu’en 2029, un total semblable à celui de l’an dernier. À l’intérieur de ce total, les admissions de réfugiés parrainés par le secteur privé passeront de 16 000 à 17 500, tandis que celles des réfugiés pris en charge par l’État baisseront à un peu moins de 12 000, contre plus de 13 000 en 2025, rapporte La Presse canadienne.",
-    "Le groupe de réflexion Cardus, qui avait écrit en septembre à la ministre Lena Diab pour demander ce changement, s’en réjouit : les réfugiés parrainés par des groupes religieux ou communautaires s’intégreraient mieux, selon son directeur de programme, Renze Nauta.",
-    "« Le gouvernement a l’obligation, tant sur le plan moral qu’au regard du droit international, de réinstaller les réfugiés », réplique Lauren Lallemand, codirectrice générale du Conseil canadien pour les réfugiés. Elle juge « très inquiétant » que le gouvernement présente la baisse du nombre de demandeurs d’asile comme une preuve de maîtrise du système, alors que le taux d’acceptation des demandes dépasse 70 %."
-   ],
-   "why": "Un détail du plan qui déplace des coûts d’accueil vers les organismes communautaires, y compris au Québec.",
-   "facts": [
-    "Parrainage privé : de 16 000 à 17 500 admissions",
-    "Réfugiés pris en charge par l’État : un peu moins de 12 000"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "La Presse canadienne",
-    "url": "https://www.lapresse.ca/actualites/national/2026-11-10/ottawa-mise-sur-le-parrainage-prive-des-refugies-dans-son-plan-sur-l-immigration.php",
-    "date": "10 novembre 2026"
-   }
-  },
-  {
-   "id": "fraude-csq-peq",
-   "section": "immqc",
-   "brief": "Faux CSQ : une ex-coordonnatrice du PEQ accusée, la ministre Gentilcore « très choquée »",
-   "kicker": "Québec",
-   "suptitle": "Enquête de l’UPAC",
-   "title": "Une ex-fonctionnaire de l’Immigration accusée d’avoir délivré une centaine de faux certificats de sélection",
-   "standfirst": "L’ancienne coordonnatrice par intérim du Programme de l’expérience québécoise fait face à des accusations d’abus de confiance et de fabrication de faux. La ministre veut savoir s’il s’agit d’un cas isolé.",
-   "body": [
-    "Selon l’enquête du Commissaire à la lutte contre la corruption, Marilena Ida, ex-employée du ministère de l’Immigration, aurait délivré frauduleusement plus de cent certificats de sélection du Québec (CSQ) à des candidats qui ne remplissaient pas les critères. Les gestes reprochés auraient été commis entre août 2016 et février 2019, alors qu’elle était coordonnatrice par intérim du Programme de l’expérience québécoise (PEQ), rapporte Radio-Canada.",
-    "Elle est accusée d’abus de confiance et de fabrication de faux documents, et doit comparaître à Montréal le 10 décembre. Elle ne travaille plus au ministère depuis 2019, selon le cabinet de la ministre. Les accusations n’ont pas été prouvées devant un tribunal.",
-    "La ministre de l’Immigration et de l’Intégration, Catherine Gentilcore, s’est dite « très choquée » par ces révélations. « Cette situation ébranle ma confiance, et je m’attends à ce que toute la lumière soit faite », a-t-elle déclaré. Elle souhaite vérifier s’il s’agit d’un cas isolé et parle d’implanter des processus qui assurent l’intégrité des programmes, sans annoncer de mesure précise."
-   ],
-   "why": "Le CSQ est la pièce qui ouvre la porte à la résidence permanente. L’affaire risque de resserrer les contrôles documentaires dans tout le parcours des diplômés étrangers, au moment où le gouvernement doit clarifier le sort du PEQ.",
-   "facts": [
-    "Plus de cent CSQ visés, entre août 2016 et février 2019",
-    "Accusations : abus de confiance et fabrication de faux documents",
-    "Comparution le 10 décembre 2026 à Montréal"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "Radio-Canada",
-    "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
-    "date": "7 novembre 2026"
-   }
-  },
-  {
-   "id": "asile-690-millions",
-   "section": "immqc",
-   "kicker": "Québec–Ottawa",
-   "suptitle": "Demandeurs d’asile",
-   "title": "Les 690 millions réclamés par Québec pour l’accueil des demandeurs d’asile sont absents du budget fédéral",
-   "standfirst": "Québec dit avoir dépensé 733 millions de dollars en 2024 pour les services aux demandeurs d’asile et n’en avoir récupéré que 43 millions. Le budget Champagne ne prévoit aucun remboursement.",
-   "body": [
-    "Avant le dépôt du budget fédéral, le ministre des Finances du Québec, Nicolas Marceau, avait chiffré la demande : Québec affirme avoir consacré 733 millions de dollars en 2024 aux services offerts aux demandeurs d’asile, dont 43,1 millions ont été remboursés. Il réclame le solde, environ 690 millions, d’ici le 31 mars 2027, ainsi qu’un mécanisme permanent de compensation, rapporte Radio-Canada.",
-    "Le budget déposé le 5 novembre n’y répond pas. M. Marceau a déploré que plusieurs revendications du Québec en soient absentes, selon La Presse canadienne. Il a aussi indiqué que sa mise à jour économique et financière viendrait « dans les prochaines semaines ».",
-    "Le premier tête-à-tête entre Mark Carney et Paul St-Pierre Plamondon est prévu en marge du Sommet de la Francophonie, du 14 au 16 novembre."
-   ],
-   "why": "C’est le principal litige financier Québec–Ottawa en immigration, et il pèsera sur la mise à jour économique qui fixera les marges de tous les ministères.",
-   "facts": [
-    "733 M$ dépensés en 2024 selon Québec, 43,1 M$ remboursés",
-    "Échéance fixée par Québec : 31 mars 2027"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "Radio-Canada",
-    "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile",
-    "date": "4 novembre 2026"
-   },
-   "extra_sources": [
-    {
-     "name": "Le Devoir / La Presse canadienne",
-     "url": "https://www.ledevoir.com/politique/quebec/1022897/plusieurs-revendications-quebec-absentes-budget-federal-deplore-marceau"
-    },
-    {
-     "name": "Le Devoir (rencontre Carney–St-Pierre Plamondon)",
-     "url": "https://www.ledevoir.com/politique/quebec/1022609/premier-tete-tete-entre-premiers-ministres-canadien-quebecois-aura-lieu-cambodge"
-    }
-   ]
-  },
-  {
-   "id": "greve-etudiante-novembre",
-   "section": "superieur",
-   "brief": "Près de 75 000 étudiants en grève cette semaine; la ministre Lefebvre répond par écrit",
-   "kicker": "Cégeps et universités",
-   "suptitle": "Premier test pour la ministre Lefebvre",
-   "title": "Près de 75 000 étudiants en grève : « du concret, et maintenant »",
-   "standfirst": "Des associations de six cégeps et de six universités boycottent les cours jusqu’à vendredi pour dénoncer la précarité étudiante. La nouvelle ministre de l’Enseignement supérieur n’a pas encore accordé d’entrevue.",
-   "body": [
-    "Près de 75 000 étudiants des cégeps et des universités sont en grève cette semaine à l’appel de la Coalition de résistance pour l’unité étudiante syndicale (CRUES), une jeune organisation qui se présente comme un syndicat combatif. Le mouvement reste marginal à l’échelle des quelque 500 000 étudiants québécois, note Radio-Canada, mais il déborde la CRUES : sur les 41 associations qui ont voté un mandat de grève, 31 n’en sont pas membres, et l’Union étudiante du Québec (UEQ) appuie la mobilisation.",
-    "La CRUES réclame une réforme plus généreuse de l’aide financière aux études, un réinvestissement dans les établissements, notamment dans les bâtiments, et des résidences abordables. L’UEQ met de l’avant la rémunération des stages dans le secteur public. « On voit de l’austérité partout », dit Sophie Bouchard, responsable des affaires internes de la CRUES.",
-    "La ministre de l’Enseignement supérieur, Elsie Lefebvre, qui est aussi responsable de l’Habitation et de la Condition féminine, n’a pas accordé d’entrevue. Son équipe a répondu par écrit qu’elle est sensible aux préoccupations du mouvement et souhaite poursuivre le dialogue, en rappelant les engagements du Parti québécois sur la rémunération des stages et l’aide financière. Des travaux d’évaluation auraient été amorcés dès son entrée en fonction.",
-    "Une manifestation est prévue vendredi au centre-ville de Montréal. La CRUES se prononcera sur une grève générale illimitée à son congrès du 21 novembre. « On suit ça de façon très attentive », dit la présidente-directrice générale de la Fédération des cégeps, Marie Montpetit."
-   ],
-   "why": "C’est la première pression publique sur la nouvelle ministre. La réponse du gouvernement minoritaire sur l’aide financière et les stages dira quelle marge budgétaire il reste pour le reste du réseau.",
-   "facts": [
-    "41 associations ont un mandat de grève, dont 31 hors CRUES",
-    "Manifestation à Montréal le 13 novembre",
-    "Congrès de la CRUES le 21 novembre : vote sur la grève générale illimitée"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "Radio-Canada",
-    "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education",
-    "date": "10 novembre 2026"
-   },
-   "extra_sources": [
-    {
-     "name": "La Presse",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php"
-    }
-   ]
-  },
-  {
-   "id": "liberte-academique-mandat-lefebvre",
-   "section": "superieur",
-   "kicker": "Universités",
-   "suptitle": "Liberté académique",
-   "title": "Les professeurs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-   "standfirst": "Le mandat confié à Elsie Lefebvre par le premier ministre, qui parle de faire primer la méthode scientifique sur les « idéologies », est jugé « très, très, très inquiétant » par la FQPPU.",
-   "body": [
-    "Lors de l’assermentation du Conseil des ministres, le premier ministre Paul St-Pierre Plamondon a demandé à la nouvelle ministre de l’Enseignement supérieur de « veiller à ce que les universités soient des milieux de recherche sereins et des milieux dans le respect de la liberté académique […] où la méthode scientifique a préséance sur toutes autres considérations ou idéologies ».",
-    "« C’est très, très, très inquiétant », réagit dans La Presse la présidente de la Fédération québécoise des professeures et professeurs d’université (FQPPU), Madeleine Pastinelli. Elle y lit l’idée que le gouvernement pourrait déterminer quels contenus sont acceptables. « Le politique n’a pas à se mêler de ce qui est considéré comme valable ou légitime comme perspective dans les universités », dit-elle, en rappelant que la Loi sur la liberté académique dans le milieu universitaire, adoptée en 2022, balise déjà le rôle de la ministre.",
-    "L’Université de Montréal répond que « c’est déjà ce que nous faisons ». Les autres universités qui ont répondu à La Presse, dont le réseau de l’Université du Québec, disent qu’elles évalueront les actions du gouvernement. Les professeurs réclament par ailleurs une hausse importante du financement public du réseau."
-   ],
-   "why": "Premier accrochage entre le milieu universitaire et la ministre, avant même qu’elle ait pris la parole. Il donne le ton de ses relations avec les établissements.",
-   "facts": [
-    "La loi de 2022 sur la liberté académique encadre déjà le rôle de la ministre",
-    "La FQPPU demande aussi un réinvestissement majeur dans les universités"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "La Presse",
-    "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php",
-    "date": "9 novembre 2026"
-   }
-  },
-  {
-   "id": "laicite-stages-prive-subventionne",
-   "section": "ecoles",
-   "featured": true,
-   "brief": "Laïcité : la loi d’avril, qui vise aussi le privé subventionné, prive des cégépiennes de stage",
-   "kicker": "Laïcité",
-   "suptitle": "Établissements privés subventionnés visés",
-   "title": "Faute de stage, des étudiantes voilées abandonnent leur technique : les effets de la loi d’avril se font sentir",
-   "standfirst": "Depuis le 2 avril 2026, l’interdiction des signes religieux s’étend au personnel des CPE, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Au cégep de Saint-Laurent, trois étudiantes en éducation spécialisée ne trouvent plus de milieu de stage.",
-   "body": [
-    "La Presse raconte le cas de trois étudiantes voilées du cégep de Saint-Laurent, inscrites en techniques d’éducation spécialisée. L’une a abandonné le programme le 2 novembre, une autre compte le faire à la fin de la session, la troisième cherche encore. Elles avaient choisi ce métier précisément parce qu’il n’était pas visé par la Loi sur la laïcité de l’État, qui interdit les signes religieux aux enseignants et aux directions d’école.",
-    "Les règles ont changé le 2 avril 2026 : la Loi sur le renforcement de la laïcité a étendu l’interdiction au personnel des centres de la petite enfance, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Les étudiantes disent avoir ensuite essuyé des refus dans le privé et le communautaire. Le programme affiche pourtant un taux de placement de 98 %, selon son coordonnateur, Raphaël Milot, qui constate que les restrictions découragent déjà des inscriptions.",
-    "La direction du cégep reconnaît les difficultés d’application de la loi et dit accompagner les étudiantes « afin qu’elles rencontrent le moins d’obstacles possible ».",
-    "Le gouvernement péquiste promet d’aller plus loin. Le 28 octobre, le ministre de l’Éducation nationale, Joël Arseneau, a qualifié de « non négociable » l’engagement d’interdire les signes religieux ostensibles à tous les élèves du primaire, sans donner d’échéancier, rapporte Le Devoir. Des représentants de plusieurs confessions et l’Association canadienne des libertés civiles s’y opposent et n’écartent pas un recours aux tribunaux. Aucun projet de loi ne peut être déposé avant la rentrée du 1er décembre."
-   ],
-   "why": "La loi d’avril s’applique déjà aux établissements privés subventionnés, et ses effets débordent maintenant sur les stages du réseau collégial. Un autre projet de loi, visant cette fois les élèves, est promis.",
-   "facts": [
-    "En vigueur depuis le 2 avril 2026 : CPE, garderies subventionnées, privé subventionné",
-    "Trois étudiantes touchées, une a abandonné le 2 novembre",
-    "Interdiction pour les élèves du primaire : « non négociable », dit le ministre Arseneau"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "La Presse",
-    "url": "https://www.lapresse.ca/actualites/education/2026-11-10/a-cause-de-leur-voile/des-etudiantes-privees-de-stage-dans-un-domaine-en-penurie-de-personnel.php",
-    "date": "10 novembre 2026"
-   },
-   "extra_sources": [
-    {
-     "name": "Le Devoir",
-     "url": "https://www.ledevoir.com/politique/quebec/1020890/pq-accuse-attaquer-enfants-interdisant-signes-religieux-primaire"
-    }
-   ]
-  },
-  {
    "id": "ontario-gel-aide-colleges-prives",
    "section": "provinces",
-   "featured": true,
-   "brief": "Ontario : le gel de l’aide financière dans tous les collèges privés commence à fermer des écoles",
    "kicker": "Ontario",
    "suptitle": "Collèges privés d’enseignement professionnel",
    "title": "En Ontario, le gel de l’aide financière aux étudiants de tous les collèges privés pousse des écoles vers la fermeture",
@@ -373,91 +485,109 @@
    ]
   },
   {
-   "id": "rentree-parlementaire-1er-decembre",
+   "id": "asile-reglements-3-novembre",
    "section": "droit",
-   "brief": "Assemblée nationale : rentrée le 1er décembre, pour deux semaines seulement",
-   "kicker": "Assemblée nationale",
-   "suptitle": "44e législature",
-   "title": "La rentrée parlementaire aura lieu le 1er décembre, pour deux semaines seulement",
-   "standfirst": "Aucun projet de loi ne pourra être déposé avant cette date. Le discours d’ouverture sera le premier énoncé formel des priorités du gouvernement minoritaire.",
+   "brief": "Asile : la réforme est en vigueur depuis le 3 novembre, avec un délai de 60 jours pour déposer une demande complète",
+   "kicker": "Gazette du Canada",
+   "suptitle": "Loi visant à renforcer le système d’immigration et la frontière",
+   "title": "Asile : demande unique en ligne, 60 jours pour la compléter, et jusqu’à 365 jours de vérifications avant le tribunal",
+   "standfirst": "La Gazette du Canada du 4 novembre publie le décret et les règlements qui mettent en vigueur le reste de la réforme de l’asile. Près de 300 000 demandeurs attendaient une décision à la fin de 2025.",
    "body": [
-    "Le gouvernement péquiste a confirmé le 4 novembre que les travaux parlementaires reprendront le 1er décembre, rapporte La Presse canadienne. Les dates du 17 puis du 24 novembre avaient d’abord circulé. La Chambre ne siégera que deux semaines, jusqu’au 11 décembre.",
-    "Le gouvernement soutient être « exactement dans les temps habituels » après une élection générale. Il invoque la présence du premier ministre au Sommet de la Francophonie, du 14 au 16 novembre, et la préparation de la mise à jour économique du ministre des Finances, Nicolas Marceau.",
-    "Un problème de procédure reste entier : le Parti québécois veut ouvrir la session sans la lieutenante-gouverneure, Manon Jeannotte, alors que le règlement de l’Assemblée prévoit que chaque session débute par son allocution. La règle ne peut être modifiée que du consentement unanime, une fois la Chambre réunie.",
-    "L’opposition officielle juge le délai déjà long. « Au nombre de dossiers qui requièrent une intervention urgente, tout report supplémentaire serait impensable », dit le leader parlementaire libéral, André Fortin."
+    "Un décret pris le 23 octobre fixe au 3 novembre 2026 l’entrée en vigueur des dernières dispositions sur l’asile de la Loi visant à renforcer le système d’immigration et la frontière du Canada. Elles créent un guichet unique pour toutes les demandes, exigent que les vérifications ministérielles soient faites avant le renvoi du dossier à la Section de la protection des réfugiés, permettent au ministre de faire déclarer le désistement d’une demande non conforme, et abrogent le régime des pays d’origine désignés.",
+    "Le règlement d’application, publié dans le même numéro, fixe les délais. Le demandeur dispose de 60 jours civils pour soumettre une demande complète en ligne, avec une seule prorogation possible de 30 jours. Les ministres disposent de 365 jours pour leurs vérifications (criminalité, crédibilité, intégrité du programme) avant de renvoyer le dossier à la Commission de l’immigration et du statut de réfugié (CISR). Des organismes d’aide aux réfugiés et des juristes ont fait valoir pendant la consultation que ce délai est trop long et laisse les demandeurs dans l’incertitude.",
+    "Le permis de travail pourra être délivré dès que la demande est jugée recevable, sans attendre son renvoi effectif à la CISR. Deux exceptions aux nouvelles règles d’irrecevabilité sont prévues, notamment pour les mineurs non accompagnés. La mise au rôle des audiences passe à la CISR, et les délais réglementaires pour tenir une audience et rendre une décision sont abrogés.",
+    "Le résumé de l’étude d’impact donne la mesure du problème : environ 144 000 demandes en 2023, 173 000 en 2024 et 115 000 en 2025, contre 64 000 en 2019. « Le nombre de demandeurs d’asile en attente d’une décision de la CISR est passé d’environ 70 000 à la fin de 2022 à près de 300 000 à la fin de 2025 », y lit-on. Le budget fédéral ajoute 98 millions de dollars sur cinq ans pour réduire l’arriéré."
    ],
-   "why": "Ni projet de loi, ni étude de règlement, ni commission parlementaire touchant l’enseignement privé ou l’immigration avant le 1er décembre. Tout ce qui est promis pour l’automne devra passer par un calendrier très court.",
+   "why": "Le Québec reçoit une large part des demandeurs d’asile et réclame 690 millions à Ottawa pour leur accueil. Le délai de 365 jours avant le renvoi au tribunal allonge la période pendant laquelle ces personnes dépendent des services provinciaux, même si le permis de travail arrive plus tôt.",
    "facts": [
-    "Rentrée : 1er décembre 2026; fin des travaux : 11 décembre",
-    "Gouvernement minoritaire : 59 sièges sur 127 pour le Parti québécois",
-    "Mise à jour économique attendue « dans les prochaines semaines »"
+    "En vigueur depuis le 3 novembre 2026 (TR/2026-59 et DORS/2026-218)",
+    "60 jours pour une demande complète, une prorogation de 30 jours",
+    "365 jours pour les vérifications ministérielles avant le renvoi à la CISR",
+    "Près de 300 000 demandeurs en attente à la fin de 2025"
    ],
    "opinion": false,
    "source": {
-    "name": "Le Devoir / La Presse canadienne",
-    "url": "https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec",
+    "name": "Gazette du Canada, Partie II",
+    "url": "https://www.gazette.gc.ca/rp-pr/p2/2026/2026-11-04/html/sor-dors218-fra.html",
     "date": "4 novembre 2026"
    },
    "extra_sources": [
     {
-     "name": "Radio-Canada (Conseil des ministres)",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+     "name": "Décret TR/2026-59",
+     "url": "https://www.gazette.gc.ca/rp-pr/p2/2026/2026-11-04/html/si-tr59-fra.html"
+    },
+    {
+     "name": "Budget 2026, chapitre 3",
+     "url": "https://budget.canada.ca/2026/report-rapport/chap3-en.html"
     }
-   ]
+   ],
+   "image": null
   },
   {
-   "id": "tiers-pays-surs-cour-federale",
+   "id": "gazette-sous-ministre-mes-mii",
    "section": "droit",
-   "kicker": "Cour fédérale",
-   "suptitle": "Entente sur les tiers pays sûrs",
-   "title": "L’Entente sur les tiers pays sûrs de nouveau contestée, cette fois au nom du droit à l’égalité",
-   "standfirst": "La Cour fédérale entend cette semaine à Toronto la question que la Cour suprême lui avait renvoyée en 2023 : l’entente avec les États-Unis viole-t-elle l’article 15 de la Charte ?",
+   "brief": "Gazette officielle : Danièle Cantin sous-ministre de l’Enseignement supérieur; le MIFI devient le ministère de l’Immigration et de l’Intégration",
+   "kicker": "Gazette officielle du Québec",
+   "suptitle": "Décrets du nouveau gouvernement",
+   "title": "Nouvelle sous-ministre à l’Enseignement supérieur, nouveau nom pour le ministère de l’Immigration",
+   "standfirst": "Le numéro du 11 novembre de la Gazette officielle, déjà en ligne, publie les décrets de nomination des sous-ministres et la désignation officielle du ministère de l’Immigration et de l’Intégration. Aucun règlement ne touche l’enseignement privé.",
    "body": [
-    "Des demandeurs d’asile, appuyés par Amnistie internationale, le Conseil canadien pour les réfugiés et le Conseil canadien des Églises, demandent à la Cour fédérale d’invalider l’Entente sur les tiers pays sûrs. Les audiences ont commencé lundi à Toronto devant la juge Mandy Aylen et devaient se poursuivre mardi et jeudi, rapporte Radio-Canada.",
-    "Le débat est limité à l’article 15 de la Charte, qui garantit le droit à l’égalité. Les demandeurs soutiennent que les femmes, les enfants et les personnes LGBTQ+ renvoyés aux États-Unis y subissent un préjudice plus grand, notamment en détention, et que le système américain ne reconnaît pas la persécution fondée sur le genre comme le fait le Canada. Les avocats du gouvernement devraient plaider que la cause est devenue théorique, les demandeurs ayant été renvoyés.",
-    "L’entente, en vigueur depuis 22 ans, a été étendue en mars 2023 à toute la frontière terrestre. La Cour suprême l’a jugée conforme à l’article 7 de la Charte en 2023, mais a renvoyé la question de l’article 15 à la Cour fédérale. Aucune date de décision n’est connue."
+    "Le décret 1403-2026, daté du 21 octobre, nomme Danièle Cantin sous-ministre du ministère de l’Enseignement supérieur « à compter du 22 octobre 2026, en remplacement de madame Paule De Blois ». Mme Cantin était jusque-là secrétaire du Conseil du trésor. Le même numéro publie une série d’autres nominations de sous-ministres faites dans la foulée de l’assermentation, dont celle de Julie Blackburn comme secrétaire du Conseil du trésor.",
+    "Le décret 1414-2026, du 28 octobre, désigne officiellement le ministère de l’Immigration, de la Francisation et de l’Intégration sous le nom de « ministère de l’Immigration et de l’Intégration ». Il confie à sa ministre les fonctions du ministre de la Langue française prévues par la Loi sur l’intégration à la nation québécoise, avec les effectifs, les programmes et les crédits qui s’y rattachent. Il remplace un premier décret pris le 21 octobre.",
+    "Pour le reste, la partie 2 de la Gazette est muette sur les dossiers suivis ici : ni le numéro du 4 novembre ni celui du 11 novembre ne contiennent de règlement ou de projet de règlement touchant la Loi sur l’enseignement privé, les cégeps, les étudiants étrangers ou l’immigration. Le seul projet de règlement du numéro du 11 novembre concerne la santé et la sécurité du travail."
    ],
-   "why": "Si l’entente tombait, les arrivées de demandeurs d’asile à la frontière terrestre du Québec changeraient d’échelle, avec les coûts que Québec réclame déjà à Ottawa.",
+   "why": "La sous-ministre est l’interlocutrice administrative de tout le réseau collégial, privé compris, et c’est sous sa signature que passeront les dossiers de permis. Le rattachement de la Loi sur l’intégration à la nation québécoise à l’Immigration précise aussi qui porte quoi entre Mme Gentilcore et M. Bérubé.",
    "facts": [
-    "Audiences les 9, 10 et 12 novembre à Toronto",
-    "Seul l’article 15 de la Charte est en jeu"
+    "Décret 1403-2026 : Danièle Cantin sous-ministre de l’Enseignement supérieur depuis le 22 octobre",
+    "Décret 1414-2026 : le MIFI devient le ministère de l’Immigration et de l’Intégration",
+    "Aucun règlement sur l’enseignement privé dans les numéros 44 et 45 de la partie 2"
    ],
    "opinion": false,
    "source": {
-    "name": "Radio-Canada",
-    "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs",
-    "date": "9 novembre 2026"
-   }
+    "name": "Gazette officielle du Québec, partie 2, no 45",
+    "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf",
+    "date": "11 novembre 2026"
+   },
+   "image": null
   },
   {
-   "id": "amendes-conseils-immigration",
-   "section": "droit",
-   "kicker": "Ottawa",
-   "suptitle": "Consultants non autorisés",
-   "title": "Conseils frauduleux en immigration : des amendes de 5 000 $ à 1,5 million sont en vigueur",
-   "standfirst": "Depuis le 28 octobre, quiconque conseille ou représente contre rémunération un candidat à l’immigration sans y être autorisé s’expose à des sanctions administratives fédérales.",
+   "id": "emploi-octobre-quebec",
+   "section": "chiffres",
+   "brief": "Emploi : le Québec a perdu 106 000 emplois en un an, et l’enseignement recule de 3 % au pays",
+   "kicker": "Statistique Canada",
+   "suptitle": "Enquête sur la population active, octobre",
+   "title": "Le Québec compte 106 000 emplois de moins qu’il y a un an; le chômage des jeunes atteint 13,7 % au pays",
+   "standfirst": "L’emploi s’est stabilisé en octobre au Québec après deux mois de pertes, et le taux de chômage y recule à 5,7 % parce que moins de gens cherchent du travail. Desjardins y voit l’effet du ralentissement démographique.",
    "body": [
-    "Le nouveau régime de sanctions d’Immigration, Réfugiés et Citoyenneté Canada est entré en vigueur le mercredi 28 octobre, rapporte La Presse canadienne. L’amende minimale est de 5 000 $ pour toute personne qui, contre rémunération, donne des conseils en immigration ou agit comme représentante sans autorisation. Seuls les avocats et les membres du Collège des consultants en immigration et en citoyenneté sont autorisés.",
-    "Le minimum passe à 15 000 $ pour quiconque donne sciemment des conseils « faux ou trompeurs ». Les amendes peuvent atteindre 1,5 million de dollars; elles sont plus élevées lorsqu’une demande a été approuvée sur la foi de renseignements faux, et en cas de récidive.",
-    "Un registre public des personnes sanctionnées doit être créé en 2027."
+    "L’emploi a été stable au Québec en octobre, après une baisse cumulative de 68 000 (−1,5 %) en août et en septembre, indique Statistique Canada. Sur un an, la province compte 106 000 emplois de moins (−2,3 %). Le taux de chômage y a diminué de 0,3 point pour s’établir à 5,7 %, « en raison d’une baisse du nombre de personnes à la recherche de travail »; il reste supérieur de 0,4 point à celui d’il y a un an.",
+    "À l’échelle du pays, l’emploi a peu varié et le taux de chômage a monté de 0,2 point, à 6,7 %. Celui des jeunes de 15 à 24 ans a bondi de 0,7 point, à 13,7 %. Les services d’enseignement ont regagné 15 000 emplois en octobre (+1,0 %), ce qui ne compense qu’en partie la perte de 35 000 enregistrée en septembre : sur douze mois, le secteur a perdu 48 000 emplois (−3,0 %).",
+    "Dans sa note du même jour, Desjardins relie la situation québécoise à la démographie. « La population âgée de 15 à 64 ans est maintenant en baisse d’environ 1 % sur un an », écrit l’économiste Sonny Scarfone, qui en tire une conséquence : « Avec une population en âge de travailler désormais en contraction, il faudra créer beaucoup moins d’emplois (voire à peine) qu’au cours des dernières années pour stabiliser le taux de chômage. » Le Québec compte 119 200 emplois de moins qu’au début de l’année, selon la note.",
+    "Le communiqué ne ventile pas les données selon le statut d’immigrant et ne dit rien des résidents non permanents."
    ],
-   "why": "Les « agents » qui conseillent des étudiants étrangers sur leurs permis contre rémunération, un rouage fréquent du recrutement dans les collèges privés, sont directement visés.",
+   "why": "La population en âge de travailler recule au Québec pendant que le gouvernement prépare un plan qui réduirait de moitié l’immigration temporaire : c’est la toile de fond économique du débat. Et le recul de 3 % de l’emploi en enseignement au pays donne une mesure de l’effet des plafonds sur les établissements.",
    "facts": [
-    "Minimum : 5 000 $; conseils sciemment trompeurs : 15 000 $",
-    "Maximum : 1,5 million de dollars",
-    "Registre public des sanctions prévu en 2027"
+    "Québec : emploi stable en octobre, −106 000 sur un an; chômage à 5,7 %",
+    "Canada : chômage à 6,7 %; 13,7 % chez les 15 à 24 ans",
+    "Services d’enseignement au Canada : −48 000 emplois en un an (−3,0 %)",
+    "Population de 15 à 64 ans au Québec : environ −1 % sur un an, selon Desjardins"
    ],
    "opinion": false,
    "source": {
-    "name": "Le Devoir / La Presse canadienne",
-    "url": "https://www.ledevoir.com/actualites/immigration/1020443/ottawa-instaure-nouvelles-amendes-visant-conseils-frauduleux-immigration",
-    "date": "28 octobre 2026"
-   }
+    "name": "Statistique Canada, Le Quotidien",
+    "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-fra.htm",
+    "date": "6 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Desjardins, Études économiques",
+     "url": "https://www.desjardins.com/fr/epargne-placements/etudes-economiques/quebec-emploi-6-novembre-2026.html"
+    }
+   ],
+   "image": null
   },
   {
    "id": "idq-montreal-talents",
    "section": "chiffres",
-   "brief": "L’Institut du Québec demande d’épargner les étudiants étrangers et les travailleurs très qualifiés",
    "kicker": "Institut du Québec",
    "suptitle": "Étude",
    "title": "Montréal a besoin de ses étudiants étrangers et de ses travailleurs très qualifiés, prévient l’Institut du Québec",
@@ -478,61 +608,6 @@
     "url": "https://www.ledevoir.com/economie/1023623/montreal-besoin-travailleurs-etrangers-qualifies-selon-etude",
     "date": "10 novembre 2026"
    }
-  },
-  {
-   "id": "sondage-environics-immigration",
-   "section": "chiffres",
-   "kicker": "Opinion publique",
-   "suptitle": "Sondage Environics",
-   "title": "« Trop d’immigration » ? Les Canadiens sont partagés à 48 %, et le Québec est la province la moins inquiète",
-   "standfirst": "Le sondage annuel de l’Institut Environics montre un recul de huit points en un an de la part des Canadiens qui jugent l’immigration trop élevée.",
-   "body": [
-    "Selon l’enquête annuelle de l’Institut Environics, publiée le 26 octobre, 48 % des Canadiens estiment qu’il y a trop d’immigration et 48 % sont en désaccord. La proportion était de 56 % en 2025 et de 58 % en 2024, un quasi-sommet, rapporte Le Devoir.",
-    "Le Québec affiche le taux le plus bas de toutes les provinces, à 43 %. L’Alberta est à 58 %, contre 67 % l’an dernier. Les trois quarts des répondants reconnaissent des effets économiques positifs à l’immigration, et 29 % croient que les immigrants prennent des emplois aux autres Canadiens, six points de moins qu’en 2025.",
-    "Les auteurs concluent que les Canadiens se montrent cette année « un peu moins préoccupés par le niveau global d’immigration ». L’article ne précise ni la taille de l’échantillon ni les dates de l’enquête."
-   ],
-   "why": "Un contrepoint sourcé à l’idée que l’opinion québécoise serait la plus restrictive du pays, publié trois semaines après une élection remportée par le parti qui promet les plus fortes baisses.",
-   "facts": [
-    "Canada : 48 % « trop d’immigration », contre 56 % en 2025",
-    "Québec : 43 %, le plus bas au pays"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "Le Devoir",
-    "url": "https://www.ledevoir.com/actualites/immigration/1020134/quebecois-sont-moins-inquiets-nombre-immigrants-canada-selon-etude",
-    "date": "27 octobre 2026"
-   }
-  },
-  {
-   "id": "enseignants-non-qualifies",
-   "section": "chiffres",
-   "kicker": "Éducation",
-   "suptitle": "Données d’accès à l’information",
-   "title": "Plus du tiers des enseignants du Québec ne sont pas légalement qualifiés",
-   "standfirst": "Ils étaient 45 754 en 2024-2025, selon des données du ministère obtenues par Le Devoir. Le ministère dit n’avoir aucun document sur les résultats de ses 58 programmes de formation accélérée.",
-   "body": [
-    "Le nombre d’enseignants non légalement qualifiés a atteint 45 754 en 2024-2025, en hausse de 2,7 % en un an, soit autour de 35 % du corps enseignant, selon des données du ministère de l’Éducation obtenues par Le Devoir grâce à une demande d’accès à l’information. Du nombre, 9 719 détenaient une tolérance d’engagement et 36 035 faisaient de la suppléance occasionnelle.",
-    "Depuis 2023, 58 programmes universitaires accélérés ont été ajoutés au Règlement sur les autorisations d’enseigner. Le ministère affirme toutefois ne détenir « aucun document » sur le nombre d’inscrits ni sur le nombre de diplômés qui ont obtenu une autorisation d’enseigner.",
-    "« On a demandé un état de la situation », a réagi le ministre de l’Éducation nationale, Joël Arseneau, qui croit que la situation s’est « vraisemblablement dégradée » ces dernières années. Les données ne distinguent pas le réseau public du réseau privé."
-   ],
-   "why": "Les autorisations d’enseigner sont aussi une condition des permis dans le réseau privé. Et l’absence de données sur les programmes accélérés est le genre de lacune que relèvera un vérificateur.",
-   "facts": [
-    "45 754 enseignants non légalement qualifiés en 2024-2025",
-    "9 719 tolérances d’engagement, 36 035 suppléants occasionnels",
-    "58 programmes accélérés depuis 2023, sans données de résultats"
-   ],
-   "opinion": false,
-   "source": {
-    "name": "Le Devoir",
-    "url": "https://www.ledevoir.com/actualites/education/1022012/plus-tiers-enseignants-quebecois-ne-sont-pas-legalement-qualifies",
-    "date": "4 novembre 2026"
-   },
-   "extra_sources": [
-    {
-     "name": "Le Devoir (réaction du ministre)",
-     "url": "https://www.ledevoir.com/politique/quebec/1022411/quebec-preoccupe-nombre-enseignants-non-legalement-qualifies"
-    }
-   ]
   }
  ],
  "dossiers": [
@@ -541,7 +616,7 @@
    "section": "colleges",
    "title": "Collège LaSalle : 48 millions de dollars dus à Québec, et aucune entente connue",
    "status": "nochange",
-   "update": "Rien de neuf dans les sources consultées. La dernière étape rapportée remonte au 3 septembre : la Cour supérieure a ordonné à Québec de reprendre le versement des subventions et fixé un retour devant le tribunal au 24 septembre. Nous n’avons trouvé aucun article rapportant l’issue de cette audience ni la position du nouveau gouvernement.",
+   "update": "Toujours rien de neuf, cette fois après une recherche élargie : ni La Presse, ni Le Devoir, ni Radio-Canada n’ont publié quoi que ce soit sur le dossier depuis le 3 septembre, et la chronologie que le Collège tient sur son propre site s’arrête à la reprise des cours, le 4 septembre. L’issue du retour en cour prévu le 24 septembre reste introuvable, tout comme la position du nouveau gouvernement. Seul élément connexe : le directeur général, Claude Marchand, siège au conseil de l’Association des collèges privés du Québec, dont le communiqué du 23 octobre ne mentionne pas le litige.",
    "background": [
     "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
     "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
@@ -589,7 +664,7 @@
    "section": "colleges",
    "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
    "status": "nochange",
-   "update": "Rien de neuf dans les sources consultées. Le Collège supérieur de Montréal et le Collège supérieur de Sherbrooke enseignent depuis le 28 juillet à la faveur d’une suspension accordée par le Tribunal administratif du Québec. Nous n’avons trouvé aucun article rapportant une décision sur le fond.",
+   "update": "Aucune décision sur le fond n’a été trouvée, et aucun média n’a traité du dossier depuis la fin de juillet. Le rôle public des audiences du Tribunal administratif du Québec, consulté le 10 novembre, n’affiche aucune audience au nom des deux collèges ni de leur dirigeant; ce rôle ne couvre toutefois que les trois prochaines semaines environ. Les deux établissements enseignent toujours à la faveur du sursis du 28 juillet.",
    "background": [
     "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
     "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
@@ -622,11 +697,11 @@
    "section": "etudiants",
    "title": "Étudiants étrangers : les plafonds et leurs effets",
    "status": "new",
-   "update": "Deux développements cette semaine. Le budget fédéral du 5 novembre maintient à 150 000 par année, jusqu’en 2029, le nombre de nouveaux étudiants étrangers, et constate une baisse de 71 % des arrivées entre janvier et août 2026 par rapport à 2024. Mardi, le président de l’Université du Québec a chiffré à 50 % en deux ans la baisse des nouvelles inscriptions internationales dans son réseau, et la Fédération des cégeps a fait état de 2 337 demandes complètes dans les 32 cégeps du SRAM, contre 11 274 en 2024.",
+   "update": "Le secteur réagit au plan fédéral : le Bureau canadien de l’éducation internationale dit être « loin » d’atteindre la cible de 150 000 nouveaux étudiants par année, et le pays en comptait un peu moins de 700 000 à la fin de 2025, contre plus d’un million deux ans plus tôt. Au Québec, le président de l’UQ a chiffré mardi à 50 % la baisse des nouvelles inscriptions internationales dans son réseau, et les cégeps du SRAM sont passés de 11 274 à 2 337 demandes complètes. Prochaine échéance : la deuxième période du décret québécois sur les plafonds par établissement commence le 17 décembre; le nouveau gouvernement n’a rien annoncé à ce sujet.",
    "background": [
     "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
     "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
-    "À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour les quotas par établissement."
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
    ],
    "timeline": [
     {
@@ -635,9 +710,19 @@
      "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
     },
     {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
      "date": "5 nov. 2026",
      "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
      "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
     },
     {
      "date": "10 nov. 2026",
@@ -655,7 +740,7 @@
    "section": "immqc",
    "title": "Immigration : le premier plan du gouvernement péquiste",
    "status": "new",
-   "update": "Le plan n’est pas encore déposé; la ministre Catherine Gentilcore l’a promis pour la fin de novembre. D’ici là, Ottawa vient de placer deux décisions devant Québec : demander ou non le relèvement à 15 % du plafond de travailleurs temporaires à bas salaire (offre du 9 novembre), et participer au choix des 100 000 travailleurs que le fédéral régularisera en 2027. Le 7 novembre, la ministre a aussi réagi aux accusations portées contre une ex-coordonnatrice du PEQ.",
+   "update": "Québec hausse le ton avant de déposer son propre plan. Mardi, la ministre Catherine Gentilcore a dénoncé « le plus grand contingent migratoire de l’histoire du Canada » et une « hausse cachée » de l’immigration permanente; le premier ministre en parlera à Mark Carney au Sommet de la Francophonie. Précision tirée des documents fédéraux : le volet « travailleurs » de la régularisation de 2027 vise les travailleurs établis hors Québec, et la cible fédérale pour les travailleurs qualifiés du Québec est « à déterminer » jusqu’au dépôt du plan québécois, toujours attendu à la fin de novembre. Reste devant Québec la décision de demander ou non le relèvement à 15 % du plafond de travailleurs temporaires à bas salaire.",
    "background": [
     "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
     "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
@@ -678,6 +763,11 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
     },
     {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
      "date": "4 nov. 2026",
      "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
      "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
@@ -696,6 +786,11 @@
      "date": "9 nov. 2026",
      "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
      "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
     }
    ]
   }
@@ -712,21 +807,6 @@
    "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
   },
   {
-   "title": "Poilievre accuse le gouvernement Carney de falsifier les chiffres sur l’immigration",
-   "outlet": "La Presse canadienne",
-   "url": "https://www.lapresse.ca/actualites/politique/2026-11-06/poilievre-accuse-le-gouvernement-carney-de-falsifier-les-chiffres-sur-l-immigration.php"
-  },
-  {
-   "title": "Carney says new immigration levels plan is 'sustainable' as it draws ire of Conservatives",
-   "outlet": "CBC News",
-   "url": "https://www.cbc.ca/news/politics/carney-poilievre-budget-immigration-9.7412572"
-  },
-  {
-   "title": "Plan de Inmigración 2027-2029: metas estables y medidas para quienes están en Canadá",
-   "outlet": "Radio-Canada International",
-   "url": "https://ici.radio-canada.ca/rci/es/noticia/2298999/plan-de-inmigracion-2027-2029-metas-estables-y-medidas-para-quienes-estan-en-canada"
-  },
-  {
    "title": "Ottawa assouplit certaines règles relatives aux travailleurs étrangers temporaires",
    "outlet": "Le Devoir / La Presse canadienne",
    "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
@@ -735,11 +815,6 @@
    "title": "151 millions de dollars pour améliorer le Programme des travailleurs étrangers temporaires",
    "outlet": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/article/info/2299508/reforme-ciblee-ptet-besoin-main-d-oeuvre"
-  },
-  {
-   "title": "Ottawa mise sur le parrainage privé des réfugiés dans son plan sur l’immigration",
-   "outlet": "La Presse canadienne",
-   "url": "https://www.lapresse.ca/actualites/national/2026-11-10/ottawa-mise-sur-le-parrainage-prive-des-refugies-dans-son-plan-sur-l-immigration.php"
   },
   {
    "title": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
@@ -752,16 +827,6 @@
    "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
   },
   {
-   "title": "Plusieurs revendications de Québec absentes du budget fédéral, déplore Marceau",
-   "outlet": "Le Devoir / La Presse canadienne",
-   "url": "https://www.ledevoir.com/politique/quebec/1022897/plusieurs-revendications-quebec-absentes-budget-federal-deplore-marceau"
-  },
-  {
-   "title": "Le premier tête-à-tête entre PSPP et Mark Carney aura lieu… au Cambodge",
-   "outlet": "Le Devoir",
-   "url": "https://www.ledevoir.com/politique/quebec/1022609/premier-tete-tete-entre-premiers-ministres-canadien-quebecois-aura-lieu-cambodge"
-  },
-  {
    "title": "Des étudiants en grève veulent du concret, et maintenant",
    "outlet": "Radio-Canada",
    "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education"
@@ -770,11 +835,6 @@
    "title": "Mobilisation contre l’austérité et la précarité | Des dizaines de milliers d’étudiants en grève cette semaine",
    "outlet": "La Presse",
    "url": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php"
-  },
-  {
-   "title": "Liberté académique | Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-   "outlet": "La Presse",
-   "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
   },
   {
    "title": "À cause de leur voile | Des étudiantes privées de stage dans un domaine en pénurie de personnel",
@@ -797,34 +857,9 @@
    "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
   },
   {
-   "title": "Nouveau recours judiciaire au Canada contre l’entente sur les tiers pays sûrs",
-   "outlet": "Radio-Canada",
-   "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs"
-  },
-  {
-   "title": "Ottawa instaure de nouvelles amendes visant les conseils frauduleux en immigration",
-   "outlet": "Le Devoir / La Presse canadienne",
-   "url": "https://www.ledevoir.com/actualites/immigration/1020443/ottawa-instaure-nouvelles-amendes-visant-conseils-frauduleux-immigration"
-  },
-  {
    "title": "Montréal a besoin de ses travailleurs étrangers qualifiés, selon une étude",
    "outlet": "Le Devoir",
    "url": "https://www.ledevoir.com/economie/1023623/montreal-besoin-travailleurs-etrangers-qualifies-selon-etude"
-  },
-  {
-   "title": "Les Québécois sont les moins inquiets du nombre d’immigrants au Canada, selon une étude",
-   "outlet": "Le Devoir",
-   "url": "https://www.ledevoir.com/actualites/immigration/1020134/quebecois-sont-moins-inquiets-nombre-immigrants-canada-selon-etude"
-  },
-  {
-   "title": "Plus du tiers des enseignants québécois ne sont pas légalement qualifiés",
-   "outlet": "Le Devoir",
-   "url": "https://www.ledevoir.com/actualites/education/1022012/plus-tiers-enseignants-quebecois-ne-sont-pas-legalement-qualifies"
-  },
-  {
-   "title": "Québec se dit préoccupé par le nombre d’enseignants non légalement qualifiés",
-   "outlet": "Le Devoir",
-   "url": "https://www.ledevoir.com/politique/quebec/1022411/quebec-preoccupe-nombre-enseignants-non-legalement-qualifies"
   },
   {
    "title": "« Cessez d’expulser ceux qui travaillent déjà chez nous », lance le PDG de Canam",
@@ -880,6 +915,126 @@
    "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
    "outlet": "CBC News / The Canadian Press",
    "url": "https://www.cbc.ca/news/canada/toronto/osap-ip-address-9.7405730"
+  },
+  {
+   "title": "Le fil politique du 10 novembre : Immigration : des « seuils insoutenables », dénonce Québec",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+  },
+  {
+   "title": "Le plan libéral en matière d’immigration repose sur la prévisibilité du système",
+   "outlet": "La Presse canadienne / L’actualité",
+   "url": "https://lactualite.com/actualites/le-plan-liberal-en-matiere-dimmigration-repose-sur-la-previsibilite-du-systeme"
+  },
+  {
+   "title": "Renseignements supplémentaires sur le Plan des niveaux d’immigration 2027-2029",
+   "outlet": "Immigration, Réfugiés et Citoyenneté Canada",
+   "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/systeme-immigration/niveaux/renseignements-supplementaires-niveaux-immigration-2027-2029.html"
+  },
+  {
+   "title": "Time-limited measures for people already in Canada",
+   "outlet": "Immigration, Réfugiés et Citoyenneté Canada",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/immigration-system/measures.html"
+  },
+  {
+   "title": "Canada takes action to efficiently process existing permanent residence applications for Ukrainians and Hong Kongers",
+   "outlet": "Immigration, Réfugiés et Citoyenneté Canada",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-takes-action-to-efficiently-process-existing-permanent-residence-applications-for-ukrainians-and-hong-kongers.html"
+  },
+  {
+   "title": "Budget 2026, chapter 3: Building a more responsive and resilient immigration system",
+   "outlet": "Ministère des Finances Canada",
+   "url": "https://budget.canada.ca/2026/report-rapport/chap3-en.html"
+  },
+  {
+   "title": "2026 Annual Report to Parliament on Immigration",
+   "outlet": "Immigration, Réfugiés et Citoyenneté Canada",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/annual-report-parliament-immigration-2026.html"
+  },
+  {
+   "title": "Les partis de l’opposition disent non à la loi 101 au cégep",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
+  },
+  {
+   "title": "Faire l’autruche",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/chroniques/1023629/faire-autruche"
+  },
+  {
+   "title": "Nouveau Conseil des ministres : l’ACPQ offre sa pleine collaboration au gouvernement du Québec",
+   "outlet": "ACPQ",
+   "url": "https://www.acpq.net/blog/nouveau-conseil-des-ministres--lacpq-offre-sa-pleine-collaboration-au-gouvernement-du-quebec"
+  },
+  {
+   "title": "Luc Thifault élu à la présidence de l’Association des collèges privés du Québec",
+   "outlet": "ACPQ",
+   "url": "https://www.acpq.net/blog/luc-thifault-elu-a-la-presidence-de-lassociation-des-colleges-prives-du-quebec"
+  },
+  {
+   "title": "La ministre Lefebvre en faveur d’un nouveau programme de médecine",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-10/universite-du-quebec/la-ministre-lefebvre-en-faveur-d-un-nouveau-programme-de-medecine.php"
+  },
+  {
+   "title": "L’Université du Québec fait un pas de plus pour créer son propre programme",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-10/medecine/l-universite-du-quebec-fait-un-pas-de-plus-pour-creer-son-propre-programme.php"
+  },
+  {
+   "title": "L’Université du Québec compte former des médecins en 2031 et doubler ses chambres étudiantes",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/education/1024010/universite-quebec-compte-former-medecins-2031-doubler-chambres-etudiantes"
+  },
+  {
+   "title": "Des étudiants se mobilisent pour demander la rémunération des stages",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/societe/1023833/etudiants-mobilisent-demander-remuneration-stages"
+  },
+  {
+   "title": "Canada extends 150,000 international student arrivals target to 2029",
+   "outlet": "The PIE News",
+   "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+  },
+  {
+   "title": "Canada cuts, NZ grows as Australia and US rethink international education",
+   "outlet": "The PIE News",
+   "url": "https://thepienews.com/canada-cuts-nz-grows-as-australia-and-us-rethink-international-education/"
+  },
+  {
+   "title": "Budget 2026 provides small investment in post-secondary sector",
+   "outlet": "Affaires universitaires",
+   "url": "https://universityaffairs.ca/news/budget-2026-provides-small-investment-in-post-secondary-sector/"
+  },
+  {
+   "title": "Règlement modifiant le Règlement sur l’immigration et la protection des réfugiés : DORS/2026-218",
+   "outlet": "Gazette du Canada, Partie II",
+   "url": "https://www.gazette.gc.ca/rp-pr/p2/2026/2026-11-04/html/sor-dors218-fra.html"
+  },
+  {
+   "title": "Décret fixant au 3 novembre 2026 la date d’entrée en vigueur de certaines dispositions : TR/2026-59",
+   "outlet": "Gazette du Canada, Partie II",
+   "url": "https://www.gazette.gc.ca/rp-pr/p2/2026/2026-11-04/html/si-tr59-fra.html"
+  },
+  {
+   "title": "Gazette officielle du Québec, partie 2, 11 novembre 2026, no 45",
+   "outlet": "Éditeur officiel du Québec",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+  },
+  {
+   "title": "Enquête sur la population active, octobre 2026",
+   "outlet": "Statistique Canada",
+   "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-fra.htm"
+  },
+  {
+   "title": "Québec : un peu de répit pour l’emploi en octobre, mais à peine",
+   "outlet": "Desjardins",
+   "url": "https://www.desjardins.com/fr/epargne-placements/etudes-economiques/quebec-emploi-6-novembre-2026.html"
+  },
+  {
+   "title": "Entrée en vigueur de la gestion des demandes à recevoir au Programme des étudiants étrangers pour les deux prochaines années",
+   "outlet": "Gouvernement du Québec",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
   }
  ]
 }
