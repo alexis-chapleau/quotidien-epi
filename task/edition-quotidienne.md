@@ -82,9 +82,11 @@ and add new ones as you find them.
   Use WebSearch with French and English queries and include the current month and year. Focus on
   the last 24 to 72 hours; up to 7 days for slow sections and on Mondays.
 - Use WebFetch to read every story you include: the body must come from the article you actually
-  read. Some sites cannot be read from this environment (the network allowlist is short): when a
-  page cannot be fetched, find the same news at an outlet that can be read; never write a story
-  from a search snippet alone. Note unreadable sites in state.md so the next run does not retry.
+  read. When a page cannot be fetched (paywall, refusal), find the same news at an outlet that can
+  be read; never write a story from a search snippet alone, and never disguise the request to get
+  past a refusal. Note unreadable sites in state.md so the next run does not retry.
+- Go to the primary document whenever one exists (a release, a bill, a decree, a judgment, a
+  statistical table) and link it in "extra_sources" next to the news article.
 - Good sources: Radio-Canada, La Presse, Le Devoir, Le Soleil, Le Journal de Montréal and de
   Québec, TVA Nouvelles, La Presse canadienne, CBC, The Globe and Mail, Toronto Star, CTV, Global,
   Montreal Gazette; trade press (The PIE News, ICEF Monitor, University Affairs, CIC News);
