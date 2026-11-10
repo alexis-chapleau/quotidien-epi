@@ -1,0 +1,7 @@
+// Cloudflare: serve the site/ folder as static files. No build step.
+// Cloudflare reads this when the repository is connected (Workers & Pages > Create > Import a repository).
+{
+  "name": "quotidien-epi",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./site" }
+}

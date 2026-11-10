@@ -1,0 +1,885 @@
+{
+ "date": "2026-11-10",
+ "date_long": "mardi 10 novembre 2026",
+ "issue": 1,
+ "generated_at": "17 h 55",
+ "quote": {
+  "text": "Les étudiants internationaux ne sont pas des immigrants. C’est un projet d’études, un projet de carrière, un projet de vie, alors il faut apporter les distinctions nécessaires.",
+  "speaker": "Alexandre Cloutier",
+  "context": "président de l’Université du Québec, devant la Chambre de commerce du Montréal métropolitain",
+  "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+ },
+ "number": {
+  "value": "2 337",
+  "text": "Demandes d’admission complètes d’étudiants étrangers cette année dans les 32 cégeps du SRAM. Il y en avait 11 274 en 2024.",
+  "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+ },
+ "agenda": [
+  {
+   "date": "12 nov.",
+   "text": "Cour fédérale, Toronto : suite des audiences sur l’Entente sur les tiers pays sûrs",
+   "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs"
+  },
+  {
+   "date": "13 nov.",
+   "text": "Manifestation de la CRUES au centre-ville de Montréal, dernier jour de la semaine de grève étudiante",
+   "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education"
+  },
+  {
+   "date": "21 nov.",
+   "text": "Congrès de la CRUES : position sur une grève générale illimitée",
+   "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education"
+  },
+  {
+   "date": "Fin nov.",
+   "text": "Planification pluriannuelle de l’immigration promise par la ministre Gentilcore",
+   "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec; les travaux se terminent le 11 décembre",
+   "url": "https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec"
+  },
+  {
+   "date": "10 déc.",
+   "text": "Comparution à Montréal de l’ex-fonctionnaire accusée d’avoir délivré de faux CSQ",
+   "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+  }
+ ],
+ "stories": [
+  {
+   "id": "uq-etudiants-internationaux",
+   "section": "etudiants",
+   "lead": true,
+   "brief": "Demandes d’étudiants étrangers dans les cégeps du SRAM : de 11 274 à 2 337 en deux ans",
+   "kicker": "Montréal",
+   "suptitle": "Discours devant la Chambre de commerce",
+   "title": "« Les étudiants internationaux ne sont pas des immigrants » : le réseau de l’UQ chiffre la chute à 50 %",
+   "standfirst": "Le président de l’Université du Québec, Alexandre Cloutier, demande qu’on cesse de traiter les étudiants étrangers comme un enjeu d’immigration. Du côté des cégeps, les demandes d’admission ont fondu de près de 80 % en deux ans.",
+   "body": [
+    "Invité mardi à la tribune de la Chambre de commerce du Montréal métropolitain, au Palais des congrès, le président de l’Université du Québec (UQ), Alexandre Cloutier, a soutenu que le Québec fait fausse route en abordant la question des étudiants internationaux « sous l’angle de l’immigration ». Sa phrase a été interrompue par les applaudissements d’une salle composée de gens d’affaires, de recteurs et de doyens, rapporte La Presse.",
+    "M. Cloutier a donné un ordre de grandeur : dans les établissements du réseau de l’UQ, le nombre de nouvelles inscriptions d’étudiants internationaux a reculé de 50 % en deux ans, et leur présence « ne cesse de décroître ». Il dit mal s’expliquer que les gouvernements resserrent les règles d’un côté pendant qu’on dépense de l’autre pour faire connaître le Québec à l’étranger. À ses yeux, une perte d’attractivité privera le Québec des « meilleurs cerveaux », au détriment de la recherche et de l’innovation.",
+    "Présente dans la salle, la présidente-directrice générale de la Fédération des cégeps, Marie Montpetit, a fourni à La Presse le chiffre le plus net de la journée : dans les 32 cégeps dont les admissions passent par le Service régional d’admission du Montréal métropolitain (SRAM), les demandes complètes d’étudiants étrangers sont passées de 11 274 en 2024 à 2 337 cette année. Elle avait déjà sonné l’alarme à la rentrée collégiale.",
+    "Ces chiffres arrivent cinq jours après un budget fédéral qui maintient à 150 000 par année, jusqu’en 2029, le nombre de nouveaux étudiants étrangers admis au pays, et qui constate lui-même une baisse de 71 % des nouveaux étudiants internationaux entre janvier et août 2026 par rapport à la même période de 2024. À Québec, la planification pluriannuelle de l’immigration promise pour la fin de novembre sera la première occasion, pour le nouveau gouvernement, de dire s’il touche aux plafonds par établissement."
+   ],
+   "why": "Les données du SRAM ne couvrent pas les collèges privés, mais ceux-ci puisent dans le même bassin. Et l’argument « ce ne sont pas des immigrants » est désormais porté publiquement par les deux grands réseaux publics, à trois semaines du plan d’immigration du Québec.",
+   "facts": [
+    "Réseau de l’UQ : nouvelles inscriptions internationales en baisse de 50 % en deux ans",
+    "32 cégeps du SRAM : 11 274 demandes complètes en 2024, 2 337 cette année",
+    "Budget fédéral : 150 000 nouveaux étudiants étrangers par année jusqu’en 2029",
+    "Ces chiffres sont des déclarations de dirigeants, sans rapport publié à l’appui"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Le Devoir (budget fédéral)",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    }
+   ]
+  },
+  {
+   "id": "plan-niveaux-2027-2029",
+   "section": "immca",
+   "featured": true,
+   "brief": "Ottawa maintient 380 000 résidents permanents par an et en régularise 200 000 de plus en 2027",
+   "kicker": "Ottawa",
+   "suptitle": "Plan des niveaux 2027-2029",
+   "title": "Ottawa gèle ses cibles d’immigration jusqu’en 2029, mais accordera la résidence à 200 000 personnes déjà au pays",
+   "standfirst": "Présenté dans le budget du 5 novembre, le plan maintient 380 000 résidents permanents et 370 000 résidents temporaires par année, dont 150 000 étudiants. Une mesure ponctuelle porte toutefois le total de 2027 à près de 660 000 résidences permanentes.",
+   "body": [
+    "Pour la deuxième année de suite, le plan fédéral des niveaux d’immigration a été intégré au budget, déposé le jeudi 5 novembre par le ministre des Finances, François-Philippe Champagne. Les cibles ne bougent pas : 380 000 résidents permanents et 370 000 nouveaux résidents temporaires pour chacune des années 2027, 2028 et 2029. Du côté temporaire, Ottawa prévoit 220 000 travailleurs et 150 000 étudiants étrangers par année. « Nous avons repris le contrôle de l’immigration », écrit le gouvernement dans le budget, cité par Le Devoir.",
+    "La nouveauté est ailleurs. En plus des cibles, Ottawa accordera d’ici la fin de 2027 la résidence permanente à 200 000 résidents temporaires déjà établis au pays : 100 000 travailleurs ayant déjà déposé une demande, choisis avec les provinces et les territoires, et 100 000 personnes issues des volets humanitaires et familiaux, dont environ 32 000 Hongkongais et près de 19 000 Ukrainiens. La mesure est assortie de 302 millions de dollars sur quatre ans. En ajoutant le reliquat d’une initiative annoncée l’an dernier, CBC arrive à 657 250 résidences permanentes en 2027.",
+    "Le chef conservateur, Pierre Poilievre, parle d’un record : « Monsieur Carney prévoit 650 000 résidents permanents l’année prochaine. […] C’est 200 000 plus que Justin Trudeau », a-t-il lancé vendredi à Brampton. Le premier ministre Mark Carney répond qu’il s’agit de « reconnaître la réalité » de gens qui travaillent ici depuis des années. La ministre de l’Immigration, Lena Diab, a refusé les demandes d’entrevue et n’a pas répondu aux questions après le dépôt. Son rapport complet est attendu « sous peu », selon Le Devoir.",
+    "Selon la ventilation publiée par Radio-Canada International, l’immigration économique compte pour 244 700 admissions par année, le regroupement familial pour 81 000 et les réfugiés et personnes protégées pour 49 300. Au Québec, qui sélectionne lui-même son immigration économique, « tout indique » que le statu quo se maintiendra, estime Yves Martineau, de l’Association québécoise des avocats et avocates en droit de l’immigration."
+   ],
+   "why": "Le plafond fédéral de 150 000 nouveaux étudiants étrangers par année est maintenant fixé jusqu’en 2029 : c’est le cadre dans lequel évolueront les collèges, privés compris. Et les 100 000 travailleurs régularisés seront choisis avec les provinces.",
+   "facts": [
+    "380 000 résidents permanents par année en 2027, 2028 et 2029",
+    "370 000 résidents temporaires : 220 000 travailleurs, 150 000 étudiants",
+    "Mesure ponctuelle : 200 000 résidences permanentes d’ici la fin de 2027, 302 M$ sur quatre ans",
+    "Le rapport détaillé de la ministre Diab reste à venir"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau",
+    "date": "5 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "La Presse canadienne",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-06/poilievre-accuse-le-gouvernement-carney-de-falsifier-les-chiffres-sur-l-immigration.php"
+    },
+    {
+     "name": "CBC News",
+     "url": "https://www.cbc.ca/news/politics/carney-poilievre-budget-immigration-9.7412572"
+    },
+    {
+     "name": "Radio-Canada International",
+     "url": "https://ici.radio-canada.ca/rci/es/noticia/2298999/plan-de-inmigracion-2027-2029-metas-estables-y-medidas-para-quienes-estan-en-canada"
+    }
+   ]
+  },
+  {
+   "id": "travailleurs-temporaires-15-pour-cent",
+   "section": "immca",
+   "kicker": "Ottawa",
+   "suptitle": "Travailleurs étrangers temporaires",
+   "title": "Ottawa assouplit le programme et offre aux provinces de porter le plafond à 15 %",
+   "standfirst": "La durée des études d’impact pour les postes à bas salaire passe d’un an à deux ans. À compter du 1er mars 2027, les provinces qui le veulent pourraient relever la part de travailleurs temporaires permise par entreprise.",
+   "body": [
+    "Le gouvernement fédéral a prolongé d’un an à deux ans la durée de validité maximale des études d’impact sur le marché du travail (EIMT) pour les postes à bas salaire, rapporte La Presse canadienne. Selon Radio-Canada, les changements sont entrés en vigueur le 6 novembre et s’accompagnent de 151 millions de dollars sur cinq ans pour le programme. Le gel de l’embauche dans les régions métropolitaines où le chômage dépasse 6 % demeure, mais les éducatrices à la petite enfance s’ajoutent aux professions exemptées.",
+    "Un deuxième volet est seulement proposé, pour le 1er mars 2027, et exige l’accord des provinces et des territoires : ceux-ci pourraient ajouter ou retirer eux-mêmes des professions de la liste d’exemptions, et autoriser les employeurs à faire passer de 10 % à 15 % la proportion de travailleurs temporaires à bas salaire dans leur effectif.",
+    "« Ce sera aux provinces et aux territoires de se prononcer. Il s’agit là encore d’un partenariat », a dit la ministre fédérale de l’Immigration, Lena Diab. Lundi, en Nouvelle-Écosse, elle a aussi annoncé que le programme pilote d’immigration dans les communautés rurales devient permanent.",
+    "La balle est donc dans le camp de Québec. Le gouvernement péquiste, élu en promettant de réduire de moitié l’immigration temporaire en quatre ans, n’a pas encore dit s’il demandera le relèvement à 15 %; on y attend les détails, selon Radio-Canada."
+   ],
+   "why": "C’est le premier levier concret qu’Ottawa remet aux provinces en matière d’immigration temporaire. La réponse du Québec indiquera comment le nouveau gouvernement entend traiter l’ensemble des catégories temporaires, étudiants compris.",
+   "facts": [
+    "EIMT à bas salaire : validité de deux ans au lieu d’un",
+    "151 M$ sur cinq ans",
+    "Proposé pour le 1er mars 2027 : plafond de 10 % à 15 %, au choix des provinces"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir / La Presse canadienne",
+    "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires",
+    "date": "9 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/article/info/2299508/reforme-ciblee-ptet-besoin-main-d-oeuvre"
+    }
+   ]
+  },
+  {
+   "id": "refugies-parrainage-prive",
+   "section": "immca",
+   "kicker": "Ottawa",
+   "suptitle": "Réfugiés",
+   "title": "Plus de réfugiés parrainés par le privé, moins par l’État",
+   "standfirst": "Le plan fédéral garde le même total de réfugiés, mais en déplace une partie vers les groupes de parrainage. Le Conseil canadien pour les réfugiés y voit un désengagement de l’État.",
+   "body": [
+    "Le plan des niveaux prévoit qu’environ 29 000 réfugiés et 20 000 personnes protégées et membres de leur famille obtiendront la résidence permanente chaque année jusqu’en 2029, un total semblable à celui de l’an dernier. À l’intérieur de ce total, les admissions de réfugiés parrainés par le secteur privé passeront de 16 000 à 17 500, tandis que celles des réfugiés pris en charge par l’État baisseront à un peu moins de 12 000, contre plus de 13 000 en 2025, rapporte La Presse canadienne.",
+    "Le groupe de réflexion Cardus, qui avait écrit en septembre à la ministre Lena Diab pour demander ce changement, s’en réjouit : les réfugiés parrainés par des groupes religieux ou communautaires s’intégreraient mieux, selon son directeur de programme, Renze Nauta.",
+    "« Le gouvernement a l’obligation, tant sur le plan moral qu’au regard du droit international, de réinstaller les réfugiés », réplique Lauren Lallemand, codirectrice générale du Conseil canadien pour les réfugiés. Elle juge « très inquiétant » que le gouvernement présente la baisse du nombre de demandeurs d’asile comme une preuve de maîtrise du système, alors que le taux d’acceptation des demandes dépasse 70 %."
+   ],
+   "why": "Un détail du plan qui déplace des coûts d’accueil vers les organismes communautaires, y compris au Québec.",
+   "facts": [
+    "Parrainage privé : de 16 000 à 17 500 admissions",
+    "Réfugiés pris en charge par l’État : un peu moins de 12 000"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse canadienne",
+    "url": "https://www.lapresse.ca/actualites/national/2026-11-10/ottawa-mise-sur-le-parrainage-prive-des-refugies-dans-son-plan-sur-l-immigration.php",
+    "date": "10 novembre 2026"
+   }
+  },
+  {
+   "id": "fraude-csq-peq",
+   "section": "immqc",
+   "brief": "Faux CSQ : une ex-coordonnatrice du PEQ accusée, la ministre Gentilcore « très choquée »",
+   "kicker": "Québec",
+   "suptitle": "Enquête de l’UPAC",
+   "title": "Une ex-fonctionnaire de l’Immigration accusée d’avoir délivré une centaine de faux certificats de sélection",
+   "standfirst": "L’ancienne coordonnatrice par intérim du Programme de l’expérience québécoise fait face à des accusations d’abus de confiance et de fabrication de faux. La ministre veut savoir s’il s’agit d’un cas isolé.",
+   "body": [
+    "Selon l’enquête du Commissaire à la lutte contre la corruption, Marilena Ida, ex-employée du ministère de l’Immigration, aurait délivré frauduleusement plus de cent certificats de sélection du Québec (CSQ) à des candidats qui ne remplissaient pas les critères. Les gestes reprochés auraient été commis entre août 2016 et février 2019, alors qu’elle était coordonnatrice par intérim du Programme de l’expérience québécoise (PEQ), rapporte Radio-Canada.",
+    "Elle est accusée d’abus de confiance et de fabrication de faux documents, et doit comparaître à Montréal le 10 décembre. Elle ne travaille plus au ministère depuis 2019, selon le cabinet de la ministre. Les accusations n’ont pas été prouvées devant un tribunal.",
+    "La ministre de l’Immigration et de l’Intégration, Catherine Gentilcore, s’est dite « très choquée » par ces révélations. « Cette situation ébranle ma confiance, et je m’attends à ce que toute la lumière soit faite », a-t-elle déclaré. Elle souhaite vérifier s’il s’agit d’un cas isolé et parle d’implanter des processus qui assurent l’intégrité des programmes, sans annoncer de mesure précise."
+   ],
+   "why": "Le CSQ est la pièce qui ouvre la porte à la résidence permanente. L’affaire risque de resserrer les contrôles documentaires dans tout le parcours des diplômés étrangers, au moment où le gouvernement doit clarifier le sort du PEQ.",
+   "facts": [
+    "Plus de cent CSQ visés, entre août 2016 et février 2019",
+    "Accusations : abus de confiance et fabrication de faux documents",
+    "Comparution le 10 décembre 2026 à Montréal"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
+    "date": "7 novembre 2026"
+   }
+  },
+  {
+   "id": "asile-690-millions",
+   "section": "immqc",
+   "kicker": "Québec–Ottawa",
+   "suptitle": "Demandeurs d’asile",
+   "title": "Les 690 millions réclamés par Québec pour l’accueil des demandeurs d’asile sont absents du budget fédéral",
+   "standfirst": "Québec dit avoir dépensé 733 millions de dollars en 2024 pour les services aux demandeurs d’asile et n’en avoir récupéré que 43 millions. Le budget Champagne ne prévoit aucun remboursement.",
+   "body": [
+    "Avant le dépôt du budget fédéral, le ministre des Finances du Québec, Nicolas Marceau, avait chiffré la demande : Québec affirme avoir consacré 733 millions de dollars en 2024 aux services offerts aux demandeurs d’asile, dont 43,1 millions ont été remboursés. Il réclame le solde, environ 690 millions, d’ici le 31 mars 2027, ainsi qu’un mécanisme permanent de compensation, rapporte Radio-Canada.",
+    "Le budget déposé le 5 novembre n’y répond pas. M. Marceau a déploré que plusieurs revendications du Québec en soient absentes, selon La Presse canadienne. Il a aussi indiqué que sa mise à jour économique et financière viendrait « dans les prochaines semaines ».",
+    "Le premier tête-à-tête entre Mark Carney et Paul St-Pierre Plamondon est prévu en marge du Sommet de la Francophonie, du 14 au 16 novembre."
+   ],
+   "why": "C’est le principal litige financier Québec–Ottawa en immigration, et il pèsera sur la mise à jour économique qui fixera les marges de tous les ministères.",
+   "facts": [
+    "733 M$ dépensés en 2024 selon Québec, 43,1 M$ remboursés",
+    "Échéance fixée par Québec : 31 mars 2027"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile",
+    "date": "4 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Le Devoir / La Presse canadienne",
+     "url": "https://www.ledevoir.com/politique/quebec/1022897/plusieurs-revendications-quebec-absentes-budget-federal-deplore-marceau"
+    },
+    {
+     "name": "Le Devoir (rencontre Carney–St-Pierre Plamondon)",
+     "url": "https://www.ledevoir.com/politique/quebec/1022609/premier-tete-tete-entre-premiers-ministres-canadien-quebecois-aura-lieu-cambodge"
+    }
+   ]
+  },
+  {
+   "id": "greve-etudiante-novembre",
+   "section": "superieur",
+   "brief": "Près de 75 000 étudiants en grève cette semaine; la ministre Lefebvre répond par écrit",
+   "kicker": "Cégeps et universités",
+   "suptitle": "Premier test pour la ministre Lefebvre",
+   "title": "Près de 75 000 étudiants en grève : « du concret, et maintenant »",
+   "standfirst": "Des associations de six cégeps et de six universités boycottent les cours jusqu’à vendredi pour dénoncer la précarité étudiante. La nouvelle ministre de l’Enseignement supérieur n’a pas encore accordé d’entrevue.",
+   "body": [
+    "Près de 75 000 étudiants des cégeps et des universités sont en grève cette semaine à l’appel de la Coalition de résistance pour l’unité étudiante syndicale (CRUES), une jeune organisation qui se présente comme un syndicat combatif. Le mouvement reste marginal à l’échelle des quelque 500 000 étudiants québécois, note Radio-Canada, mais il déborde la CRUES : sur les 41 associations qui ont voté un mandat de grève, 31 n’en sont pas membres, et l’Union étudiante du Québec (UEQ) appuie la mobilisation.",
+    "La CRUES réclame une réforme plus généreuse de l’aide financière aux études, un réinvestissement dans les établissements, notamment dans les bâtiments, et des résidences abordables. L’UEQ met de l’avant la rémunération des stages dans le secteur public. « On voit de l’austérité partout », dit Sophie Bouchard, responsable des affaires internes de la CRUES.",
+    "La ministre de l’Enseignement supérieur, Elsie Lefebvre, qui est aussi responsable de l’Habitation et de la Condition féminine, n’a pas accordé d’entrevue. Son équipe a répondu par écrit qu’elle est sensible aux préoccupations du mouvement et souhaite poursuivre le dialogue, en rappelant les engagements du Parti québécois sur la rémunération des stages et l’aide financière. Des travaux d’évaluation auraient été amorcés dès son entrée en fonction.",
+    "Une manifestation est prévue vendredi au centre-ville de Montréal. La CRUES se prononcera sur une grève générale illimitée à son congrès du 21 novembre. « On suit ça de façon très attentive », dit la présidente-directrice générale de la Fédération des cégeps, Marie Montpetit."
+   ],
+   "why": "C’est la première pression publique sur la nouvelle ministre. La réponse du gouvernement minoritaire sur l’aide financière et les stages dira quelle marge budgétaire il reste pour le reste du réseau.",
+   "facts": [
+    "41 associations ont un mandat de grève, dont 31 hors CRUES",
+    "Manifestation à Montréal le 13 novembre",
+    "Congrès de la CRUES le 21 novembre : vote sur la grève générale illimitée"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php"
+    }
+   ]
+  },
+  {
+   "id": "liberte-academique-mandat-lefebvre",
+   "section": "superieur",
+   "kicker": "Universités",
+   "suptitle": "Liberté académique",
+   "title": "Les professeurs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+   "standfirst": "Le mandat confié à Elsie Lefebvre par le premier ministre, qui parle de faire primer la méthode scientifique sur les « idéologies », est jugé « très, très, très inquiétant » par la FQPPU.",
+   "body": [
+    "Lors de l’assermentation du Conseil des ministres, le premier ministre Paul St-Pierre Plamondon a demandé à la nouvelle ministre de l’Enseignement supérieur de « veiller à ce que les universités soient des milieux de recherche sereins et des milieux dans le respect de la liberté académique […] où la méthode scientifique a préséance sur toutes autres considérations ou idéologies ».",
+    "« C’est très, très, très inquiétant », réagit dans La Presse la présidente de la Fédération québécoise des professeures et professeurs d’université (FQPPU), Madeleine Pastinelli. Elle y lit l’idée que le gouvernement pourrait déterminer quels contenus sont acceptables. « Le politique n’a pas à se mêler de ce qui est considéré comme valable ou légitime comme perspective dans les universités », dit-elle, en rappelant que la Loi sur la liberté académique dans le milieu universitaire, adoptée en 2022, balise déjà le rôle de la ministre.",
+    "L’Université de Montréal répond que « c’est déjà ce que nous faisons ». Les autres universités qui ont répondu à La Presse, dont le réseau de l’Université du Québec, disent qu’elles évalueront les actions du gouvernement. Les professeurs réclament par ailleurs une hausse importante du financement public du réseau."
+   ],
+   "why": "Premier accrochage entre le milieu universitaire et la ministre, avant même qu’elle ait pris la parole. Il donne le ton de ses relations avec les établissements.",
+   "facts": [
+    "La loi de 2022 sur la liberté académique encadre déjà le rôle de la ministre",
+    "La FQPPU demande aussi un réinvestissement majeur dans les universités"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php",
+    "date": "9 novembre 2026"
+   }
+  },
+  {
+   "id": "laicite-stages-prive-subventionne",
+   "section": "ecoles",
+   "featured": true,
+   "brief": "Laïcité : la loi d’avril, qui vise aussi le privé subventionné, prive des cégépiennes de stage",
+   "kicker": "Laïcité",
+   "suptitle": "Établissements privés subventionnés visés",
+   "title": "Faute de stage, des étudiantes voilées abandonnent leur technique : les effets de la loi d’avril se font sentir",
+   "standfirst": "Depuis le 2 avril 2026, l’interdiction des signes religieux s’étend au personnel des CPE, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Au cégep de Saint-Laurent, trois étudiantes en éducation spécialisée ne trouvent plus de milieu de stage.",
+   "body": [
+    "La Presse raconte le cas de trois étudiantes voilées du cégep de Saint-Laurent, inscrites en techniques d’éducation spécialisée. L’une a abandonné le programme le 2 novembre, une autre compte le faire à la fin de la session, la troisième cherche encore. Elles avaient choisi ce métier précisément parce qu’il n’était pas visé par la Loi sur la laïcité de l’État, qui interdit les signes religieux aux enseignants et aux directions d’école.",
+    "Les règles ont changé le 2 avril 2026 : la Loi sur le renforcement de la laïcité a étendu l’interdiction au personnel des centres de la petite enfance, des garderies subventionnées et des établissements d’enseignement privés subventionnés. Les étudiantes disent avoir ensuite essuyé des refus dans le privé et le communautaire. Le programme affiche pourtant un taux de placement de 98 %, selon son coordonnateur, Raphaël Milot, qui constate que les restrictions découragent déjà des inscriptions.",
+    "La direction du cégep reconnaît les difficultés d’application de la loi et dit accompagner les étudiantes « afin qu’elles rencontrent le moins d’obstacles possible ».",
+    "Le gouvernement péquiste promet d’aller plus loin. Le 28 octobre, le ministre de l’Éducation nationale, Joël Arseneau, a qualifié de « non négociable » l’engagement d’interdire les signes religieux ostensibles à tous les élèves du primaire, sans donner d’échéancier, rapporte Le Devoir. Des représentants de plusieurs confessions et l’Association canadienne des libertés civiles s’y opposent et n’écartent pas un recours aux tribunaux. Aucun projet de loi ne peut être déposé avant la rentrée du 1er décembre."
+   ],
+   "why": "La loi d’avril s’applique déjà aux établissements privés subventionnés, et ses effets débordent maintenant sur les stages du réseau collégial. Un autre projet de loi, visant cette fois les élèves, est promis.",
+   "facts": [
+    "En vigueur depuis le 2 avril 2026 : CPE, garderies subventionnées, privé subventionné",
+    "Trois étudiantes touchées, une a abandonné le 2 novembre",
+    "Interdiction pour les élèves du primaire : « non négociable », dit le ministre Arseneau"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-10/a-cause-de-leur-voile/des-etudiantes-privees-de-stage-dans-un-domaine-en-penurie-de-personnel.php",
+    "date": "10 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1020890/pq-accuse-attaquer-enfants-interdisant-signes-religieux-primaire"
+    }
+   ]
+  },
+  {
+   "id": "ontario-gel-aide-colleges-prives",
+   "section": "provinces",
+   "featured": true,
+   "brief": "Ontario : le gel de l’aide financière dans tous les collèges privés commence à fermer des écoles",
+   "kicker": "Ontario",
+   "suptitle": "Collèges privés d’enseignement professionnel",
+   "title": "En Ontario, le gel de l’aide financière aux étudiants de tous les collèges privés pousse des écoles vers la fermeture",
+   "standfirst": "Depuis le 6 octobre, plus aucun étudiant d’un établissement postsecondaire privé ontarien ne reçoit d’aide de la province, le temps d’un audit. Un collège d’hygiène dentaire de Hamilton dit qu’il fermera probablement en décembre.",
+   "body": [
+    "Le 6 octobre, le ministre ontarien des Collèges et Universités, Nolan Quinn, a suspendu tous les versements du Régime d’aide financière aux étudiants de l’Ontario (RAFEO) destinés aux étudiants des établissements postsecondaires privés, et transmis à la Police provinciale les constats préliminaires d’un audit confié à KPMG. La suspension durera jusqu’à la mise en place d’un nouveau processus d’approbation, plus strict, attendu en début d’année.",
+    "Les effets se font sentir, rapporte Radio-Canada avec La Presse canadienne. Le Southern Ontario Dental College, qui forme des hygiénistes et des assistants dentaires à Hamilton depuis 22 ans, prévoit fermer faute de financement de remplacement. « Si nous continuons de cette façon, sans recevoir d’argent de nos étudiants, nous allons devoir fermer nos portes, probablement en décembre », dit sa cheffe de l’exploitation, Alysse Estrabillo. Le Trillium College, présent dans cinq villes, a suspendu tous ses cours à la mi-octobre.",
+    "Parmi les constats préliminaires évoqués par le ministre : des propriétaires communs, la présence de firmes de services d’immigration dans les mêmes locaux que des collèges, une vérification insuffisante des inscriptions et des concentrations inhabituelles de demandes d’aide provenant des mêmes endroits. Les subventions versées aux étudiants des collèges privés ont presque doublé en un an, pour atteindre environ un milliard de dollars en 2024-2025, selon La Presse canadienne.",
+    "Des documents déposés en cour par le ministère illustrent ce qu’il a trouvé : en 2025-2026, 3 136 des 6 001 demandes d’aide du campus de Brampton Est de l’Academy of Learning, soit 52 %, provenaient d’une seule adresse IP, et 57 % à North York. Trois campus de cette enseigne sont exclus du régime jusqu’en 2029-2030 et contestent la décision; rien de cela n’a été prouvé devant un tribunal.",
+    "Le ministre Quinn a dit le 3 novembre que l’audit ne serait pas rendu public. Le lendemain, le premier ministre Doug Ford a affirmé qu’il le serait un jour : “We’ve asked KPMG to prioritize low-risk colleges. Let’s get them back up and moving as quickly as possible.” L’association du secteur, Career Colleges Ontario, qui dit avoir signalé des irrégularités au ministère dès 2023, demande que l’aide soit rétablie dans les écoles conformes."
+   ],
+   "why": "Un régulateur voisin a coupé l’aide publique à tout un secteur à cause de quelques établissements suspects, et des collèges en règle ferment en quelques semaines. C’est un cas d’école sur le choix entre une sanction générale et des interventions ciblées, et sur les signaux à surveiller dans les programmes en ligne.",
+   "facts": [
+    "Aide suspendue dans tous les établissements postsecondaires privés depuis le 6 octobre",
+    "Environ 1 milliard de dollars de subventions en 2024-2025, près du double de l’année précédente",
+    "Academy of Learning : 52 % et 57 % des demandes de deux campus venaient d’une seule adresse IP, selon le ministère",
+    "Nouveau processus d’approbation attendu au début de 2027"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada / La Presse canadienne",
+    "url": "https://ici.radio-canada.ca/article/info/2299316/rafeo-hygiene-dentaire-college-paiement",
+    "date": "9 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "CBC News / The Canadian Press (4 novembre)",
+     "url": "https://www.cbc.ca/news/canada/toronto/ont-osap-9.7409324"
+    },
+    {
+     "name": "CBC News / The Canadian Press (documents de cour)",
+     "url": "https://www.cbc.ca/news/canada/toronto/osap-ip-address-9.7405730"
+    }
+   ]
+  },
+  {
+   "id": "rentree-parlementaire-1er-decembre",
+   "section": "droit",
+   "brief": "Assemblée nationale : rentrée le 1er décembre, pour deux semaines seulement",
+   "kicker": "Assemblée nationale",
+   "suptitle": "44e législature",
+   "title": "La rentrée parlementaire aura lieu le 1er décembre, pour deux semaines seulement",
+   "standfirst": "Aucun projet de loi ne pourra être déposé avant cette date. Le discours d’ouverture sera le premier énoncé formel des priorités du gouvernement minoritaire.",
+   "body": [
+    "Le gouvernement péquiste a confirmé le 4 novembre que les travaux parlementaires reprendront le 1er décembre, rapporte La Presse canadienne. Les dates du 17 puis du 24 novembre avaient d’abord circulé. La Chambre ne siégera que deux semaines, jusqu’au 11 décembre.",
+    "Le gouvernement soutient être « exactement dans les temps habituels » après une élection générale. Il invoque la présence du premier ministre au Sommet de la Francophonie, du 14 au 16 novembre, et la préparation de la mise à jour économique du ministre des Finances, Nicolas Marceau.",
+    "Un problème de procédure reste entier : le Parti québécois veut ouvrir la session sans la lieutenante-gouverneure, Manon Jeannotte, alors que le règlement de l’Assemblée prévoit que chaque session débute par son allocution. La règle ne peut être modifiée que du consentement unanime, une fois la Chambre réunie.",
+    "L’opposition officielle juge le délai déjà long. « Au nombre de dossiers qui requièrent une intervention urgente, tout report supplémentaire serait impensable », dit le leader parlementaire libéral, André Fortin."
+   ],
+   "why": "Ni projet de loi, ni étude de règlement, ni commission parlementaire touchant l’enseignement privé ou l’immigration avant le 1er décembre. Tout ce qui est promis pour l’automne devra passer par un calendrier très court.",
+   "facts": [
+    "Rentrée : 1er décembre 2026; fin des travaux : 11 décembre",
+    "Gouvernement minoritaire : 59 sièges sur 127 pour le Parti québécois",
+    "Mise à jour économique attendue « dans les prochaines semaines »"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir / La Presse canadienne",
+    "url": "https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec",
+    "date": "4 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Radio-Canada (Conseil des ministres)",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    }
+   ]
+  },
+  {
+   "id": "tiers-pays-surs-cour-federale",
+   "section": "droit",
+   "kicker": "Cour fédérale",
+   "suptitle": "Entente sur les tiers pays sûrs",
+   "title": "L’Entente sur les tiers pays sûrs de nouveau contestée, cette fois au nom du droit à l’égalité",
+   "standfirst": "La Cour fédérale entend cette semaine à Toronto la question que la Cour suprême lui avait renvoyée en 2023 : l’entente avec les États-Unis viole-t-elle l’article 15 de la Charte ?",
+   "body": [
+    "Des demandeurs d’asile, appuyés par Amnistie internationale, le Conseil canadien pour les réfugiés et le Conseil canadien des Églises, demandent à la Cour fédérale d’invalider l’Entente sur les tiers pays sûrs. Les audiences ont commencé lundi à Toronto devant la juge Mandy Aylen et devaient se poursuivre mardi et jeudi, rapporte Radio-Canada.",
+    "Le débat est limité à l’article 15 de la Charte, qui garantit le droit à l’égalité. Les demandeurs soutiennent que les femmes, les enfants et les personnes LGBTQ+ renvoyés aux États-Unis y subissent un préjudice plus grand, notamment en détention, et que le système américain ne reconnaît pas la persécution fondée sur le genre comme le fait le Canada. Les avocats du gouvernement devraient plaider que la cause est devenue théorique, les demandeurs ayant été renvoyés.",
+    "L’entente, en vigueur depuis 22 ans, a été étendue en mars 2023 à toute la frontière terrestre. La Cour suprême l’a jugée conforme à l’article 7 de la Charte en 2023, mais a renvoyé la question de l’article 15 à la Cour fédérale. Aucune date de décision n’est connue."
+   ],
+   "why": "Si l’entente tombait, les arrivées de demandeurs d’asile à la frontière terrestre du Québec changeraient d’échelle, avec les coûts que Québec réclame déjà à Ottawa.",
+   "facts": [
+    "Audiences les 9, 10 et 12 novembre à Toronto",
+    "Seul l’article 15 de la Charte est en jeu"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs",
+    "date": "9 novembre 2026"
+   }
+  },
+  {
+   "id": "amendes-conseils-immigration",
+   "section": "droit",
+   "kicker": "Ottawa",
+   "suptitle": "Consultants non autorisés",
+   "title": "Conseils frauduleux en immigration : des amendes de 5 000 $ à 1,5 million sont en vigueur",
+   "standfirst": "Depuis le 28 octobre, quiconque conseille ou représente contre rémunération un candidat à l’immigration sans y être autorisé s’expose à des sanctions administratives fédérales.",
+   "body": [
+    "Le nouveau régime de sanctions d’Immigration, Réfugiés et Citoyenneté Canada est entré en vigueur le mercredi 28 octobre, rapporte La Presse canadienne. L’amende minimale est de 5 000 $ pour toute personne qui, contre rémunération, donne des conseils en immigration ou agit comme représentante sans autorisation. Seuls les avocats et les membres du Collège des consultants en immigration et en citoyenneté sont autorisés.",
+    "Le minimum passe à 15 000 $ pour quiconque donne sciemment des conseils « faux ou trompeurs ». Les amendes peuvent atteindre 1,5 million de dollars; elles sont plus élevées lorsqu’une demande a été approuvée sur la foi de renseignements faux, et en cas de récidive.",
+    "Un registre public des personnes sanctionnées doit être créé en 2027."
+   ],
+   "why": "Les « agents » qui conseillent des étudiants étrangers sur leurs permis contre rémunération, un rouage fréquent du recrutement dans les collèges privés, sont directement visés.",
+   "facts": [
+    "Minimum : 5 000 $; conseils sciemment trompeurs : 15 000 $",
+    "Maximum : 1,5 million de dollars",
+    "Registre public des sanctions prévu en 2027"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir / La Presse canadienne",
+    "url": "https://www.ledevoir.com/actualites/immigration/1020443/ottawa-instaure-nouvelles-amendes-visant-conseils-frauduleux-immigration",
+    "date": "28 octobre 2026"
+   }
+  },
+  {
+   "id": "idq-montreal-talents",
+   "section": "chiffres",
+   "brief": "L’Institut du Québec demande d’épargner les étudiants étrangers et les travailleurs très qualifiés",
+   "kicker": "Institut du Québec",
+   "suptitle": "Étude",
+   "title": "Montréal a besoin de ses étudiants étrangers et de ses travailleurs très qualifiés, prévient l’Institut du Québec",
+   "standfirst": "Dans une étude d’une trentaine de pages publiée mardi, l’Institut demande de mieux cibler les restrictions à l’immigration plutôt que de les appliquer uniformément.",
+   "body": [
+    "La demande de travailleurs hautement qualifiés a augmenté de 44 % à Montréal depuis 2011, contre 33 % dans les autres grandes villes du Québec et 27 % ailleurs, calcule l’Institut du Québec dans une étude rapportée par Le Devoir. Pendant ce temps, la part des Montréalais de 25 à 64 ans qui détiennent au moins un baccalauréat est passée de 31 % à 43 %, alors qu’elle dépasse 50 % à Toronto et à Vancouver.",
+    "L’Institut rappelle que l’écart de richesse qui subsiste entre le Québec et l’Ontario, 10 % du PIB par habitant en 2022, tient essentiellement au retard de 20 % de Montréal sur Toronto. Il note aussi que, depuis la pandémie, plus de Québécois de 20 à 24 ans quittent Montréal qu’il n’en arrive, en partie à cause du coût du logement.",
+    "L’Institut convient qu’une réduction de l’immigration était nécessaire après la pandémie. Mais il presse les gouvernements, et Québec en particulier, d’obtenir d’Ottawa les pouvoirs nécessaires pour cibler les restrictions, en ménageant les étudiants étrangers et les travailleurs très qualifiés. « Il n’est plus question de faire appel à l’immigration en réponse à une pénurie de main-d’œuvre généralisée », dit sa présidente-directrice générale, Emna Braham, pour qui Montréal doit rester attractive « pour les talents dont elle a besoin »."
+   ],
+   "why": "Un argument chiffré de plus, le jour même du discours du président de l’UQ, pour traiter les étudiants étrangers à part dans la planification attendue à la fin de novembre.",
+   "facts": [
+    "Demande de travailleurs très qualifiés à Montréal : +44 % depuis 2011",
+    "Diplômés universitaires chez les 25-64 ans : 43 % à Montréal, plus de 50 % à Toronto et à Vancouver"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/economie/1023623/montreal-besoin-travailleurs-etrangers-qualifies-selon-etude",
+    "date": "10 novembre 2026"
+   }
+  },
+  {
+   "id": "sondage-environics-immigration",
+   "section": "chiffres",
+   "kicker": "Opinion publique",
+   "suptitle": "Sondage Environics",
+   "title": "« Trop d’immigration » ? Les Canadiens sont partagés à 48 %, et le Québec est la province la moins inquiète",
+   "standfirst": "Le sondage annuel de l’Institut Environics montre un recul de huit points en un an de la part des Canadiens qui jugent l’immigration trop élevée.",
+   "body": [
+    "Selon l’enquête annuelle de l’Institut Environics, publiée le 26 octobre, 48 % des Canadiens estiment qu’il y a trop d’immigration et 48 % sont en désaccord. La proportion était de 56 % en 2025 et de 58 % en 2024, un quasi-sommet, rapporte Le Devoir.",
+    "Le Québec affiche le taux le plus bas de toutes les provinces, à 43 %. L’Alberta est à 58 %, contre 67 % l’an dernier. Les trois quarts des répondants reconnaissent des effets économiques positifs à l’immigration, et 29 % croient que les immigrants prennent des emplois aux autres Canadiens, six points de moins qu’en 2025.",
+    "Les auteurs concluent que les Canadiens se montrent cette année « un peu moins préoccupés par le niveau global d’immigration ». L’article ne précise ni la taille de l’échantillon ni les dates de l’enquête."
+   ],
+   "why": "Un contrepoint sourcé à l’idée que l’opinion québécoise serait la plus restrictive du pays, publié trois semaines après une élection remportée par le parti qui promet les plus fortes baisses.",
+   "facts": [
+    "Canada : 48 % « trop d’immigration », contre 56 % en 2025",
+    "Québec : 43 %, le plus bas au pays"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/actualites/immigration/1020134/quebecois-sont-moins-inquiets-nombre-immigrants-canada-selon-etude",
+    "date": "27 octobre 2026"
+   }
+  },
+  {
+   "id": "enseignants-non-qualifies",
+   "section": "chiffres",
+   "kicker": "Éducation",
+   "suptitle": "Données d’accès à l’information",
+   "title": "Plus du tiers des enseignants du Québec ne sont pas légalement qualifiés",
+   "standfirst": "Ils étaient 45 754 en 2024-2025, selon des données du ministère obtenues par Le Devoir. Le ministère dit n’avoir aucun document sur les résultats de ses 58 programmes de formation accélérée.",
+   "body": [
+    "Le nombre d’enseignants non légalement qualifiés a atteint 45 754 en 2024-2025, en hausse de 2,7 % en un an, soit autour de 35 % du corps enseignant, selon des données du ministère de l’Éducation obtenues par Le Devoir grâce à une demande d’accès à l’information. Du nombre, 9 719 détenaient une tolérance d’engagement et 36 035 faisaient de la suppléance occasionnelle.",
+    "Depuis 2023, 58 programmes universitaires accélérés ont été ajoutés au Règlement sur les autorisations d’enseigner. Le ministère affirme toutefois ne détenir « aucun document » sur le nombre d’inscrits ni sur le nombre de diplômés qui ont obtenu une autorisation d’enseigner.",
+    "« On a demandé un état de la situation », a réagi le ministre de l’Éducation nationale, Joël Arseneau, qui croit que la situation s’est « vraisemblablement dégradée » ces dernières années. Les données ne distinguent pas le réseau public du réseau privé."
+   ],
+   "why": "Les autorisations d’enseigner sont aussi une condition des permis dans le réseau privé. Et l’absence de données sur les programmes accélérés est le genre de lacune que relèvera un vérificateur.",
+   "facts": [
+    "45 754 enseignants non légalement qualifiés en 2024-2025",
+    "9 719 tolérances d’engagement, 36 035 suppléants occasionnels",
+    "58 programmes accélérés depuis 2023, sans données de résultats"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/actualites/education/1022012/plus-tiers-enseignants-quebecois-ne-sont-pas-legalement-qualifies",
+    "date": "4 novembre 2026"
+   },
+   "extra_sources": [
+    {
+     "name": "Le Devoir (réaction du ministre)",
+     "url": "https://www.ledevoir.com/politique/quebec/1022411/quebec-preoccupe-nombre-enseignants-non-legalement-qualifies"
+    }
+   ]
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : 48 millions de dollars dus à Québec, et aucune entente connue",
+   "status": "nochange",
+   "update": "Rien de neuf dans les sources consultées. La dernière étape rapportée remonte au 3 septembre : la Cour supérieure a ordonné à Québec de reprendre le versement des subventions et fixé un retour devant le tribunal au 24 septembre. Nous n’avons trouvé aucun article rapportant l’issue de cette audience ni la position du nouveau gouvernement.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : l’issue de l’audience du 24 septembre 2026 et l’état des négociations depuis le changement de gouvernement. Le directeur général, Claude Marchand, espérait en septembre que l’élection amène de nouveaux interlocuteurs."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/529e65a9355631aa88c573c6cc4644a4.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf dans les sources consultées. Le Collège supérieur de Montréal et le Collège supérieur de Sherbrooke enseignent depuis le 28 juillet à la faveur d’une suspension accordée par le Tribunal administratif du Québec. Nous n’avons trouvé aucun article rapportant une décision sur le fond.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "new",
+   "update": "Deux développements cette semaine. Le budget fédéral du 5 novembre maintient à 150 000 par année, jusqu’en 2029, le nombre de nouveaux étudiants étrangers, et constate une baisse de 71 % des arrivées entre janvier et août 2026 par rapport à 2024. Mardi, le président de l’Université du Québec a chiffré à 50 % en deux ans la baisse des nouvelles inscriptions internationales dans son réseau, et la Fédération des cégeps a fait état de 2 337 demandes complètes dans les 32 cégeps du SRAM, contre 11 274 en 2024.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour les quotas par établissement."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "new",
+   "update": "Le plan n’est pas encore déposé; la ministre Catherine Gentilcore l’a promis pour la fin de novembre. D’ici là, Ottawa vient de placer deux décisions devant Québec : demander ou non le relèvement à 15 % du plafond de travailleurs temporaires à bas salaire (offre du 9 novembre), et participer au choix des 100 000 travailleurs que le fédéral régularisera en 2027. Le 7 novembre, la ministre a aussi réagi aux accusations portées contre une ex-coordonnatrice du PEQ.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Discours devant la CCMM | « Les étudiants internationaux ne sont pas des immigrants », lance le président de l’UQ",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+  },
+  {
+   "title": "Les seuils d’immigration d’Ottawa restent au même niveau",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+  },
+  {
+   "title": "Poilievre accuse le gouvernement Carney de falsifier les chiffres sur l’immigration",
+   "outlet": "La Presse canadienne",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-06/poilievre-accuse-le-gouvernement-carney-de-falsifier-les-chiffres-sur-l-immigration.php"
+  },
+  {
+   "title": "Carney says new immigration levels plan is 'sustainable' as it draws ire of Conservatives",
+   "outlet": "CBC News",
+   "url": "https://www.cbc.ca/news/politics/carney-poilievre-budget-immigration-9.7412572"
+  },
+  {
+   "title": "Plan de Inmigración 2027-2029: metas estables y medidas para quienes están en Canadá",
+   "outlet": "Radio-Canada International",
+   "url": "https://ici.radio-canada.ca/rci/es/noticia/2298999/plan-de-inmigracion-2027-2029-metas-estables-y-medidas-para-quienes-estan-en-canada"
+  },
+  {
+   "title": "Ottawa assouplit certaines règles relatives aux travailleurs étrangers temporaires",
+   "outlet": "Le Devoir / La Presse canadienne",
+   "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+  },
+  {
+   "title": "151 millions de dollars pour améliorer le Programme des travailleurs étrangers temporaires",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2299508/reforme-ciblee-ptet-besoin-main-d-oeuvre"
+  },
+  {
+   "title": "Ottawa mise sur le parrainage privé des réfugiés dans son plan sur l’immigration",
+   "outlet": "La Presse canadienne",
+   "url": "https://www.lapresse.ca/actualites/national/2026-11-10/ottawa-mise-sur-le-parrainage-prive-des-refugies-dans-son-plan-sur-l-immigration.php"
+  },
+  {
+   "title": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+  },
+  {
+   "title": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+  },
+  {
+   "title": "Plusieurs revendications de Québec absentes du budget fédéral, déplore Marceau",
+   "outlet": "Le Devoir / La Presse canadienne",
+   "url": "https://www.ledevoir.com/politique/quebec/1022897/plusieurs-revendications-quebec-absentes-budget-federal-deplore-marceau"
+  },
+  {
+   "title": "Le premier tête-à-tête entre PSPP et Mark Carney aura lieu… au Cambodge",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1022609/premier-tete-tete-entre-premiers-ministres-canadien-quebecois-aura-lieu-cambodge"
+  },
+  {
+   "title": "Des étudiants en grève veulent du concret, et maintenant",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education"
+  },
+  {
+   "title": "Mobilisation contre l’austérité et la précarité | Des dizaines de milliers d’étudiants en grève cette semaine",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-09/mobilisation-contre-l-austerite-et-la-precarite/des-dizaines-de-milliers-d-etudiants-en-greve-cette-semaine.php"
+  },
+  {
+   "title": "Liberté académique | Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+  },
+  {
+   "title": "À cause de leur voile | Des étudiantes privées de stage dans un domaine en pénurie de personnel",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-10/a-cause-de-leur-voile/des-etudiantes-privees-de-stage-dans-un-domaine-en-penurie-de-personnel.php"
+  },
+  {
+   "title": "Le PQ accusé de «s’attaquer aux enfants» en interdisant les signes religieux au primaire",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1020890/pq-accuse-attaquer-enfants-interdisant-signes-religieux-primaire"
+  },
+  {
+   "title": "La rentrée parlementaire aura lieu le 1ᵉʳ décembre à Québec",
+   "outlet": "Le Devoir / La Presse canadienne",
+   "url": "https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec"
+  },
+  {
+   "title": "PSPP présente, seul, un Cabinet de 23 ministres",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+  },
+  {
+   "title": "Nouveau recours judiciaire au Canada contre l’entente sur les tiers pays sûrs",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs"
+  },
+  {
+   "title": "Ottawa instaure de nouvelles amendes visant les conseils frauduleux en immigration",
+   "outlet": "Le Devoir / La Presse canadienne",
+   "url": "https://www.ledevoir.com/actualites/immigration/1020443/ottawa-instaure-nouvelles-amendes-visant-conseils-frauduleux-immigration"
+  },
+  {
+   "title": "Montréal a besoin de ses travailleurs étrangers qualifiés, selon une étude",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/economie/1023623/montreal-besoin-travailleurs-etrangers-qualifies-selon-etude"
+  },
+  {
+   "title": "Les Québécois sont les moins inquiets du nombre d’immigrants au Canada, selon une étude",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/immigration/1020134/quebecois-sont-moins-inquiets-nombre-immigrants-canada-selon-etude"
+  },
+  {
+   "title": "Plus du tiers des enseignants québécois ne sont pas légalement qualifiés",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/actualites/education/1022012/plus-tiers-enseignants-quebecois-ne-sont-pas-legalement-qualifies"
+  },
+  {
+   "title": "Québec se dit préoccupé par le nombre d’enseignants non légalement qualifiés",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1022411/quebec-preoccupe-nombre-enseignants-non-legalement-qualifies"
+  },
+  {
+   "title": "« Cessez d’expulser ceux qui travaillent déjà chez nous », lance le PDG de Canam",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+  },
+  {
+   "title": "Une ministre chargée d’«accéder à l’indépendance», une première",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+  },
+  {
+   "title": "Malgré ses dettes envers le gouvernement | Le Collège LaSalle pourra rouvrir dès ce vendredi",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+  },
+  {
+   "title": "Dette de 48 millions de dollars | Le Collège LaSalle obtient un sursis",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+  },
+  {
+   "title": "Non-respect des quotas linguistiques | Le collège LaSalle conteste une amende de 30 millions",
+   "outlet": "La Presse canadienne",
+   "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+  },
+  {
+   "title": "Décision de Québec suspendue | Le Tribunal administratif permet à deux collèges privés de rouvrir",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+  },
+  {
+   "title": "Fermeture de deux collèges privés | Près de 900 étudiants étrangers dans l’incertitude",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+  },
+  {
+   "title": "Étudiants étrangers | Québec impose un plafond aux établissements",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+  },
+  {
+   "title": "La suspension du RAFEO pourrait forcer la fermeture d’une école d’hygiène dentaire",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2299316/rafeo-hygiene-dentaire-college-paiement"
+  },
+  {
+   "title": "Ford says OSAP auditors will prioritize low-risk career colleges to unfreeze funding, but no timeline given",
+   "outlet": "CBC News / The Canadian Press",
+   "url": "https://www.cbc.ca/news/canada/toronto/ont-osap-9.7409324"
+  },
+  {
+   "title": "Thousands of OSAP applications came from a single IP address, ministry alleges",
+   "outlet": "CBC News / The Canadian Press",
+   "url": "https://www.cbc.ca/news/canada/toronto/osap-ip-address-9.7405730"
+  }
+ ]
+}
