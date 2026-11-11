@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 2
-- Date: 2026-11-10 (No. 2 is an evening re-edition that replaced No. 1 the same day, made once the environment's network was opened; the next morning edition is No. 3)
+- Number: 3
+- Date: 2026-11-11 (the scheduled run reached the session about 4 h 35 late and was published around 10 h)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,17 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-11 (No. 3; holiday, 8 stories, 6 in English)
+- LEAD [colleges, EN] LaSalle under CCAA since 24 Aug; protection extended to end of January; penalty hearing 21–22 Jan; directors' liability up to $1.5 M; Quebec granted leave to appeal the 3 Sept order (CTV Montreal and CityNews, 11 Nov) — https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/
+- FEATURED [immca, EN] Globe editorial reaches 662 000; 66 000 of last year's 148 000 places used; 195 000 temporary arrivals to end of August (Globe, 10 Nov) — https://www.theglobeandmail.com/business/article-temporary-residents-permanent-status-backlash/
+- FEATURED [immqc] Gentilcore plan « dans les prochaines semaines »: 35 000, moratorium on selection abroad, regional/sector permits; breakdown of the 82 000 (Journal de Sherbrooke, 11 Nov) — https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/
+- FEATURED [etudiants, EN] Atlantic universities −48 % since Jan 2024, approvals −59 % vs −10 % expected (The Conversation, Dale Kirby, 11 Nov); Assiniboine College 1 100 → 600 (Q Country, 10 Nov) — https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649
+- [provinces, EN] Alberta's Smith wants a "Quebec-style agreement"; Schow; legislation in spring (CTV Edmonton, 10 Nov) — https://www.ctvnews.ca/edmonton/article/ottawas-immigration-plan-leaves-albertas-premier-concerned-despite-concessions/
+- [provinces, EN] Ford calls OSAP protesters "naive"; grants 85 % → 25 %; FAO $9,460 vs $15,187 (CBC 9 Nov; The Pointer 10 Nov) — https://www.cbc.ca/news/canada/toronto/ford-comments-osap-changes-student-protests-9.7415127
+- [superieur, EN] Concordia $20.7 M deficit, −23 % out-of-province (The Link, student paper, 10 Nov) — https://thelinknewspaper.ca/article/concordias-deficit-detrimental-to-student-experience
+- [superieur] Sherbrooke: UdeS march for paid internships, Cégep de Sherbrooke votes 60.9 % against striking (La Tribune, 10 Nov) — https://www.latribune.ca/actualites/actualites-locales/sherbrooke/2026/11/10/des-stages-non-payes-cest-de-lesclavage-moderne-TGH4ACP2G5HJXDM5P7P7G5RAZE/
+- Quote: Marchand ("we believe we owe them 0"). Number: 48 %.
 
 ### 2026-11-10 (No. 2, evening re-edition; these are the 16 stories now online)
 - LEAD [etudiants] UQ president Cloutier at CCMM; UQ −50 %; SRAM 11 274 → 2 337 (La Presse Nov 10) — https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php
@@ -33,12 +44,13 @@
 - Published in No. 1 that morning and dropped from No. 2 (do not repeat without a new development): levels plan headline numbers (Le Devoir Nov 5); refugees private sponsorship (PC Nov 10; the official table says 17 550, not 17 500); Quebec's $690 M asylum claim (Radio-Canada Nov 4); FQPPU on academic freedom (La Presse Nov 9); National Assembly opening 1 Dec (Le Devoir Nov 4); Safe Third Country hearing preview (Radio-Canada Nov 9); IRCC fines for unauthorised advice (Oct 28); Environics poll (Oct 27); 45 754 unqualified teachers (Le Devoir Nov 4).
 
 ## Dossiers (always present; the full timelines live in the latest edition JSON)
-1. `college-lasalle-dette` [colleges] — Collège LaSalle, ~$48 M owed to Québec. Last known step: 3 Sept 2026 order to resume subsidies; return to court set for 24 Sept 2026. OUTCOME NOT FOUND after a wide search on 10 Nov (La Presse, Le Devoir, Radio-Canada, Google News; the college's own timeline at lasallecollege.lcieducation.com/en/news-and-events/news/penalty stops at 4 Sept). Keep looking every day (settlement; position of the PQ government). Not readable: insolvencies.deloitte.ca, insolvencyinsider.ca, fasken.com.
+1. `college-lasalle-dette` [colleges] — Collège LaSalle, ~$48 M owed to Québec. UNDER CCAA (LACC) SINCE 24 AUG 2026; protection extended on 10 Nov to end of January; penalty hearing 21–22 Jan 2027; Quebec granted leave to appeal the 3 Sept subsidy order (no date). Watch for the appeal date and any settlement. OUTCOME NOT FOUND after a wide search on 10 Nov (La Presse, Le Devoir, Radio-Canada, Google News; the college's own timeline at lasallecollege.lcieducation.com/en/news-and-events/news/penalty stops at 4 Sept). Keep looking every day (settlement; position of the PQ government). Not readable: insolvencies.deloitte.ca, insolvencyinsider.ca, fasken.com.
 2. `permis-colleges-superieurs` [colleges] — Collège supérieur de Montréal and de Sherbrooke, permits not renewed (July 2026), TAQ stay of 28 July. Merits decision NOT FOUND. Check the TAQ public hearing roll every few days (https://www.roles.taq.gouv.qc.ca/Recherche.aspx; it only shows about three weeks ahead; on 10 Nov nothing under Collège/Hajibi/Doray). SOQUIJ needs a captcha and CanLII returns 403. Related, not yet read: Collège de technologie Véritas, Herzing vocational permit.
 3. `plafonds-etudiants-etrangers` [etudiants] — federal and Quebec caps and their effects. Next: Quebec's multi-year plan (end of November); second period of Quebec's cap decree starts 17 Dec 2026 (verified on quebec.ca, communiqué of 17 Dec 2025); nothing announced by the new government. IRCC has not yet published the 2027 study-permit cap or provincial allocations: watch for it.
 4. `plan-immigration-quebec` [immqc] — the PQ government's first immigration plan (35 000 permanent; temporary halved in four years). Promised « à la fin du mois de novembre ». Note: the federal one-time measure's 100 000 worker places are for workers outside Quebec, so do not write that Quebec gets a share of them.
 
 ## Agenda (upcoming dates; remove when passed)
+- 12 Nov: Diab announcement in Dieppe, NB, 10:30 Atlantic, topic not stated — https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-to-make-an-announcement-in-dieppe.html
 - 12 Nov: Federal Court, Safe Third Country hearings continue (a snippet also mentioned 16 Dec, not verified) — https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs
 - 13 Nov, 14 h: CRUES demonstration in Montréal — https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education
 - 14–16 Nov: Sommet de la Francophonie (Cambodia), first Carney–St-Pierre Plamondon meeting, immigration on the table — https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php
@@ -48,6 +60,7 @@
 - 10 Dec: court appearance in the CSQ fraud case — https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore
 - 17 Dec: second one-year period of Quebec's per-institution cap begins — https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762
 - "Prochaines semaines": Quebec economic update (Marceau). Not yet published: IRCC's 2027 study-permit cap and allocations.
+- 21–22 Jan 2027: LaSalle penalty hearing (CCAA court); protection runs to end of January — https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
@@ -56,8 +69,9 @@
   - WebFetch works: Radio-Canada articles, canada.ca (curl to canada.ca fails with an HTTP/2 error; WebFetch summarises, so ask it for exact tables and verbatim sentences, and quote only fragments it returns as quotes). The IRCC news feed lists releases by date.
   - Plain `curl -sS -L URL` (default user agent) works: La Presse, Le Devoir, CBC, gazette.gc.ca, statcan (www150, sometimes needs a retry), The PIE News, CIC News, University Affairs, acpq.net, budget.canada.ca, noovo.info, lactualite.com (Canadian Press copy), Desjardins, quebec.ca article pages, publicationsduquebec.gouv.qc.ca (Gazette officielle PDFs: gaz_entiere/26NN-F.pdf, read with pdftotext; no 45 = 11 Nov 2026, so no 46 = 18 Nov).
   - La Presse's daily « fil politique » live blog: the entries are in the frame https://livecenter.norkon.net/frame/lapresse/<id>/default (the id is in the page source).
-  - Not readable (do not retry, do not disguise the user agent): Journal de Montréal/Québec articles (403), canlii.org (403), SOQUIJ (captcha), ctvnews.ca article bodies, quebec.ca/nouvelles/rechercher listings, decisions.fct-cf.gc.ca after about 20 documents, Deloitte insolvency site, Fasken, Insolvency Insider.
+  - CTV article bodies ARE readable with plain curl: the full text is in the page's JSON-LD "articleBody" field. Globe and Mail articles read fully with curl. The Conversation, CityNews, La Tribune, Journal de Sherbrooke and student papers (The Link, The Ubyssey) read with curl. Not readable (do not retry, do not disguise the user agent): Montreal Gazette articles (404/blocked), Journal de Montréal/Québec articles (403), canlii.org (403), SOQUIJ (captcha), quebec.ca/nouvelles/rechercher listings, decisions.fct-cf.gc.ca after about 20 documents, Deloitte insolvency site, Fasken, Insolvency Insider.
   - Google News RSS by curl is a good way to check whether anything at all was published on a named college.
+- Leads not used on 11 Nov: Montreal Gazette 11 Nov, "Only McGill, Bishop's add international students as Quebec universities drop again" (headline only, unreadable: find the same figures elsewhere); Globe 10 Nov on WWI/WWII soldiers' citizenship ("Lost Canadians"); The Ubyssey on IRCC penalties (already covered); Le Devoir op-ed for loi 101 au cégep (11 Nov, text not extractable); uOttawa contract teachers on strike (CBC 9 Nov); La Presse 11 Nov says Carney and PSPP will also meet in Québec in December.
 - Standing follow-ups: LaSalle (see dossier); TAQ merits decision (CSM/CSS); Institut Teccart inquiry (opened April 2026; nothing since May); Mérici joining the public network (nothing since July); Herzing safeguard order (Sept, not read); Lefebvre's first statement on private colleges or English-language quotas (none yet); « loi 101 au cégep » bill after 1 Dec; whether Quebec asks for the 15 % TFW cap (regions are pressing: Radio-Canada Saguenay, Nov 9); reaction of Ottawa to Gentilcore's 662 000 figure; Ontario KPMG audit (minister Quinn said on 3 Nov it will not be made public; CP via insauga.com, read only in summary) and whether Trillium College resumed classes.
 - Leads read but not used: Nanos/CTV poll, 31 Oct–2 Nov: 52.3 % want fewer immigrants in 2027, Quebec 53.1 % (https://www.noovo.info/nouvelles/societe/article/une-majorite-de-canadiens-souhaite-une-baisse-du-nombre-dimmigrants-en-2027/); Bill C-3 citizenship by descent freezing PR files (CBC Nov 5, https://www.cbc.ca/news/politics/immigration-permanent-resident-billc3-9.7409321); francophone immigration outside Quebec 8.9 % in 2025, FCFA wants a dedicated programme (Radio-Canada Nov 6, https://ici.radio-canada.ca/article/info/2299045/immigration-francophone-hors-quebec-cibles); rural immigration programme made permanent, Quebec excluded (IRCC Nov 9; SOR/2026-217); Federal Court, Agha v. Canada, 2026 FC 1364 (study-permit refusal quashed, Nov 6); cégep du Vieux Montréal splits from its foundation (La Presse Nov 9); Le Devoir editorial of Nov 7 on teacher qualification; Safe Third Country day-1 arguments (same Radio-Canada article) and CCR release.
 - Headlines seen but not read: CTV Nov 10, Alberta's premier « concerned » by the federal plan; MEQ reaction to the TFW changes; Law360 on the asylum rules.
