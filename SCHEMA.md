@@ -9,7 +9,9 @@ serves: `index.html` = newest edition, `editions/`, `archive.html`, icons). The 
 layout, fonts, colours and images, so the JSON holds content only. Never put HTML tags in strings.
 Plain text only; use real characters (é, —, « », ’) rather than entities.
 
-The edition is written in French. Quotes stay in the language they were said in.
+The edition is bilingual. Stories from French-language sources are written in French; stories from English-language
+sources are written in English and marked `"lang": "en"`. The interface (section names, labels) stays French.
+Quotes stay in the language they were said in.
 
 ```json
 {
@@ -40,6 +42,7 @@ The edition is written in French. Quotes stay in the language they were said in.
       "why": "Une ou deux phrases : pourquoi c'est important pour la lectrice.",
       "facts": ["Fait 1", "Fait 2"],      // 2–5 points
       "opinion": false,                   // true for columns, op-eds, interviews, political statements
+      "lang": "en",                       // optional: "en" for a story written in English (from an English-language source); omit for French
       "source":  { "name": "Radio-Canada", "url": "https://…", "date": "9 novembre 2026" },
       "extra_sources": [ { "name": "La Presse", "url": "https://…" } ],
       "image": { "url": "https://…jpg", "credit": "RADIO-CANADA" }   // optional; if missing the renderer uses the source page's og:image, else a typographic panel; set to null when the only image is a logo

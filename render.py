@@ -130,12 +130,17 @@ def visual(item, cls="vis", big=False):
     return f'<div class="{cls}{none}" style="--c:{color}">{fallback}{tag}</div>'
 
 
+def lang_attr(s):
+    """lang="en" on a story written in English (the interface stays French)."""
+    return ' lang="en"' if (s or {}).get("lang") == "en" else ""
+
+
 def card(s, size="md"):
     """Front-page story card: image, badges, italic suptitle, headline, source line."""
     title_cls = "card__title card__title--slab" if s.get("opinion") else "card__title"
     lead = f'<p class="card__lead">{e(s.get("standfirst"))}</p>' if size == "lg" else ""
     src = s.get("source") or {}
-    return f'''<article class="card card--{size}">
+    return f'''<article class="card card--{size}"{lang_attr(s)}>
   <a class="card__link" href="#{e(s["id"])}">{visual(s)}</a>
   <div class="card__badges">{badge(s.get("section"))}</div>
   {f'<p class="card__sup">{e(s.get("suptitle"))}</p>' if s.get("suptitle") else ""}
@@ -149,7 +154,7 @@ def row_item(s):
     """Compact horizontal card used in section lists."""
     src = s.get("source") or {}
     title_cls = "row__title card__title--slab" if s.get("opinion") else "row__title"
-    return f'''<article class="row">
+    return f'''<article class="row"{lang_attr(s)}>
   <a class="row__thumb" href="#{e(s["id"])}">{visual(s)}</a>
   <div>
     {f'<p class="card__sup">{e(s.get("suptitle"))}</p>' if s.get("suptitle") else ""}
@@ -205,7 +210,7 @@ def front(data, stories, dossiers, wx):
     # hero row: big story + sidebar
     out.append(f'''<section class="wrap hero-row">
 <div class="hero-main">
-  <article class="hero" style="--c:{lcolor}">
+  <article class="hero" style="--c:{lcolor}"{lang_attr(lead)}>
     <a class="hero__img" href="#{e(lead["id"])}">{visual(lead, "vis vis--hero")}</a>
     <div class="hero__panel"{blur}>
       <div class="hero__panelInner">
@@ -228,7 +233,7 @@ def front(data, stories, dossiers, wx):
   </div>
   <div class="essentials">
     <h2>L'essentiel du jour<br><span>{len(briefs)} nouvelles à retenir</span></h2>
-    {"".join(f'<a class="brief" href="#{e(s["id"])}"><span class="brief__dot" style="background:{sec(s)[1]}"></span><span><small style="color:{sec(s)[1]}">{e(sec(s)[0])}</small>{e(s["brief"] if isinstance(s.get("brief"), str) else s.get("title"))}</span></a>' for s in briefs)}
+    {"".join(f'<a class="brief" href="#{e(s["id"])}"><span class="brief__dot" style="background:{sec(s)[1]}"></span><span><small style="color:{sec(s)[1]}">{e(sec(s)[0])}</small><span{lang_attr(s)}>{e(s["brief"] if isinstance(s.get("brief"), str) else s.get("title"))}</span></span></a>' for s in briefs)}
   </div>
   {agenda_box(data)}
 </aside>
@@ -368,7 +373,7 @@ def mcard(s, compact=False):
     bdg = f'<span class="badge mbadge" style="background:{color}">{e(name)}</span>'
     img = f'<a class="mcard__img" href="#{e(s["id"])}">{visual(s)}{"" if compact else bdg}</a>'
     title_cls = "mcard__title mcard__title--slab" if s.get("opinion") else "mcard__title"
-    return f'''<article class="mcard{" mcard--row" if compact else ""}">
+    return f'''<article class="mcard{" mcard--row" if compact else ""}"{lang_attr(s)}>
   {"" if compact else img}
   <div class="mcard__body">
     {bdg if compact else ""}
@@ -454,7 +459,7 @@ def story_page(s, data, stories, dossiers):
     return f'''<div class="page" id="{e(s["id"])}" hidden>
 {subnav(s.get("section"), stories, dossiers, s["id"])}
 <div class="wrap artgrid" style="--c:{color}">
-  <article class="art">
+  <article class="art"{lang_attr(s)}>
     {sheet_bar(s)}
     <div class="card__badges">{badge(s.get("section"))}{'<span class="badge badge--opinion">Opinion</span>' if s.get("opinion") else ""}</div>
     {f'<p class="art__kicker">{e(s.get("kicker"))}</p>' if s.get("kicker") else ""}
@@ -994,6 +999,9 @@ def problems(data):
         out.append("exactly three stories (not the lead) must have featured: true")
     if not 5 <= sum(1 for s in stories if s.get("brief")) <= 8:
         out.append("5 to 8 stories need a 'brief' line")
+    for s in stories:
+        if s.get("lang") not in (None, "fr", "en"):
+            out.append(f"{s.get('id')}: lang must be 'fr' or 'en'")
 
     def link(u):
         return isinstance(u, str) and re.match(r"https?://[^\s]+\.[^\s]+$", u)

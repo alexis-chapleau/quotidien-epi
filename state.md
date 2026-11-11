@@ -51,6 +51,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
+- FROM 11 NOV: editions are bilingual (user request, 10 Nov). Stories from English-language sources are written in English with "lang": "en"; aim for about a third English when the news allows (see the task file). The reader was told English articles would appear from 11 Nov.
 - The environment now has open network access (since the evening of 10 Nov). How each site reads:
   - WebFetch works: Radio-Canada articles, canada.ca (curl to canada.ca fails with an HTTP/2 error; WebFetch summarises, so ask it for exact tables and verbatim sentences, and quote only fragments it returns as quotes). The IRCC news feed lists releases by date.
   - Plain `curl -sS -L URL` (default user agent) works: La Presse, Le Devoir, CBC, gazette.gc.ca, statcan (www150, sometimes needs a retry), The PIE News, CIC News, University Affairs, acpq.net, budget.canada.ca, noovo.info, lactualite.com (Canadian Press copy), Desjardins, quebec.ca article pages, publicationsduquebec.gouv.qc.ca (Gazette officielle PDFs: gaz_entiere/26NN-F.pdf, read with pdftotext; no 45 = 11 Nov 2026, so no 46 = 18 Nov).

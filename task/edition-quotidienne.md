@@ -103,9 +103,18 @@ and add new ones as you find them.
 
 ## Writing
 - French, the clear and sober voice of a good Quebec daily; no jargon, no hype, no filler. Short
-  concrete headlines with a verb. Quebec usage (courriel, cégep, « guillemets français »).
-- Quotes are given verbatim in the language they were said in; do not translate English quotes.
-  Stories from English-language sources are written in French.
+  concrete headlines with a verb. Quebec usage (courriel, cégep, « guillemets français ») in French stories.
+- The edition is bilingual. A story whose main source is in French is written in French; a story
+  whose main source is in English (CBC, The Globe and Mail, Toronto Star, CTV, Global, Montreal
+  Gazette, The PIE News, ICEF Monitor, University Affairs, CIC News, canada.ca in English, English
+  court decisions…) is written entirely in English (suptitle, title, standfirst, body, why, facts,
+  brief) and gets "lang": "en". Write the English stories in the same sober voice as a good
+  Canadian daily (Canadian spelling). Quotes are always verbatim in the language they were said in;
+  never translate a quote. Every day, look for English-language coverage as actively as French:
+  aim for roughly a third of the stories from English sources when the news allows it (above all in
+  Immigration Canada, Ailleurs au Canada and Étudiants étrangers), but never pick a weaker story
+  just to fill the quota, and never run the same news twice in two languages.
+- Dossiers, the agenda, "quote" and "number" stay in French (a quote stays in its own language).
 - Each story: a 1–2 sentence standfirst, 3–5 body paragraphs (what happened, the figures, the
   reactions, the context and what comes next), "why" (1–2 sentences on what it changes for someone
   who oversees private colleges or follows immigration policy), 2–4 "facts". Mark columns, op-eds,
