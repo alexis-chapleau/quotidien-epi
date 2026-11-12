@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 3
-- Date: 2026-11-11 (the scheduled run reached the session about 4 h 35 late and was published around 10 h)
+- Number: 4
+- Date: 2026-11-12 (scheduled at 5 h 57 Toronto since 11 Nov; published around 6 h 15)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,15 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-12 (No. 4; quiet day, 6 stories, 3 in English)
+- LEAD [provinces, EN] Ontario career colleges lay off staff under the OSAP freeze: Anderson ~100 staff and ~300 students paused, Computek 25 of 120, AAPS 10; Harris Institute closing, Trillium suspended; Quinn announcement Thursday 12 Nov (Globe, Kelly Grant, 12 Nov) — https://www.theglobeandmail.com/canada/article-three-ontario-private-colleges-lay-off-staff-osap-pause/
+- FEATURED [superieur] Bérubé: loi 101 au cégep bill in 2027 (not FP/adult ed), notwithstanding clauses expire by June 2027; PLQ/PCQ/QS oppose cégep part (Le Devoir, Carabin, 11 Nov) — https://www.ledevoir.com/politique/quebec/1024280/combat-legislatif-francais-prepare-quebec
+- FEATURED [immca, opinion] Gérald Fillion analysis: 662 000 PR in 2027; temporary 2025 = 323 995; Fortin: 143 000 needed for Quebec's weight (Radio-Canada, 12 Nov) — https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration
+- FEATURED [etudiants, EN] CBIE: just over 65,000 new student arrivals Jan–Aug 2026; <90,000 permits expected; grads 20 % (ICEF Monitor, 11 Nov) — https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/
+- [superieur] Strike: QS (Pouhe Njall, Ghazal) marches Friday; PLQ Bowles; Lefebvre's office; FECQ/UEQ seek meeting (La Presse, 11 Nov) — https://www.lapresse.ca/actualites/education/2026-11-11/greve-etudiante/le-gouvernement-doit-ecouter-et-agir-rapidement-plaide-l-opposition.php
+- [colleges, EN] LaSalle protection to Jan. 29, 2027 exactly (CBC/CP, 11 Nov) — https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130
+- Quote: Bérubé (« C'est oui ou c'est non »). Number: 65 000.
 
 ### 2026-11-11 (No. 3; holiday, 8 stories, 6 in English)
 - LEAD [colleges, EN] LaSalle under CCAA since 24 Aug; protection extended to end of January; penalty hearing 21–22 Jan; directors' liability up to $1.5 M; Quebec granted leave to appeal the 3 Sept order (CTV Montreal and CityNews, 11 Nov) — https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/
@@ -44,14 +53,13 @@
 - Published in No. 1 that morning and dropped from No. 2 (do not repeat without a new development): levels plan headline numbers (Le Devoir Nov 5); refugees private sponsorship (PC Nov 10; the official table says 17 550, not 17 500); Quebec's $690 M asylum claim (Radio-Canada Nov 4); FQPPU on academic freedom (La Presse Nov 9); National Assembly opening 1 Dec (Le Devoir Nov 4); Safe Third Country hearing preview (Radio-Canada Nov 9); IRCC fines for unauthorised advice (Oct 28); Environics poll (Oct 27); 45 754 unqualified teachers (Le Devoir Nov 4).
 
 ## Dossiers (always present; the full timelines live in the latest edition JSON)
-1. `college-lasalle-dette` [colleges] — Collège LaSalle, ~$48 M owed to Québec. UNDER CCAA (LACC) SINCE 24 AUG 2026; protection extended on 10 Nov to end of January; penalty hearing 21–22 Jan 2027; Quebec granted leave to appeal the 3 Sept subsidy order (no date). Watch for the appeal date and any settlement. OUTCOME NOT FOUND after a wide search on 10 Nov (La Presse, Le Devoir, Radio-Canada, Google News; the college's own timeline at lasallecollege.lcieducation.com/en/news-and-events/news/penalty stops at 4 Sept). Keep looking every day (settlement; position of the PQ government). Not readable: insolvencies.deloitte.ca, insolvencyinsider.ca, fasken.com.
+1. `college-lasalle-dette` [colleges] — Collège LaSalle, ~$48 M owed to Québec. UNDER CCAA (LACC) SINCE 24 AUG 2026; protection extended on 10 Nov to 29 Jan 2027 (CP); penalty hearing 21–22 Jan 2027; Quebec granted leave to appeal the 3 Sept subsidy order (no date). Watch for the appeal date and any settlement. OUTCOME NOT FOUND after a wide search on 10 Nov (La Presse, Le Devoir, Radio-Canada, Google News; the college's own timeline at lasallecollege.lcieducation.com/en/news-and-events/news/penalty stops at 4 Sept). Keep looking every day (settlement; position of the PQ government). Not readable: insolvencies.deloitte.ca, insolvencyinsider.ca, fasken.com.
 2. `permis-colleges-superieurs` [colleges] — Collège supérieur de Montréal and de Sherbrooke, permits not renewed (July 2026), TAQ stay of 28 July. Merits decision NOT FOUND. Check the TAQ public hearing roll every few days (https://www.roles.taq.gouv.qc.ca/Recherche.aspx; it only shows about three weeks ahead; on 10 Nov nothing under Collège/Hajibi/Doray). SOQUIJ needs a captcha and CanLII returns 403. Related, not yet read: Collège de technologie Véritas, Herzing vocational permit.
 3. `plafonds-etudiants-etrangers` [etudiants] — federal and Quebec caps and their effects. Next: Quebec's multi-year plan (end of November); second period of Quebec's cap decree starts 17 Dec 2026 (verified on quebec.ca, communiqué of 17 Dec 2025); nothing announced by the new government. IRCC has not yet published the 2027 study-permit cap or provincial allocations: watch for it.
 4. `plan-immigration-quebec` [immqc] — the PQ government's first immigration plan (35 000 permanent; temporary halved in four years). Promised « à la fin du mois de novembre ». Note: the federal one-time measure's 100 000 worker places are for workers outside Quebec, so do not write that Quebec gets a share of them.
 
 ## Agenda (upcoming dates; remove when passed)
-- 12 Nov: Diab announcement in Dieppe, NB, 10:30 Atlantic, topic not stated — https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-to-make-an-announcement-in-dieppe.html
-- 12 Nov: Federal Court, Safe Third Country hearings continue (a snippet also mentioned 16 Dec, not verified) — https://ici.radio-canada.ca/article/info/2299470/demande-revision-judiciaire-entente-pays-surs
+- 12 Nov (passed after this run; check outcomes next run): Ontario minister Quinn's OSAP announcement for private career colleges (Globe); Diab announcement in Dieppe, NB; Federal Court, Safe Third Country hearings.
 - 13 Nov, 14 h: CRUES demonstration in Montréal — https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education
 - 14–16 Nov: Sommet de la Francophonie (Cambodia), first Carney–St-Pierre Plamondon meeting, immigration on the table — https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php
 - 21 Nov: CRUES congress (unlimited general strike?) — same Radio-Canada article as 13 Nov
@@ -64,6 +72,9 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
+- 13 Nov run: report what Quinn announced on OSAP for career colleges (12 Nov) and what Diab announced in Dieppe. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
+- IRCC news: the Atom feed works with curl --http1.1: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&pick=12&format=atom (canada.ca article pages still need WebFetch).
+- Radio-Canada section pages: /info/politique works with WebFetch; /info/education is 404.
 - FROM 11 NOV: editions are bilingual (user request, 10 Nov). Stories from English-language sources are written in English with "lang": "en"; aim for about a third English when the news allows (see the task file). The reader was told English articles would appear from 11 Nov.
 - The environment now has open network access (since the evening of 10 Nov). How each site reads:
   - WebFetch works: Radio-Canada articles, canada.ca (curl to canada.ca fails with an HTTP/2 error; WebFetch summarises, so ask it for exact tables and verbatim sentences, and quote only fragments it returns as quotes). The IRCC news feed lists releases by date.
