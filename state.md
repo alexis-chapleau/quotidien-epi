@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 4
-- Date: 2026-11-12 (scheduled at 5 h 57 Toronto since 11 Nov; published around 6 h 15)
+- Number: 5
+- Date: 2026-11-13 (published around 6 h 15)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,15 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-13 (No. 5; 6 stories, 3 in English)
+- LEAD [provinces, EN] Ontario bill to be tabled 16 Nov: OSAP growth cap, mainly-online programs ineligible, physical campus, limits on immigration/recruitment firms, colleges liable for loans; CCO expelled 24 more campuses, 13 under review, 33 flagged for backdating (CP24 12 Nov; CBC) — https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/
+- [provinces, EN] Canadian College of Business, Science and Technology: OSAP 562 → 17,157; one campus +5,955 %; ~$151 M grants (CP via CP24, 13 Nov) — https://www.cp24.com/politics/queens-park/2026/11/13/career-college-saw-osap-usage-rise-6000-per-cent-but-wasnt-cut-off-this-spring/
+- FEATURED [immca, EN] Diab in Dieppe: up to 100,000 workers via extra PNP allocations, use by 31 March 2027; Poilievre "bonkers", Diab "I feel sorry for him" (BNN/CTV 12 Nov; IRCC release; Radio-Canada) — https://www.bnnbloomberg.ca/business/politics/2026/11/12/i-feel-sorry-for-him-minister-responds-to-poilievres-comments-on-immigration-plan/
+- FEATURED [immqc] Milliard: halving temporaries (−200 000 to −250 000) = « avis de destruction annoncée »; Gentilcore keeps 35 000; Carney–PSPP Sunday 6 h Montréal (La Presse/PC 12 Nov; Radio-Canada) — https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php
+- FEATURED [superieur] Strike explainer: CRUES 30 000 members, 86 054 on strike 13 Nov; GREPA, IRIS figures (La Presse 12 Nov) — https://www.lapresse.ca/actualites/education/2026-11-12/greve-des-etudiants-collegiaux-et-universitaires/pourquoi-les-etudiants-vont-ils-manifester.php
+- [immca] Francophone immigration outside Quebec 7.7 % Jan–Aug vs 9 % target (Francopresse 13 Nov) — https://francopresse.ca/politique/2026/11/13/feuilleton-de-la-colline-cibles-dimmigration-francophone-carney-fossile-du-jour-et-jour-du-souvenir/
+- Quote: Milliard. Number: 5 955 %.
 
 ### 2026-11-12 (No. 4; quiet day, 6 stories, 3 in English)
 - LEAD [provinces, EN] Ontario career colleges lay off staff under the OSAP freeze: Anderson ~100 staff and ~300 students paused, Computek 25 of 120, AAPS 10; Harris Institute closing, Trillium suspended; Quinn announcement Thursday 12 Nov (Globe, Kelly Grant, 12 Nov) — https://www.theglobeandmail.com/canada/article-three-ontario-private-colleges-lay-off-staff-osap-pause/
@@ -59,7 +68,9 @@
 4. `plan-immigration-quebec` [immqc] — the PQ government's first immigration plan (35 000 permanent; temporary halved in four years). Promised « à la fin du mois de novembre ». Note: the federal one-time measure's 100 000 worker places are for workers outside Quebec, so do not write that Quebec gets a share of them.
 
 ## Agenda (upcoming dates; remove when passed)
-- 12 Nov (passed after this run; check outcomes next run): Ontario minister Quinn's OSAP announcement for private career colleges (Globe); Diab announcement in Dieppe, NB; Federal Court, Safe Third Country hearings.
+- 15 Nov (Sunday), 18 h Phnom Penh / 6 h Montréal: Carney–St-Pierre Plamondon meeting — https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie
+- 16 Nov: Ontario tables career-college/OSAP oversight bill — https://www.cp24.com/politics/queens-park/2026/11/12/ontario-unveils-new-details-about-proposed-osap-changes-after-systematic-and-widespread-problems/
+- 31 March 2027: deadline for provinces to use the extra PNP allocations (up to 100,000 workers) — https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-highlights-how-canada-is-working-with-provinces-and-territories-to-support-worker-retention.html
 - 13 Nov, 14 h: CRUES demonstration in Montréal — https://ici.radio-canada.ca/article/info/2299501/etudiants-greve-mobilisation-cegep-universite-education
 - 14–16 Nov: Sommet de la Francophonie (Cambodia), first Carney–St-Pierre Plamondon meeting, immigration on the table — https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php
 - 21 Nov: CRUES congress (unlimited general strike?) — same Radio-Canada article as 13 Nov
@@ -72,7 +83,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 13 Nov run: report what Quinn announced on OSAP for career colleges (12 Nov) and what Diab announced in Dieppe. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
+- 14 Nov run: watch for the outcome of the CRUES march (13 Nov), any Quebec position on the 100,000 PNP places (Quebec has no PNP; IRCC release silent on Quebec), and Milliard/PQ on the PQ ban of religious symbols for primary pupils (La Presse 12 Nov, one paragraph only). TVA Nouvelles and qub.ca loop on redirects with curl (do not retry). Radio-Canada section pages list article URLs with `curl --http1.1` (grep /article/info/); articles still via WebFetch. Radio-Canada site search https://ici.radio-canada.ca/recherche?q=... works with WebFetch. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
 - IRCC news: the Atom feed works with curl --http1.1: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&pick=12&format=atom (canada.ca article pages still need WebFetch).
 - Radio-Canada section pages: /info/politique works with WebFetch; /info/education is 404.
 - FROM 11 NOV: editions are bilingual (user request, 10 Nov). Stories from English-language sources are written in English with "lang": "en"; aim for about a third English when the news allows (see the task file). The reader was told English articles would appear from 11 Nov.
