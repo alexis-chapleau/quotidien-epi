@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Le Quotidien ÉPI — samedi 14 novembre 2026</title>
+<meta name="theme-color" content="#e12929">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Quotidien ÉPI"><meta name="robots" content="noindex,nofollow">
+<link rel="manifest" href="/manifest.webmanifest"><link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Rubik:wght@300;400;500;700&family=Roboto+Slab:wght@400;500;700;800&family=Roboto+Serif:ital,opsz,wght@0,8..144,400;0,8..144,700;1,8..144,300;1,8..144,500&display=swap" rel="stylesheet">
+<style>
+:root{--red:#e12929;--ink:#000;--ink2:#232325;--text:#131313;--grey:#686868;--grey2:#8d8d8d;--rule:#dcdcdc;--bg:#f8f8f8;
+--head:"Figtree","Verlag",Arial,sans-serif;--ui:"Rubik","rubrik",Arial,sans-serif;--slab:"Roboto Slab","Sentinel",Georgia,serif;--serif:"Roboto Serif",Georgia,serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--head);-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}[hidden]{display:none!important}
+.wrap{max-width:1320px;margin:0 auto;padding:0 15px}
+/* --- top utility + header --- */
+.util{background:#fff;border-bottom:1px solid #ececec;font:400 13px var(--ui);color:#777}
+.util ul{display:flex;justify-content:center;list-style:none;margin:0;padding:6px 0}
+.util li+li{border-left:1px solid #ddd}.util a{padding:0 20px}.util a:hover{color:#000}
+.mast{background:#fff}.mast .wrap{display:flex;align-items:center;height:130px;gap:24px}
+.logo{display:flex;flex-direction:column;justify-content:center;background:var(--red);color:#fff;width:100px;height:100px;padding:10px 8px;line-height:.95;flex:none}
+.logo span{font:900 13px var(--head);text-transform:uppercase;letter-spacing:.01em}
+.logo b{font:900 40px var(--head);letter-spacing:-.04em}
+.mast__date{font:400 15px/1.5 var(--ui);color:#555;margin-top:30px}
+.mast__mid{margin-left:auto;display:flex;align-items:center;gap:10px;font:400 13px var(--ui);color:#555}
+.mast__mid .t{font:300 24px var(--ui);color:#333}
+.mast__issue{margin-left:56px;text-align:center;font:400 12.5px var(--ui);color:#666;line-height:1.6}
+.mast__issue b{display:block;font:700 14px var(--head);color:#232325;letter-spacing:.04em;text-transform:uppercase}
+.mast__cta{background:#f1f1f1;align-self:stretch;margin:10px 0;padding:14px 38px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;font:400 14px var(--ui);color:#333}
+.pill{display:inline-flex;align-items:center;gap:8px;border-radius:30px;padding:9px 20px;font:500 15px var(--ui);cursor:pointer;white-space:nowrap}
+.pill--yellow{background:#fff200;border:2px solid #000;color:#000}.pill--yellow:hover{background:#ffe600}
+.pill--dark{background:#000;color:#fff}.pill--dark:hover{background:#333}
+.pill--outline{border:2px solid #000;color:#000;justify-content:center}
+.pill .heart{display:inline-grid;place-items:center;width:22px;height:22px;border:2px solid #000;border-radius:50%;font-size:11px}
+/* --- black section nav --- */
+.nav{background:#000;position:sticky;top:0;z-index:20}
+.nav ul{display:flex;list-style:none;margin:0 auto;max-width:1320px;padding:0 15px;height:60px;align-items:stretch;overflow-x:auto;scrollbar-width:none}.nav li{flex:none}
+.nav li:first-child a{padding-left:0}
+.nav li a{display:flex;align-items:center;height:100%;padding:0 10px;color:#fff;font:600 12.5px var(--head);text-transform:uppercase;letter-spacing:.045em;white-space:nowrap;border-bottom:5px solid transparent;border-top:5px solid transparent}
+.nav li a:hover,.nav li a.on{border-bottom-color:var(--c)}
+.nav .nav__home{margin-left:auto;font:400 13px var(--ui);letter-spacing:.02em;text-transform:none;color:#bbb}
+.subnav{color:#fff}.subnav ul{display:flex;flex-wrap:wrap;list-style:none;margin:0 auto;padding:0 15px;gap:0 26px}
+.subnav a{display:block;padding:7px 0;font:500 14px var(--ui);letter-spacing:.03em}.subnav a:hover,.subnav a.on{text-decoration:underline;text-underline-offset:4px}
+/* --- badges, dates, image blocks --- */
+.card__badges{display:flex;gap:6px;flex-wrap:wrap;margin:14px 0 10px}
+.badge{display:inline-block;border-radius:5px;padding:6px;font:500 12.5px var(--head);line-height:1;color:#fff;text-transform:uppercase;white-space:nowrap}
+.badge--dossier{background:#1e2a44;padding:0 6px 0 0;display:inline-flex;align-items:center;text-transform:none}
+.badge--dossier b{background:#2b3a5c;text-transform:uppercase;padding:6px;border-radius:5px 0 0 5px;margin-right:6px}
+.badge--opinion{background:#232325}
+.date{font:400 12.5px var(--ui);color:var(--grey2);margin:8px 0 0}
+.vis{position:relative;overflow:hidden;background:linear-gradient(135deg,#232325 0%,#3a3a40 45%,var(--c) 160%);aspect-ratio:3/2}
+.vis img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform .4s}
+a:hover>.vis img{transform:scale(1.03)}
+.vis__glyph{position:absolute;right:6%;bottom:-.12em;font:900 clamp(40px,9vw,140px)/1 var(--head);color:rgba(255,255,255,.1);letter-spacing:-.04em}
+.vis__name{position:absolute;left:14px;bottom:12px;font:700 11px var(--ui);color:#fff;text-transform:uppercase;letter-spacing:.14em;border-left:4px solid var(--red);padding-left:8px}
+.vis:not(.vis--none) .vis__name,.vis:not(.vis--none) .vis__glyph{display:none}
+/* --- hero row --- */
+.hero-row{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:30px;padding-top:16px;border-top:1px solid #e3e3e3;margin-top:16px}
+.hero{display:grid;grid-template-columns:66% 34%;background:#2d2d2d;min-height:420px;color:#fff}
+.hero__img .vis{height:100%;aspect-ratio:auto;min-height:420px}
+.hero__panel{position:relative;overflow:hidden;background:#2d2d2d}
+.hero__panel::before{content:"";position:absolute;inset:-40px;background:var(--bg,none) center/cover;filter:blur(30px);opacity:.55}
+.hero__panel::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(30,30,32,.55),rgba(30,30,32,.92))}
+.hero__panelInner{position:relative;z-index:1;padding:14px 22px 22px}
+.hero__sup{font:300 17px var(--head);color:#e6e6e6;margin:0 0 10px}
+.hero__title{font:800 34px/1.3 var(--head);margin:0 0 14px;letter-spacing:-.005em}.hero__title a:hover{text-decoration:underline;text-decoration-thickness:2px}
+.hero__lead{font:300 16px/1.6 var(--head);color:#eee;margin:0;display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden}
+.trio{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px;margin-top:32px}
+.card__sup{font:italic 300 15px var(--serif);color:var(--grey);margin:0 0 6px}
+.card__title{font:800 21px/1.32 var(--head);color:#000;margin:0;letter-spacing:-.003em}
+.card__title--slab{font-family:var(--slab);font-weight:700;letter-spacing:0}
+.card__title a:hover,.row__title a:hover{color:var(--c,#5A79A0)}
+.card--lg .card__title{font-size:30px;line-height:1.25}
+.card--lg .vis--none{aspect-ratio:16/7}
+.card__lead{font:300 16.5px/1.55 var(--head);color:var(--ink2);margin:10px 0 0}
+/* --- sidebar --- */
+.adlabel{background:#ddd;color:#666;text-align:center;font:600 12px var(--serif);text-transform:uppercase;letter-spacing:.04em;padding:7px}
+.numbox{background:#fdeeee;padding:26px 22px 24px;text-align:center}
+.numbox__value{font:900 64px/1 var(--head);color:#1d1a4a;letter-spacing:-.03em}
+.numbox p{font:500 16px/1.45 var(--head);color:#1d1a4a;margin:14px 0 18px}
+.essentials{border-top:4px solid var(--red);margin-top:30px;background:#fff;padding:2px 0}
+.essentials h2{font:400 22px/1.2 var(--ui);color:#111;margin:14px 14px 10px}.essentials h2 span{font-weight:700;color:var(--red)}
+.brief{display:flex;gap:10px;padding:12px 14px;border-top:1px solid #eee;font:600 15px/1.35 var(--head);color:#111}
+.brief small{display:block;font:700 10.5px var(--ui);text-transform:uppercase;letter-spacing:.08em;margin-bottom:3px}
+.brief__dot{flex:none;width:8px;height:8px;margin-top:4px}.brief:hover{background:#fafafa}
+.agenda{list-style:none;margin:0;padding:0}.agenda li{display:grid;grid-template-columns:62px 1fr;gap:10px;padding:11px 14px;border-top:1px solid #eee;font:500 14px/1.4 var(--head);color:#111}
+.agenda time{font:800 12px/1.3 var(--head);text-transform:uppercase;letter-spacing:.03em;color:var(--red)}.agenda a{font:600 12px var(--ui);color:#666;white-space:nowrap}
+.magenda{padding:18px 6px 6px}.magenda .quote__label{margin:0 14px 8px}
+/* --- dossier band --- */
+.band{background:#000;color:#fff;margin-top:50px;padding:28px 0 34px}
+.band__title{font:700 22px var(--ui);text-transform:uppercase;margin:0 0 20px;letter-spacing:.01em}
+.band__grid{display:grid;grid-template-columns:1fr 1fr;gap:30px}
+.dcard{display:grid;grid-template-columns:42% 1fr;gap:20px;border-top:1px solid #4f4a4a;padding-top:18px}
+.dcard__body h3{font:800 22px/1.3 var(--head);margin:0 0 10px}.dcard__body h3 a:hover{text-decoration:underline}
+.dcard__body p{font:300 15px/1.55 var(--head);color:#d4d4d4;margin:0;display:-webkit-box;-webkit-line-clamp:5;-webkit-box-orient:vertical;overflow:hidden}
+.dcard .card__badges{margin-top:0}
+.status{display:inline-block;background:#555;color:#fff;font:700 10.5px var(--ui);text-transform:uppercase;letter-spacing:.08em;padding:4px 7px;border-radius:3px;margin-right:8px;vertical-align:1px}
+.status--new{background:var(--red)}
+/* --- quote --- */
+.quote{text-align:center;padding:56px 15px 40px;max-width:900px}
+.quote__label{display:inline-block;font:700 12px var(--ui);text-transform:uppercase;letter-spacing:.14em;color:var(--red);margin-bottom:16px}
+.quote blockquote{margin:0;font:italic 500 30px/1.4 var(--slab);color:#111}
+.quote blockquote::before{content:"«\00a0";color:var(--red);font-style:normal;font-weight:800}
+.quote blockquote::after{content:"\00a0»";color:var(--red);font-style:normal;font-weight:800}
+.quote__who{font:400 14px var(--ui);color:#666;margin-top:16px}.quote__who a{text-decoration:underline}
+/* --- section blocks --- */
+.secblock{margin-top:44px}
+.sechead{font:700 24px var(--ui);text-transform:uppercase;color:var(--ink2);margin:0 0 18px;padding-bottom:12px;border-bottom:1px solid var(--rule);position:relative}
+.sechead::after{content:"";position:absolute;left:0;bottom:-1px;width:60px;height:4px;background:var(--c,var(--red))}
+.sechead a::after{content:" ›";font-weight:400;color:#999}
+.secgrid{display:grid;grid-template-columns:minmax(0,7fr) minmax(0,5fr);gap:30px}
+.seclist{display:flex;flex-direction:column}
+.row{display:grid;grid-template-columns:150px 1fr;gap:16px;padding:16px 0;border-top:1px solid var(--rule)}
+.row:first-child{border-top:0;padding-top:0}
+.row .card__badges{margin:0 0 6px}
+.row__title{font:700 17.5px/1.33 var(--head);margin:0;color:#000}
+.row__thumb .vis{aspect-ratio:3/2}
+.row .vis__glyph{font-size:44px}.row .vis__name{display:none}
+/* --- article page --- */
+.artgrid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,740px) 300px;gap:30px;padding-top:34px}
+.artgrid::before{content:""}
+.art__kicker{font:300 22px var(--head);color:#555;margin:6px 0 14px}
+.art__title{font:800 46px/1.18 var(--head);color:#000;margin:0 0 30px;letter-spacing:-.01em}
+.art__title--slab{font-family:var(--slab);font-weight:700}
+.art__fig{margin:0}.vis--art{aspect-ratio:3/2}
+.art__fig figcaption{font:400 14px/1.45 var(--head);color:var(--ink2);margin-top:10px}
+.credit{display:block;font:500 12px var(--head);text-transform:uppercase;color:var(--grey2);margin-bottom:5px;letter-spacing:.02em}
+.byline{display:flex;gap:12px;align-items:center;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:14px 0;margin:24px 0 26px;font:400 13px var(--ui);color:#777}
+.byline b{display:block;font:700 15px var(--head);color:#000}.byline span{display:block}
+.byline__logo{flex:none;width:46px;height:46px;border-radius:50%;background:var(--red);color:#fff;display:grid;place-items:center;font:900 13.5px var(--head)}
+.art p{font:400 18px/1.72 var(--serif);color:var(--text);margin:0 0 22px}
+.art .art__lead{font-weight:700;font-size:18.5px}
+.why{background:#fff;border-left:5px solid var(--c);padding:18px 22px;margin:30px 0}
+.why p{margin:0!important;font-size:17px!important}
+.why__label{font:700 12px var(--ui);text-transform:uppercase;letter-spacing:.12em;color:var(--c);margin-bottom:8px}
+.facts{margin:30px 0}.facts ol{list-style:none;counter-reset:f;margin:0;padding:0}
+.facts li{counter-increment:f;position:relative;padding:12px 0 12px 46px;border-top:1px solid var(--rule);font:500 16px/1.5 var(--head)}
+.facts li::before{content:counter(f);position:absolute;left:0;top:10px;width:30px;height:30px;background:var(--c);color:#fff;display:grid;place-items:center;font:800 14px var(--head);border-radius:4px}
+.srcbox{display:flex;justify-content:space-between;align-items:center;gap:20px;background:#efefef;padding:20px 22px;margin:34px 0;font:400 15px/1.6 var(--head)}
+.srcbox a:not(.pill){text-decoration:underline;color:#444;font-size:14px}
+.related{margin-top:50px}.related .trio{margin-top:0}
+.timeline{list-style:none;margin:0;padding:0;border-left:3px solid var(--c);margin-left:8px}
+.timeline li{position:relative;padding:0 0 22px 26px}
+.timeline li::before{content:"";position:absolute;left:-9px;top:4px;width:15px;height:15px;border-radius:50%;background:#fff;border:3px solid var(--c)}
+.timeline time{font:800 15px var(--head);text-transform:uppercase;letter-spacing:.04em;color:var(--c)}
+.timeline p{margin:4px 0 0!important;font-size:16.5px!important}.timeline a{font:600 13px var(--ui);color:var(--c);white-space:nowrap}
+.aside{position:relative}
+.promo{position:sticky;top:84px;border:1px solid #d9d9d9;background:#fff;padding:22px}
+.promo__logo{display:inline-flex;flex-direction:column;background:var(--red);color:#fff;padding:7px 8px;line-height:.95;margin-bottom:12px}
+.promo__logo span{font:900 9px var(--head);text-transform:uppercase}.promo__logo b{font:900 24px var(--head)}
+.promo h3{font:400 22px/1.25 var(--slab);margin:0 0 12px}
+.mini{display:grid;grid-template-columns:96px 1fr;gap:12px;padding:12px 0;border-top:1px solid #eee;font:600 14.5px/1.35 var(--head)}
+.mini small{display:block;font:700 10px var(--ui);text-transform:uppercase;letter-spacing:.08em;margin-bottom:3px}
+.mini .vis__glyph{font-size:30px}.mini .vis__name{display:none}
+.mini:hover span{text-decoration:underline}.promo .pill{width:100%;margin-top:14px}
+/* --- footer --- */
+footer{background:#000;color:#cfcfcf;margin-top:70px;font:400 13.5px/1.6 var(--ui)}
+footer .wrap{padding:40px 15px 30px}
+.foot__top{display:flex;gap:24px;align-items:flex-start;margin-bottom:26px}
+.foot__top h4{font:700 15px var(--ui);text-transform:uppercase;color:#fff;margin:6px 0 4px;letter-spacing:.06em}
+footer ol{columns:3;column-gap:40px;margin:0;padding-left:20px}
+footer li{break-inside:avoid;margin-bottom:6px}footer li a{color:#eee}footer li a:hover{text-decoration:underline}
+.colophon{border-top:1px solid #333;margin-top:26px;padding-top:16px;color:#888;font-size:12.5px}
+@media (max-width:1100px){.artgrid{grid-template-columns:minmax(0,1fr) 300px}.artgrid::before{display:none}.mast__issue{display:none}}
+.subnav__back{opacity:.85}
+html,body{overflow-x:hidden}
+@media (max-width:900px){
+.hero-row,.artgrid,.secgrid,.band__grid{grid-template-columns:minmax(0,1fr)}
+.hero{grid-template-columns:minmax(0,1fr)}.hero__img .vis{min-height:0;aspect-ratio:16/10}
+.trio{grid-template-columns:repeat(2,minmax(0,1fr))}
+.mast__cta,.mast__mid,.mast__issue{display:none}
+.nav ul{overflow-x:auto;scrollbar-width:none}.nav ul::-webkit-scrollbar{display:none}.nav li a{white-space:nowrap}
+.art__title{font-size:34px}footer ol{columns:1}.aside .promo{position:static}}
+/* ================= phone app (La Presse app look) ================= */
+.m-only{display:none}
+.appbar{position:sticky;top:0;z-index:30;background:var(--red);color:#fff;align-items:center;justify-content:space-between;padding:calc(env(safe-area-inset-top) + 9px) 14px 9px}
+.appbar__logo{font:900 19px/1 var(--head);letter-spacing:.01em;text-transform:uppercase}
+.appbar__heart{width:30px;height:30px;border-radius:50%;background:#fff200;color:#000;display:grid;place-items:center;font-size:15px;box-shadow:inset 0 0 0 2px #000}
+.appbar__me{display:grid;place-items:center;width:30px;height:30px;color:#fff}
+.mfeed{padding:0 12px}
+.mhead{text-align:center;font:900 22px/1.15 var(--head);text-transform:uppercase;margin:22px 0 14px;color:#111;scroll-margin-top:70px}
+.mhead span{display:block;font:400 13.5px var(--ui);text-transform:none;color:#555;margin-top:5px}
+.mcard{display:block;background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 3px rgba(0,0,0,.12),0 6px 16px rgba(0,0,0,.05);margin-bottom:14px;color:#111}
+.mcard__img{display:block;position:relative}.mcard__img .vis{aspect-ratio:16/10}
+.mbadge{position:absolute;left:10px;bottom:10px;z-index:2}
+.mcard__body{padding:12px 14px 12px}
+.mcard__body>.badge{margin-bottom:8px}
+.mcard__sup{font:500 13.5px var(--head);color:#232325;margin:0 0 4px}
+.mcard__title{font:800 21px/1.25 var(--head);margin:0 0 8px;color:#000}
+.mcard__title--slab{font-family:var(--slab);font-weight:700}
+.mcard__lead{font:400 14px/1.45 var(--head);color:#333;margin:0 0 10px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.mcard__foot{display:flex;align-items:center;gap:6px;font:400 12.5px var(--ui);color:#555}
+.mdot{display:inline-block;width:10px;height:10px;border-radius:50%;background:#1eaefd;flex:none}
+.acts{margin-left:auto;display:flex;gap:14px}
+.acts button{background:none;border:0;padding:2px;margin:0;color:inherit;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.bm.on svg{fill:currentColor}
+/* whole card is tappable: the headline link is stretched over the card; bookmark/share stay on top */
+.mcard,.card,.row,.dcard{position:relative}
+.mcard__title a::after,.card__title a::after,.row__title a::after,.dcard h3 a::after{content:"";position:absolute;inset:0;z-index:1}
+.acts{position:relative;z-index:2}
+.mbadge{pointer-events:none}.mcard__img .vis__name{display:none}.mcard--row .mbadge{position:static;display:inline-block}
+.mcard--row{display:grid;grid-template-columns:minmax(0,1fr) 104px;gap:12px;padding:12px}
+.mcard--row .mcard__body{padding:0}.mcard--row .mcard__img .vis{aspect-ratio:1;border-radius:6px}
+.mcard--row .mcard__title{font-size:17px;line-height:1.3}
+.mcard--row .vis__name{display:none}.mcard--row .vis__glyph{font-size:36px}
+.mcard--dossier{background:#1b1b1d;color:#fff}
+.mcard--dossier .mcard__title,.mcard--dossier .mcard__sup{color:#fff}.mcard--dossier .mcard__lead{color:#ccc}.mcard--dossier .mcard__foot{color:#aaa}
+.mquote{padding:22px 18px;text-align:center}.mquote blockquote{margin:0;font:italic 500 20px/1.4 var(--slab)}
+.mquote blockquote::before{content:"«\00a0";color:var(--red);font-style:normal}.mquote blockquote::after{content:"\00a0»";color:var(--red);font-style:normal}
+.mnum{padding:22px 18px;text-align:center;background:#fdeeee}.mnum .numbox__value{font-size:54px}.mnum p{font:500 15px/1.45 var(--head);color:#1d1a4a;margin:10px 0 0}
+.mchips{display:flex;gap:8px;overflow-x:auto;margin:0 -12px 6px;padding:2px 12px;scrollbar-width:none}.mchips::-webkit-scrollbar{display:none}
+.mchips a{flex:none;border-radius:16px;padding:7px 13px;font:500 13px var(--ui);color:#fff;background:var(--c)}
+.msec{display:flex;align-items:center;gap:8px;font:700 18px var(--ui);text-transform:uppercase;margin:26px 2px 12px;color:#232325;scroll-margin-top:70px}
+.msec::before{content:"";width:10px;height:10px;background:var(--c)}
+.msources{padding:14px 16px;font:400 13px/1.5 var(--ui)}.msources summary{font:700 14px var(--ui);cursor:pointer}
+.msources ol{padding-left:18px;margin:10px 0 0}.msources li{margin-bottom:6px}.msources a{text-decoration:underline}
+.mcolophon{font:400 11.5px/1.5 var(--ui);color:#888;text-align:center;margin:8px 0 24px}
+.tabbar{position:fixed;left:12px;right:12px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:40;justify-content:space-around;background:rgba(246,246,246,.8);-webkit-backdrop-filter:blur(18px) saturate(1.8);backdrop-filter:blur(18px) saturate(1.8);border-radius:30px;box-shadow:0 6px 24px rgba(0,0,0,.18);padding:6px;border:1px solid rgba(255,255,255,.7)}
+.tabbar a{display:flex;flex-direction:column;align-items:center;gap:2px;font:500 10px var(--ui);color:#333;padding:5px 6px;border-radius:22px;flex:1}
+.tabbar a.on{background:rgba(0,0,0,.08);color:#000;font-weight:700}
+.scrim{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:45;opacity:0;pointer-events:none;transition:opacity .5s cubic-bezier(.32,.72,0,1)}
+#stage{display:contents}
+a,button{-webkit-tap-highlight-color:transparent}
+.msheet__bar{display:none}
+@media (max-width:700px){
+.d-only,.util,.mast,.nav,footer{display:none!important}
+.m-only{display:block}.appbar.m-only,.tabbar.m-only{display:flex}
+body{background:#f1f1f1;transition:background-color .5s}
+#stage{display:block;background:#f1f1f1;min-height:100vh;padding-bottom:calc(84px + env(safe-area-inset-bottom));transition:transform .5s cubic-bezier(.32,.72,0,1),border-radius .5s cubic-bezier(.32,.72,0,1);will-change:transform}
+body.sheet{overflow:hidden;background:#000}body.sheet .scrim{opacity:1;pointer-events:auto}
+body.sheet #stage{transform:translate3d(0,calc((env(safe-area-inset-top) + 10px) * var(--k,1)),0) scale(calc(1 - .07 * var(--k,1)));border-radius:14px}
+.mcard{transition:transform .35s cubic-bezier(.32,.72,0,1)}.mcard:active{transform:scale(.97)}
+.page{position:fixed;left:0;right:0;bottom:0;top:calc(env(safe-area-inset-top) + 30px);z-index:50;background:#fff;border-radius:12px 12px 0 0;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain;transform:translate3d(0,102%,0);transition:transform .5s cubic-bezier(.32,.72,0,1);will-change:transform;box-shadow:0 -4px 24px rgba(0,0,0,.18)}
+.page.is-open{transform:none}
+.page .subnav,.page .aside,.page .byline,.page .related,.art>.card__badges{display:none!important}
+.artgrid{display:block;padding:0;max-width:none}
+.art{display:flex;flex-direction:column;padding:0 16px calc(110px + env(safe-area-inset-bottom))}
+.msheet__bar.m-only{order:-2;position:sticky;top:0;z-index:5;margin:0 -16px;display:flex;align-items:center;color:#fff;padding:16px 16px 11px;font:700 12.5px var(--ui);text-transform:uppercase;letter-spacing:.06em}
+.msheet__grab{position:absolute;left:50%;top:0;width:90px;height:16px;margin-left:-45px}
+.msheet__grab::before{content:"";position:absolute;left:25px;right:25px;top:6px;height:4px;border-radius:3px;background:rgba(255,255,255,.75)}
+.art__fig{order:-1;margin:0 -16px;position:relative}.vis--art{aspect-ratio:16/10}
+.art__fig figcaption{position:absolute;left:0;right:0;bottom:0;margin:0;padding:26px 16px 8px;background:linear-gradient(transparent,rgba(0,0,0,.7));z-index:2}
+.art__fig .credit{color:#eee;margin:0;font-size:11px}.art__fig .cap{display:none}.art__fig .vis__name{display:none}
+.art__kicker{font:400 15px var(--head);color:#232325;margin:20px 0 8px}
+.art__title{font:800 29px/1.18 var(--head);margin:0 0 12px}
+.mmeta.m-only{display:flex;justify-content:space-between;align-items:center;font:400 13px var(--ui);color:#555;margin-bottom:14px}
+.mmeta span{display:flex;align-items:center;gap:6px}
+.msrc{background:#e9e9e9;font:400 12.5px var(--head);padding:8px 10px;margin-bottom:18px;color:#232325}
+.art p{font-size:17px;line-height:1.62;-webkit-hyphens:auto;hyphens:auto}
+.art .art__lead{font-family:var(--head);font-weight:700;font-size:17px;line-height:1.5}
+.why,.facts{margin:22px 0}.srcbox{flex-direction:column;align-items:flex-start;margin:26px 0}
+.timeline p{font-size:16px!important}.sechead{font-size:19px}}
+/* past editions page */
+.archive .m-only{display:block}.archive .appbar.m-only,.archive .tabbar.m-only{display:flex}
+.archive{padding-bottom:110px}.archive .tabbar{max-width:616px;margin:0 auto}
+.archive main{max-width:640px;margin:0 auto;padding:0 12px 40px}
+</style></head>
+<body data-edition="/editions/2026-11-14.html" data-date="samedi 14 novembre 2026">
+<div id="stage">
+<header class="appbar m-only"><a class="appbar__heart" href="#manifestation-etudiante-degenere" aria-label="À la une">★</a><a class="appbar__logo" href="#top">Le Quotidien ÉPI</a><a class="appbar__me" href="/archive.html" aria-label="Éditions précédentes"><svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v15H4zM4 10h16M8 3v4M16 3v4"/></svg></a></header>
+<div id="top" class="util"><ul><li><a href="#top">Édition du jour</a></li><li><a href="#manifestation-etudiante-degenere">À la une</a></li><li><a href="#sources">Sources</a></li><li><a href="/archive.html">Éditions précédentes</a></li></ul></div>
+<header class="mast"><div class="wrap">
+  <a class="logo" href="#top"><span>Le Quotidien</span><b>ÉPI.</b></a>
+  <div class="mast__date">Éducation privée et immigration · Québec et Canada<br>samedi 14 novembre 2026</div>
+  <div class="mast__mid"><span>Québec</span><span style="font-size:22px">☁️</span><span class="t">32°F</span></div>
+  <div class="mast__issue"><b>N° 6</b>6 articles · 6 sources</div>
+  <div class="mast__cta">Votre veille du matin<a class="pill pill--yellow" href="#manifestation-etudiante-degenere"><span class="heart">★</span>Lire la une</a></div>
+</div></header>
+<nav class="nav"><ul><li><a href="#sec-colleges" data-s="colleges" style="--c:#840132">Collèges privés</a></li><li><a href="#sec-etudiants" data-s="etudiants" style="--c:#207FB7">Étudiants étrangers</a></li><li><a href="#sec-superieur" data-s="superieur" style="--c:#5A79A0">Supérieur</a></li><li><a href="#sec-immqc" data-s="immqc" style="--c:#14A574">Immigration Québec</a></li><li><a href="#sec-immca" data-s="immca" style="--c:#D25F68">Immigration Canada</a></li><li><a href="#sec-provinces" data-s="provinces" style="--c:#FF6C00">Provinces</a></li><li style="margin-left:auto"><a class="nav__home" href="#top">La une</a></li></ul></nav>
+<main>
+<div id="home"><div class="d-only">
+<section class="wrap hero-row">
+<div class="hero-main">
+  <article class="hero" style="--c:#5A79A0">
+    <a class="hero__img" href="#manifestation-etudiante-degenere"><div class="vis vis--hero" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+    <div class="hero__panel" style="--bg:url(&quot;https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg&quot;)">
+      <div class="hero__panelInner">
+        <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+        <p class="hero__sup">Grève étudiante</p>
+        <h1 class="hero__title"><a href="#manifestation-etudiante-degenere">La manifestation étudiante dégénère au centre-ville de Montréal</a></h1>
+        <p class="hero__lead">Gaz lacrymogène, vitrines fracassées et trois arrestations : la marche de quelques milliers d’étudiants a été déclarée illégale vendredi. La CRUES votera le 21 novembre sur une grève générale illimitée à l’hiver 2027.</p>
+        <p class="date">Publié à 06 h 20</p>
+      </div>
+    </div>
+  </article>
+  <div class="trio"><article class="card card--md" lang="en">
+  <a class="card__link" href="#pnp-100000-hors-quebec"><div class="vis" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#D25F68">Immigration Canada</span></div>
+  <p class="card__sup">Provincial Nominee Program</p>
+  <h3 class="card__title"><a href="#pnp-100000-hors-quebec">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</a></h3>
+  
+  <p class="date">CIC News · 12 novembre 2026</p>
+</article><article class="card card--md" lang="en">
+  <a class="card__link" href="#delais-permis-etudes-baissent"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#207FB7">Étudiants étrangers</span></div>
+  <p class="card__sup">Processing times</p>
+  <h3 class="card__title"><a href="#delais-permis-etudes-baissent">Study-permit processing speeds up as work-permit waits grow</a></h3>
+  
+  <p class="date">CIC News · 13 novembre 2026</p>
+</article><article class="card card--md" lang="en">
+  <a class="card__link" href="#computek-inspection-prioritaire"><div class="vis" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#FF6C00">Ailleurs au Canada</span></div>
+  <p class="card__sup">Career colleges</p>
+  <h3 class="card__title"><a href="#computek-inspection-prioritaire">Career college with clean record asks Ontario to inspect it first</a></h3>
+  
+  <p class="date">Global News · 13 novembre 2026</p>
+</article></div>
+</div>
+<aside class="side">
+  <div class="adlabel">Le chiffre</div>
+  <div class="numbox">
+    <div class="numbox__value">1,9 %</div>
+    <p>Croissance annuelle moyenne des dépenses promise par le gouvernement St-Pierre Plamondon, sous l’inflation et sans couverture des coûts de système en éducation.</p>
+    <a class="pill pill--dark" href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">Voir la source</a>
+  </div>
+  <div class="essentials">
+    <h2>L'essentiel du jour<br><span>6 nouvelles à retenir</span></h2>
+    <a class="brief" href="#manifestation-etudiante-degenere"><span class="brief__dot" style="background:#5A79A0"></span><span><small style="color:#5A79A0">Cégeps et universités</small><span>Grève étudiante : la manifestation de la CRUES dégénère à Montréal; trois arrestations, Lefebvre et Lapointe condamnent la casse</span></span></a><a class="brief" href="#analyse-premiere-crise-pspp"><span class="brief__dot" style="background:#5A79A0"></span><span><small style="color:#5A79A0">Cégeps et universités</small><span>Analyse : la grève, première crise du gouvernement St-Pierre Plamondon, qui promet des dépenses limitées à 1,9 % par an</span></span></a><a class="brief" href="#editorial-etudiants-meche-courte"><span class="brief__dot" style="background:#5A79A0"></span><span><small style="color:#5A79A0">Cégeps et universités</small><span>Éditorial de La Presse : les étudiants « ont la mèche courte » et devraient condamner le vandalisme</span></span></a><a class="brief" href="#pnp-100000-hors-quebec"><span class="brief__dot" style="background:#D25F68"></span><span><small style="color:#D25F68">Immigration Canada</small><span lang="en">The 100,000 extra PNP spots are for workers outside Quebec; provinces have until March 31</span></span></a><a class="brief" href="#delais-permis-etudes-baissent"><span class="brief__dot" style="background:#207FB7"></span><span><small style="color:#207FB7">Étudiants étrangers</small><span lang="en">Study-permit processing times fall to their fastest pace in four months for in-Canada applicants</span></span></a><a class="brief" href="#computek-inspection-prioritaire"><span class="brief__dot" style="background:#FF6C00"></span><span><small style="color:#FF6C00">Ailleurs au Canada</small><span lang="en">Ontario: a career college with a clean record asks to be inspected first so OSAP can resume</span></span></a>
+  </div>
+  <div class="essentials agendabox"><h2>À l’agenda<br><span>Les dates à surveiller</span></h2><ul class="agenda"><li><time>15 nov.</time><span>Premier tête-à-tête Carney–St-Pierre Plamondon à Phnom Penh, 6 h heure de Montréal <a href="https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie" target="_blank" rel="noopener">source ›</a></span></li><li><time>16 nov.</time><span>Ontario : dépôt du projet de loi sur la surveillance des collèges privés et le RAFEO <a href="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/" target="_blank" rel="noopener">source ›</a></span></li><li><time>21 nov.</time><span>Assemblée de la CRUES sur une grève générale illimitée à l’hiver 2027 <a href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">source ›</a></span></li><li><time>Fin nov.</time><span>Planification pluriannuelle de l’immigration du Québec <a href="https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/" target="_blank" rel="noopener">source ›</a></span></li><li><time>1er déc.</time><span>Rentrée parlementaire à Québec; les travaux se terminent le 11 décembre <a href="https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec" target="_blank" rel="noopener">source ›</a></span></li><li><time>21-22 janv.</time><span>Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier <a href="https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130" target="_blank" rel="noopener">source ›</a></span></li></ul></div>
+</aside>
+</section>
+<section class="band"><div class="wrap"><h2 class="band__title">Dossiers · À suivre</h2><div class="band__grid">
+<article class="dcard">
+  <a class="dcard__img" href="#college-lasalle-dette"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="dcard__body">
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>9 jalons</span><span class="badge" style="background:#840132">Collèges privés</span></div>
+    <h3><a href="#college-lasalle-dette">Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier</a></h3>
+    <p><span class="status">Rien de neuf</span>Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.</p>
+  </div>
+</article>
+<article class="dcard">
+  <a class="dcard__img" href="#permis-colleges-superieurs"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="dcard__body">
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>3 jalons</span><span class="badge" style="background:#840132">Collèges privés</span></div>
+    <h3><a href="#permis-colleges-superieurs">Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif</a></h3>
+    <p><span class="status">Rien de neuf</span>Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.</p>
+  </div>
+</article>
+<article class="dcard">
+  <a class="dcard__img" href="#plafonds-etudiants-etrangers"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="dcard__body">
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>7 jalons</span><span class="badge" style="background:#207FB7">Étudiants étrangers</span></div>
+    <h3><a href="#plafonds-etudiants-etrangers">Étudiants étrangers : les plafonds et leurs effets</a></h3>
+    <p><span class="status">Rien de neuf</span>Rien de neuf au Québec. Les délais de traitement des permis d’études au Canada raccourcissent (deux semaines de moins pour les demandes faites au pays). Le deuxième volet du décret québécois commence le 17 décembre.</p>
+  </div>
+</article>
+<article class="dcard">
+  <a class="dcard__img" href="#plan-immigration-quebec"><div class="vis" style="--c:#14A574"><span class="vis__glyph">QC</span><span class="vis__name">Immigration Québec</span><img src="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="dcard__body">
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>13 jalons</span><span class="badge" style="background:#14A574">Immigration Québec</span></div>
+    <h3><a href="#plan-immigration-quebec">Immigration : le premier plan du gouvernement péquiste</a></h3>
+    <p><span class="status status--new">Du nouveau</span>Selon CIC News, les 100 000 places supplémentaires du Programme des candidats des provinces visent des travailleurs hors Québec; les nominations doivent être faites d’ici le 31 mars 2027. Tête-à-tête Carney–St-Pierre Plamondon dimanche à Phnom Penh.</p>
+  </div>
+</article>
+</div></div></section>
+<section class="wrap quote">
+  <div class="quote__label">La citation</div>
+  <blockquote>Paralyser l’enseignement supérieur devrait être un moyen de dernier recours, pas un outil qu’on brandit avant même d’avoir essayé de discuter.</blockquote>
+  <p class="quote__who"><b>La Presse</b>, éditorial du 14 novembre
+   · <a href="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php" target="_blank" rel="noopener">source</a></p>
+</section>
+<section class="wrap secblock" id="sec-colleges" style="--c:#840132">
+  <h2 class="sechead"><a href="#sec-colleges">Collèges privés</a></h2>
+  <div class="secgrid">
+    <div></div>
+    <div class="seclist"><article class="row row--dossier">
+  <a class="row__thumb" href="#college-lasalle-dette"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>9 jalons</span></div>
+    <h4 class="row__title"><a href="#college-lasalle-dette">Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier</a></h4>
+    <p class="date"><span class="status">Rien de neuf</span></p>
+  </div>
+</article><article class="row row--dossier">
+  <a class="row__thumb" href="#permis-colleges-superieurs"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>3 jalons</span></div>
+    <h4 class="row__title"><a href="#permis-colleges-superieurs">Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif</a></h4>
+    <p class="date"><span class="status">Rien de neuf</span></p>
+  </div>
+</article></div>
+  </div>
+</section>
+<section class="wrap secblock" id="sec-etudiants" style="--c:#207FB7">
+  <h2 class="sechead"><a href="#sec-etudiants">Étudiants étrangers</a></h2>
+  <div class="secgrid">
+    <div><article class="card card--lg" lang="en">
+  <a class="card__link" href="#delais-permis-etudes-baissent"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#207FB7">Étudiants étrangers</span></div>
+  <p class="card__sup">Processing times</p>
+  <h3 class="card__title"><a href="#delais-permis-etudes-baissent">Study-permit processing speeds up as work-permit waits grow</a></h3>
+  <p class="card__lead">IRCC&#x27;s weekly update, as of Nov. 12, shows study-permit processing two weeks faster for applicants inside Canada. IRCC finalized more than 2 million temporary-residence applications from January to August.</p>
+  <p class="date">CIC News · 13 novembre 2026</p>
+</article></div>
+    <div class="seclist"><article class="row row--dossier">
+  <a class="row__thumb" href="#plafonds-etudiants-etrangers"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>7 jalons</span></div>
+    <h4 class="row__title"><a href="#plafonds-etudiants-etrangers">Étudiants étrangers : les plafonds et leurs effets</a></h4>
+    <p class="date"><span class="status">Rien de neuf</span></p>
+  </div>
+</article></div>
+  </div>
+</section>
+<section class="wrap secblock" id="sec-superieur" style="--c:#5A79A0">
+  <h2 class="sechead"><a href="#sec-superieur">Cégeps et universités</a></h2>
+  <div class="secgrid">
+    <div><article class="card card--lg">
+  <a class="card__link" href="#analyse-premiere-crise-pspp"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Analyse</p>
+  <h3 class="card__title card__title--slab"><a href="#analyse-premiere-crise-pspp">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a></h3>
+  <p class="card__lead">Le gouvernement n’a pas promis de couvrir les coûts de système en éducation et en enseignement supérieur et vise une croissance des dépenses de 1,9 % par an. Le mouvement étudiant lui accole déjà l’étiquette d’« austérité ».</p>
+  <p class="date">La Presse · 14 novembre 2026</p>
+</article></div>
+    <div class="seclist"><article class="row">
+  <a class="row__thumb" href="#editorial-etudiants-meche-courte"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div>
+    <p class="card__sup">Éditorial</p>
+    <h4 class="row__title card__title--slab"><a href="#editorial-etudiants-meche-courte">« Les étudiants ont la mèche courte », tranche La Presse</a></h4>
+    <p class="date">La Presse · 14 novembre 2026</p>
+  </div>
+</article></div>
+  </div>
+</section>
+<section class="wrap secblock" id="sec-immqc" style="--c:#14A574">
+  <h2 class="sechead"><a href="#sec-immqc">Immigration Québec</a></h2>
+  <div class="secgrid">
+    <div></div>
+    <div class="seclist"><article class="row row--dossier">
+  <a class="row__thumb" href="#plan-immigration-quebec"><div class="vis" style="--c:#14A574"><span class="vis__glyph">QC</span><span class="vis__name">Immigration Québec</span><img src="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>13 jalons</span></div>
+    <h4 class="row__title"><a href="#plan-immigration-quebec">Immigration : le premier plan du gouvernement péquiste</a></h4>
+    <p class="date"><span class="status status--new">Du nouveau</span></p>
+  </div>
+</article></div>
+  </div>
+</section>
+<section class="wrap secblock" id="sec-immca" style="--c:#D25F68">
+  <h2 class="sechead"><a href="#sec-immca">Immigration Canada</a></h2>
+  <div class="secgrid">
+    <div><article class="card card--lg" lang="en">
+  <a class="card__link" href="#pnp-100000-hors-quebec"><div class="vis" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#D25F68">Immigration Canada</span></div>
+  <p class="card__sup">Provincial Nominee Program</p>
+  <h3 class="card__title"><a href="#pnp-100000-hors-quebec">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</a></h3>
+  <p class="card__lead">CIC News reads IRCC&#x27;s release as reserving the additional nominations for workers in Canada outside Quebec. Nominations must be issued by March 31, 2027, leaving IRCC about nine months to finalize the files.</p>
+  <p class="date">CIC News · 12 novembre 2026</p>
+</article></div>
+    <div class="seclist"></div>
+  </div>
+</section>
+<section class="wrap secblock" id="sec-provinces" style="--c:#FF6C00">
+  <h2 class="sechead"><a href="#sec-provinces">Ailleurs au Canada</a></h2>
+  <div class="secgrid">
+    <div><article class="card card--lg" lang="en">
+  <a class="card__link" href="#computek-inspection-prioritaire"><div class="vis" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#FF6C00">Ailleurs au Canada</span></div>
+  <p class="card__sup">Career colleges</p>
+  <h3 class="card__title"><a href="#computek-inspection-prioritaire">Career college with clean record asks Ontario to inspect it first</a></h3>
+  <p class="card__lead">Computek College, which laid off staff for the first time in 35 years, says the blanket OSAP freeze hits schools that are audited and inspected every year. The ban covers all 242 private career colleges.</p>
+  <p class="date">Global News · 13 novembre 2026</p>
+</article></div>
+    <div class="seclist"></div>
+  </div>
+</section>
+</div><div class="m-only mfeed">
+<h2 class="mhead" id="m-head">À la une<span>Ce qu’il faut savoir ce matin.</span></h2>
+<article class="mcard">
+  <a class="mcard__img" href="#manifestation-etudiante-degenere"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="badge mbadge" style="background:#5A79A0">Cégeps et universités</span></a>
+  <div class="mcard__body">
+    
+    <p class="mcard__sup">Grève étudiante</p>
+    <h3 class="mcard__title"><a href="#manifestation-etudiante-degenere">La manifestation étudiante dégénère au centre-ville de Montréal</a></h3>
+    <p class="mcard__lead">Gaz lacrymogène, vitrines fracassées et trois arrestations : la marche de quelques milliers d’étudiants a été déclarée illégale vendredi. La CRUES votera le 21 novembre sur une grève générale illimitée à l’hiver 2027.</p>
+    <div class="mcard__foot"><i class="mdot"></i>13 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="manifestation-etudiante-degenere" data-title="La manifestation étudiante dégénère au centre-ville de Montréal" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="La manifestation étudiante dégénère au centre-ville de Montréal" data-url="https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  
+</article><article class="mcard" lang="en">
+  <a class="mcard__img" href="#pnp-100000-hors-quebec"><div class="vis" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="badge mbadge" style="background:#D25F68">Immigration Canada</span></a>
+  <div class="mcard__body">
+    
+    <p class="mcard__sup">Provincial Nominee Program</p>
+    <h3 class="mcard__title"><a href="#pnp-100000-hors-quebec">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</a></h3>
+    <p class="mcard__lead">CIC News reads IRCC&#x27;s release as reserving the additional nominations for workers in Canada outside Quebec. Nominations must be issued by March 31, 2027, leaving IRCC about nine months to finalize the files.</p>
+    <div class="mcard__foot"><i class="mdot"></i>12 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="pnp-100000-hors-quebec" data-title="Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec" data-sec="Immigration Canada" data-color="#D25F68" data-img="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec" data-url="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  
+</article><article class="mcard" lang="en">
+  <a class="mcard__img" href="#delais-permis-etudes-baissent"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="badge mbadge" style="background:#207FB7">Étudiants étrangers</span></a>
+  <div class="mcard__body">
+    
+    <p class="mcard__sup">Processing times</p>
+    <h3 class="mcard__title"><a href="#delais-permis-etudes-baissent">Study-permit processing speeds up as work-permit waits grow</a></h3>
+    <p class="mcard__lead">IRCC&#x27;s weekly update, as of Nov. 12, shows study-permit processing two weeks faster for applicants inside Canada. IRCC finalized more than 2 million temporary-residence applications from January to August.</p>
+    <div class="mcard__foot"><i class="mdot"></i>13 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="delais-permis-etudes-baissent" data-title="Study-permit processing speeds up as work-permit waits grow" data-sec="Étudiants étrangers" data-color="#207FB7" data-img="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Study-permit processing speeds up as work-permit waits grow" data-url="https://www.cicnews.com/2026/11/work-permit-wait-times-rise-as-study-permit-processing-times-fall-1182503.html"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  
+</article><article class="mcard" lang="en">
+  <a class="mcard__img" href="#computek-inspection-prioritaire"><div class="vis" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="badge mbadge" style="background:#FF6C00">Ailleurs au Canada</span></a>
+  <div class="mcard__body">
+    
+    <p class="mcard__sup">Career colleges</p>
+    <h3 class="mcard__title"><a href="#computek-inspection-prioritaire">Career college with clean record asks Ontario to inspect it first</a></h3>
+    <p class="mcard__lead">Computek College, which laid off staff for the first time in 35 years, says the blanket OSAP freeze hits schools that are audited and inspected every year. The ban covers all 242 private career colleges.</p>
+    <div class="mcard__foot"><i class="mdot"></i>13 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="computek-inspection-prioritaire" data-title="Career college with clean record asks Ontario to inspect it first" data-sec="Ailleurs au Canada" data-color="#FF6C00" data-img="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Career college with clean record asks Ontario to inspect it first" data-url="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  
+</article>
+<h2 class="mhead" id="m-dossiers">Dossiers<span>Les histoires que nous suivons.</span></h2>
+<article class="mcard mcard--dossier">
+  <a class="mcard__img" href="#college-lasalle-dette"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="mbadge"><span class="badge badge--dossier"><b>Dossier</b>9 jalons</span></span></a>
+  <div class="mcard__body">
+    <p class="mcard__sup">Collèges privés · À suivre</p>
+    <h3 class="mcard__title"><a href="#college-lasalle-dette">Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier</a></h3>
+    <p class="mcard__lead"><span class="status">Rien de neuf</span>Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.</p>
+    <div class="mcard__foot"><i class="mdot"></i>9 jalons<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="college-lasalle-dette" data-title="Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier" data-sec="Collèges privés" data-color="#840132" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier" data-url="https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+</article><article class="mcard mcard--dossier">
+  <a class="mcard__img" href="#permis-colleges-superieurs"><div class="vis" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="mbadge"><span class="badge badge--dossier"><b>Dossier</b>3 jalons</span></span></a>
+  <div class="mcard__body">
+    <p class="mcard__sup">Collèges privés · À suivre</p>
+    <h3 class="mcard__title"><a href="#permis-colleges-superieurs">Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif</a></h3>
+    <p class="mcard__lead"><span class="status">Rien de neuf</span>Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.</p>
+    <div class="mcard__foot"><i class="mdot"></i>3 jalons<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="permis-colleges-superieurs" data-title="Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif" data-sec="Collèges privés" data-color="#840132" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif" data-url="https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+</article><article class="mcard mcard--dossier">
+  <a class="mcard__img" href="#plafonds-etudiants-etrangers"><div class="vis" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="mbadge"><span class="badge badge--dossier"><b>Dossier</b>7 jalons</span></span></a>
+  <div class="mcard__body">
+    <p class="mcard__sup">Étudiants étrangers · À suivre</p>
+    <h3 class="mcard__title"><a href="#plafonds-etudiants-etrangers">Étudiants étrangers : les plafonds et leurs effets</a></h3>
+    <p class="mcard__lead"><span class="status">Rien de neuf</span>Rien de neuf au Québec. Les délais de traitement des permis d’études au Canada raccourcissent (deux semaines de moins pour les demandes faites au pays). Le deuxième volet du décret québécois commence le 17 décembre.</p>
+    <div class="mcard__foot"><i class="mdot"></i>7 jalons<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="plafonds-etudiants-etrangers" data-title="Étudiants étrangers : les plafonds et leurs effets" data-sec="Étudiants étrangers" data-color="#207FB7" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Étudiants étrangers : les plafonds et leurs effets" data-url="https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+</article><article class="mcard mcard--dossier">
+  <a class="mcard__img" href="#plan-immigration-quebec"><div class="vis" style="--c:#14A574"><span class="vis__glyph">QC</span><span class="vis__name">Immigration Québec</span><img src="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="mbadge"><span class="badge badge--dossier"><b>Dossier</b>13 jalons</span></span></a>
+  <div class="mcard__body">
+    <p class="mcard__sup">Immigration Québec · À suivre</p>
+    <h3 class="mcard__title"><a href="#plan-immigration-quebec">Immigration : le premier plan du gouvernement péquiste</a></h3>
+    <p class="mcard__lead"><span class="status status--new">Du nouveau</span>Selon CIC News, les 100 000 places supplémentaires du Programme des candidats des provinces visent des travailleurs hors Québec; les nominations doivent être faites d’ici le 31 mars 2027. Tête-à-tête Carney–St-Pierre Plamondon dimanche à Phnom Penh.</p>
+    <div class="mcard__foot"><i class="mdot"></i>13 jalons<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="plan-immigration-quebec" data-title="Immigration : le premier plan du gouvernement péquiste" data-sec="Immigration Québec" data-color="#14A574" data-img="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Immigration : le premier plan du gouvernement péquiste" data-url="https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+</article>
+<div class="mcard mquote"><div class="quote__label">La citation</div><blockquote>Paralyser l’enseignement supérieur devrait être un moyen de dernier recours, pas un outil qu’on brandit avant même d’avoir essayé de discuter.</blockquote>
+<p class="quote__who"><b>La Presse</b>, éditorial du 14 novembre</p></div>
+<div class="mcard mnum"><div class="quote__label">Le chiffre</div><div class="numbox__value">1,9 %</div><p>Croissance annuelle moyenne des dépenses promise par le gouvernement St-Pierre Plamondon, sous l’inflation et sans couverture des coûts de système en éducation.</p></div>
+<div class="mcard magenda"><div class="quote__label">À l’agenda</div><ul class="agenda"><li><time>15 nov.</time><span>Premier tête-à-tête Carney–St-Pierre Plamondon à Phnom Penh, 6 h heure de Montréal <a href="https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie" target="_blank" rel="noopener">source ›</a></span></li><li><time>16 nov.</time><span>Ontario : dépôt du projet de loi sur la surveillance des collèges privés et le RAFEO <a href="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/" target="_blank" rel="noopener">source ›</a></span></li><li><time>21 nov.</time><span>Assemblée de la CRUES sur une grève générale illimitée à l’hiver 2027 <a href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">source ›</a></span></li><li><time>Fin nov.</time><span>Planification pluriannuelle de l’immigration du Québec <a href="https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/" target="_blank" rel="noopener">source ›</a></span></li><li><time>1er déc.</time><span>Rentrée parlementaire à Québec; les travaux se terminent le 11 décembre <a href="https://www.ledevoir.com/politique/quebec/1022477/rentree-parlementaire-aura-lieu-1-decembre-quebec" target="_blank" rel="noopener">source ›</a></span></li><li><time>21-22 janv.</time><span>Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier <a href="https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130" target="_blank" rel="noopener">source ›</a></span></li></ul></div>
+<h2 class="mhead" id="m-sections">Par section<span>Tout le reste de l’édition du jour.</span></h2><div class="mchips"><a href="#m-sec-superieur" style="--c:#5A79A0">Cégeps et universités</a></div>
+<h3 class="msec" id="m-sec-superieur" style="--c:#5A79A0">Cégeps et universités</h3>
+<article class="mcard">
+  <a class="mcard__img" href="#analyse-premiere-crise-pspp"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span class="badge mbadge" style="background:#5A79A0">Cégeps et universités</span></a>
+  <div class="mcard__body">
+    
+    <p class="mcard__sup">Analyse</p>
+    <h3 class="mcard__title mcard__title--slab"><a href="#analyse-premiere-crise-pspp">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a></h3>
+    <p class="mcard__lead">Le gouvernement n’a pas promis de couvrir les coûts de système en éducation et en enseignement supérieur et vise une croissance des dépenses de 1,9 % par an. Le mouvement étudiant lui accole déjà l’étiquette d’« austérité ».</p>
+    <div class="mcard__foot"><i class="mdot"></i>14 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="analyse-premiere-crise-pspp" data-title="Grève étudiante : première crise en vue pour St-Pierre Plamondon" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Grève étudiante : première crise en vue pour St-Pierre Plamondon" data-url="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  
+</article><article class="mcard mcard--row">
+  
+  <div class="mcard__body">
+    <span class="badge mbadge" style="background:#5A79A0">Cégeps et universités</span>
+    <p class="mcard__sup">Éditorial</p>
+    <h3 class="mcard__title mcard__title--slab"><a href="#editorial-etudiants-meche-courte">« Les étudiants ont la mèche courte », tranche La Presse</a></h3>
+    
+    <div class="mcard__foot"><i class="mdot"></i>14 nov.<span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="editorial-etudiants-meche-courte" data-title="« Les étudiants ont la mèche courte », tranche La Presse" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="« Les étudiants ont la mèche courte », tranche La Presse" data-url="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+  </div>
+  <a class="mcard__img" href="#editorial-etudiants-meche-courte"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+</article>
+<details class="mcard msources"><summary>Sources de cette édition (6)</summary><ol><li><a href="https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php" target="_blank" rel="noopener">La manifestation étudiante dégénère au centre-ville de Montréal</a> — La Presse</li><li><a href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a> — La Presse</li><li><a href="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php" target="_blank" rel="noopener">« Les étudiants ont la mèche courte », tranche La Presse</a> — La Presse</li><li><a href="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html" target="_blank" rel="noopener">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</a> — CIC News</li><li><a href="https://www.cicnews.com/2026/11/work-permit-wait-times-rise-as-study-permit-processing-times-fall-1182503.html" target="_blank" rel="noopener">Study-permit processing speeds up as work-permit waits grow</a> — CIC News</li><li><a href="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/" target="_blank" rel="noopener">Career college with clean record asks Ontario to inspect it first</a> — Global News</li></ol></details>
+<p class="mcolophon">Le Quotidien ÉPI · N° 6 · samedi 14 novembre 2026<br>Préparé par Claude à partir de sources publiques. Les images appartiennent à leurs sources.</p>
+</div></div>
+</main>
+</div>
+<div id="sheets"><div class="page" data-section="superieur" id="manifestation-etudiante-degenere" hidden>
+<nav class="subnav" style="background:#5A79A0"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-superieur"><b>Cégeps et universités</b></a></li><li><a href="#manifestation-etudiante-degenere" class=on>Grève étudiante</a></li><li><a href="#analyse-premiere-crise-pspp">Analyse</a></li><li><a href="#editorial-etudiants-meche-courte">Éditorial</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#5A79A0">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#5A79A0"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Cégeps et universités</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="manifestation-etudiante-degenere" data-title="La manifestation étudiante dégénère au centre-ville de Montréal" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="La manifestation étudiante dégénère au centre-ville de Montréal" data-url="https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+    <p class="art__kicker">Montréal</p>
+    <h1 class="art__title">La manifestation étudiante dégénère au centre-ville de Montréal</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>13 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 2 min</span></div><div class="msrc m-only">La Presse</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : LA PRESSE</span><span class="cap">Grève étudiante</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après La Presse, 13 novembre 2026</span></div>
+</div>
+    <p class="art__lead">Gaz lacrymogène, vitrines fracassées et trois arrestations : la marche de quelques milliers d’étudiants a été déclarée illégale vendredi. La CRUES votera le 21 novembre sur une grève générale illimitée à l’hiver 2027.</p>
+    <p>La manifestation organisée vendredi par la Coalition de résistance pour l’unité étudiante syndicale (CRUES) a dégénéré environ une heure après le départ du cortège, au square Victoria. Après l’utilisation de pièces pyrotechniques près du Palais des congrès, les policiers antiémeute et la cavalerie ont été déployés et ont lancé du gaz lacrymogène. Des fenêtres du Centre de commerce mondial ont été fracassées et des voitures vandalisées.</p><p>Le SPVM a arrêté deux personnes pour agression armée envers des policiers et une troisième pour voies de fait; huit méfaits ont été constatés. La manifestation a été déclarée illégale en raison de l’interdiction des engins pyrotechniques et fumigènes lors des rassemblements, en vertu de la loi sur la paix, l’ordre et la sécurité publique entrée en vigueur en avril. Selon la CRUES, 100 000 étudiants étaient en grève au Québec.</p><p>Dans un communiqué conjoint, la ministre de l’Enseignement supérieur, Elsie Lefebvre, et le ministre de la Sécurité intérieure, Guy Lapointe Jr, reconnaissent « pleinement le droit des étudiantes et des étudiants de se mobiliser », mais jugent « inacceptable que toute personne profite de ce mouvement pour commettre des actes de casse ou de dégradation ». La porte-parole de Québec solidaire, Ruba Ghazal, était sur place.</p><p>La CRUES tiendra le 21 novembre une assemblée sur le déclenchement d’une grève générale illimitée « à l’hiver 2027 », rapporte La Presse. Elle réclame une réforme de l’aide financière aux études et un refinancement des établissements. Le PQ a promis de rémunérer au salaire minimum les stages en santé, services sociaux, enseignement et petite enfance, soit près de 7000 $ pour un stage de 420 heures; la ministre assure que la promesse sera tenue, sans échéancier.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>Le mouvement étudiant devient le premier test du gouvernement St-Pierre Plamondon en enseignement supérieur, au moment où il prépare une mise à jour économique serrée : toute concession sur les stages ou l’aide financière se fera dans la même enveloppe que les subventions aux cégeps et aux collèges privés.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>Trois arrestations; huit méfaits (SPVM)</li><li>100 000 étudiants en grève, selon la CRUES</li><li>Assemblée de la CRUES le 21 novembre sur une grève générale illimitée à l’hiver 2027</li><li>Stage rémunéré promis : près de 7000 $ pour 420 heures</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>La Presse</b> · 13 novembre 2026
+      <br><a href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">Aussi : La Presse (analyse)</a></div>
+      <a class="pill pill--dark" href="https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    <section class="related"><h2 class="sechead">Aussi dans Cégeps et universités</h2><div class="trio"><article class="card card--md">
+  <a class="card__link" href="#analyse-premiere-crise-pspp"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Analyse</p>
+  <h3 class="card__title card__title--slab"><a href="#analyse-premiere-crise-pspp">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a></h3>
+  
+  <p class="date">La Presse · 14 novembre 2026</p>
+</article><article class="card card--md">
+  <a class="card__link" href="#editorial-etudiants-meche-courte"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Éditorial</p>
+  <h3 class="card__title card__title--slab"><a href="#editorial-etudiants-meche-courte">« Les étudiants ont la mèche courte », tranche La Presse</a></h3>
+  
+  <p class="date">La Presse · 14 novembre 2026</p>
+</article></div></section>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="superieur" id="analyse-premiere-crise-pspp" hidden>
+<nav class="subnav" style="background:#5A79A0"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-superieur"><b>Cégeps et universités</b></a></li><li><a href="#manifestation-etudiante-degenere">Grève étudiante</a></li><li><a href="#analyse-premiere-crise-pspp" class=on>Analyse</a></li><li><a href="#editorial-etudiants-meche-courte">Éditorial</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#5A79A0">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#5A79A0"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Cégeps et universités</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="analyse-premiere-crise-pspp" data-title="Grève étudiante : première crise en vue pour St-Pierre Plamondon" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Grève étudiante : première crise en vue pour St-Pierre Plamondon" data-url="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span><span class="badge badge--opinion">Opinion</span></div>
+    <p class="art__kicker">Québec</p>
+    <h1 class="art__title art__title--slab">Grève étudiante : première crise en vue pour St-Pierre Plamondon</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>14 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 2 min</span></div><div class="msrc m-only">La Presse</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : LA PRESSE</span><span class="cap">Analyse</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après La Presse, 14 novembre 2026</span></div>
+</div>
+    <p class="art__lead">Le gouvernement n’a pas promis de couvrir les coûts de système en éducation et en enseignement supérieur et vise une croissance des dépenses de 1,9 % par an. Le mouvement étudiant lui accole déjà l’étiquette d’« austérité ».</p>
+    <p>L’analyse de La Presse rappelle que la cheffe de cabinet du premier ministre, Nadine Koussa, a elle-même déclenché une grève générale illimitée au collège de Bois-de-Boulogne en 2005, lors du mouvement contre des compressions de 103 millions dans les prêts et bourses. Cette fois, la contestation ne vise pas une décision précise : elle réclame la rémunération des stages, une réforme de l’aide financière aux études et un réinvestissement dans les cégeps et les universités.</p><p>La ministre Elsie Lefebvre dit vouloir revoir le programme d’aide financière aux études. Dans l’opposition, Paul St-Pierre Plamondon avait réclamé l’abolition des intérêts sur les prêts étudiants, et le PQ avait déposé en 2021 un projet de loi pour que l’État devienne le créancier à taux nul.</p><p>Mais le gouvernement est « cassé comme un clou », écrit l’auteur. Il déposera bientôt une mise à jour économique et a préparé le terrain à un possible report du retour à l’équilibre budgétaire promis pour 2028-2029. En campagne, M. St-Pierre Plamondon a refusé de s’engager à couvrir les coûts de système en éducation et en enseignement supérieur, et a promis de limiter la croissance des dépenses à 1,9 % par année en moyenne, sous l’inflation.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>Une croissance des dépenses de 1,9 % sans couverture des coûts de système signifie des compressions réelles dans le réseau; la négociation avec les étudiants se fera dans ce cadre, qui touche aussi le financement des collèges privés subventionnés.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>Croissance des dépenses promise : 1,9 % par an en moyenne</li><li>Pas d’engagement à couvrir les coûts de système</li><li>Retour à l’équilibre promis pour 2028-2029, report possible</li><li>Mise à jour économique attendue</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>La Presse</b> · 14 novembre 2026
+      </div>
+      <a class="pill pill--dark" href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    <section class="related"><h2 class="sechead">Aussi dans Cégeps et universités</h2><div class="trio"><article class="card card--md">
+  <a class="card__link" href="#manifestation-etudiante-degenere"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Grève étudiante</p>
+  <h3 class="card__title"><a href="#manifestation-etudiante-degenere">La manifestation étudiante dégénère au centre-ville de Montréal</a></h3>
+  
+  <p class="date">La Presse · 13 novembre 2026</p>
+</article><article class="card card--md">
+  <a class="card__link" href="#editorial-etudiants-meche-courte"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Éditorial</p>
+  <h3 class="card__title card__title--slab"><a href="#editorial-etudiants-meche-courte">« Les étudiants ont la mèche courte », tranche La Presse</a></h3>
+  
+  <p class="date">La Presse · 14 novembre 2026</p>
+</article></div></section>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="superieur" id="editorial-etudiants-meche-courte" hidden>
+<nav class="subnav" style="background:#5A79A0"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-superieur"><b>Cégeps et universités</b></a></li><li><a href="#manifestation-etudiante-degenere">Grève étudiante</a></li><li><a href="#analyse-premiere-crise-pspp">Analyse</a></li><li><a href="#editorial-etudiants-meche-courte" class=on>Éditorial</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#5A79A0">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#5A79A0"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Cégeps et universités</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="editorial-etudiants-meche-courte" data-title="« Les étudiants ont la mèche courte », tranche La Presse" data-sec="Cégeps et universités" data-color="#5A79A0" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="« Les étudiants ont la mèche courte », tranche La Presse" data-url="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span><span class="badge badge--opinion">Opinion</span></div>
+    <p class="art__kicker">Éditorial</p>
+    <h1 class="art__title art__title--slab">« Les étudiants ont la mèche courte », tranche La Presse</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>14 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 2 min</span></div><div class="msrc m-only">La Presse</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/5c3a0f63378c302e88d07311bcb28567.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : LA PRESSE</span><span class="cap">Éditorial</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après La Presse, 14 novembre 2026</span></div>
+</div>
+    <p class="art__lead">L’éditorial reconnaît des revendications « sûrement » valables, mais reproche à la CRUES de brandir la grève générale illimitée avant même d’avoir négocié avec une ministre en poste depuis moins d’un mois.</p>
+    <p>« Manifestons d’abord, négocions ensuite. » L’éditorial de La Presse résume ainsi la stratégie des étudiants, qui veulent établir un rapport de force face à un gouvernement élu il y a moins d’un mois, alors que la ministre Elsie Lefebvre « est encore en train d’aiguiser ses crayons ».</p><p>Le texte reproche à la CRUES, qui veut faire « vivre un enfer » au gouvernement, d’avoir illustré son invitation par un militant muni d’un lance-pierre et d’un masque à gaz, et cite un article de son site selon lequel une grève générale illimitée sert à « créer la crise ». « Paralyser l’enseignement supérieur devrait être un moyen de dernier recours, pas un outil qu’on brandit avant même d’avoir essayé de discuter », écrit l’éditorialiste.</p><p>Les revendications sont « sûrement » valables, admet-il : la rémunération des stages, que le PQ a promise, et une réforme de l’aide financière aux études. Mais les associations devraient condamner clairement le vandalisme si elles ne veulent pas que la population se retourne contre leur mouvement.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>Le ton de la couverture éditoriale influencera la marge de manœuvre de la ministre Lefebvre avant l’assemblée du 21 novembre.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>La CRUES dit compter 30 000 membres</li><li>Objectif affiché : une grève générale illimitée à l’hiver 2027</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>La Presse</b> · 14 novembre 2026
+      </div>
+      <a class="pill pill--dark" href="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    <section class="related"><h2 class="sechead">Aussi dans Cégeps et universités</h2><div class="trio"><article class="card card--md">
+  <a class="card__link" href="#manifestation-etudiante-degenere"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Grève étudiante</p>
+  <h3 class="card__title"><a href="#manifestation-etudiante-degenere">La manifestation étudiante dégénère au centre-ville de Montréal</a></h3>
+  
+  <p class="date">La Presse · 13 novembre 2026</p>
+</article><article class="card card--md">
+  <a class="card__link" href="#analyse-premiere-crise-pspp"><div class="vis" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/34c55be0/9f11a6ee60d43b45a3e0e93f8f370672.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div></a>
+  <div class="card__badges"><span class="badge" style="background:#5A79A0">Cégeps et universités</span></div>
+  <p class="card__sup">Analyse</p>
+  <h3 class="card__title card__title--slab"><a href="#analyse-premiere-crise-pspp">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a></h3>
+  
+  <p class="date">La Presse · 14 novembre 2026</p>
+</article></div></section>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="immca" id="pnp-100000-hors-quebec" hidden>
+<nav class="subnav" style="background:#D25F68"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-immca"><b>Immigration Canada</b></a></li><li><a href="#pnp-100000-hors-quebec" class=on>Provincial Nominee Program</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#D25F68">
+  <article class="art" lang="en">
+    <div class="msheet__bar m-only" style="background:#D25F68"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Immigration Canada</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="pnp-100000-hors-quebec" data-title="Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec" data-sec="Immigration Canada" data-color="#D25F68" data-img="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec" data-url="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#D25F68">Immigration Canada</span></div>
+    <p class="art__kicker">Ottawa</p>
+    <h1 class="art__title">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>12 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 1 min</span></div><div class="msrc m-only">CIC News</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : CIC NEWS</span><span class="cap">Provincial Nominee Program</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après CIC News, 12 novembre 2026</span></div>
+</div>
+    <p class="art__lead">CIC News reads IRCC&#x27;s release as reserving the additional nominations for workers in Canada outside Quebec. Nominations must be issued by March 31, 2027, leaving IRCC about nine months to finalize the files.</p>
+    <p>Ottawa has directed provinces and territories to issue the additional nominations for permanent residence no later than March 31, 2027, according to the IRCC release of Nov. 12. CIC News reports that the extra spaces are for workers in Canada outside Quebec, and their families, who are eligible through the Provincial Nominee Program (PNP).</p><p>The nominations come from a pool of up to 100,000 economic spaces under the 2027 temporary-to-permanent transition measures announced in the federal budget. They sit on top of the 95,000 PNP admissions already set for 2027 in the Immigration Levels Plan and can be used in both base and Express Entry-aligned streams.</p><p>The allocations are optional, and no details had been released on which jurisdictions will use them or how they will be shared. Provinces can also flag workers already awaiting a decision, including Atlantic Immigration Program applicants and people in closed federal programs and pilots. The deadline leaves IRCC roughly nine months to process the resulting applications before the end of 2027.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>The federal measure does not route through Quebec, which does not take part in the PNP: any share for Quebec would require a separate deal, a point for the Carney–St-Pierre Plamondon meeting on Sunday.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>Nominations due by March 31, 2027</li><li>Up to 100,000 spaces, on top of 95,000 PNP admissions in 2027</li><li>For workers in Canada outside Quebec (CIC News)</li><li>Base and Express Entry-aligned streams both eligible</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>CIC News</b> · 12 novembre 2026
+      <br><a href="https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-highlights-how-canada-is-working-with-provinces-and-territories-to-support-worker-retention.html" target="_blank" rel="noopener">Aussi : IRCC</a></div>
+      <a class="pill pill--dark" href="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="etudiants" id="delais-permis-etudes-baissent" hidden>
+<nav class="subnav" style="background:#207FB7"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-etudiants"><b>Étudiants étrangers</b></a></li><li><a href="#plafonds-etudiants-etrangers">Dossier</a></li><li><a href="#delais-permis-etudes-baissent" class=on>Processing times</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#207FB7">
+  <article class="art" lang="en">
+    <div class="msheet__bar m-only" style="background:#207FB7"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Étudiants étrangers</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="delais-permis-etudes-baissent" data-title="Study-permit processing speeds up as work-permit waits grow" data-sec="Étudiants étrangers" data-color="#207FB7" data-img="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Study-permit processing speeds up as work-permit waits grow" data-url="https://www.cicnews.com/2026/11/work-permit-wait-times-rise-as-study-permit-processing-times-fall-1182503.html"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#207FB7">Étudiants étrangers</span></div>
+    <p class="art__kicker">IRCC</p>
+    <h1 class="art__title">Study-permit processing speeds up as work-permit waits grow</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>13 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 1 min</span></div><div class="msrc m-only">CIC News</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : CIC NEWS</span><span class="cap">Processing times</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après CIC News, 13 novembre 2026</span></div>
+</div>
+    <p class="art__lead">IRCC&#x27;s weekly update, as of Nov. 12, shows study-permit processing two weeks faster for applicants inside Canada. IRCC finalized more than 2 million temporary-residence applications from January to August.</p>
+    <p>Immigration, Refugees and Citizenship Canada released updated processing-time estimates on Nov. 13, reflecting figures as of Nov. 12. Study-permit processing times dropped by two weeks for applicants inside Canada and by one week for applicants in Pakistan, bringing both to their fastest pace in more than four months, CIC News reports.</p><p>Work-permit waits moved the other way: up one week for applicants in Pakistan, to the slowest since late August, and in the Philippines, to a level not seen in more than five months. Visitor-visa extensions from within Canada fell from 310 to 304 days.</p><p>From January to August 2026, IRCC finalized 2,076,745 temporary-residence applications, with 365,425 still in inventory at Aug. 31. Processing times are estimates, not guarantees; service standards for temporary residence were last revised in 2018–2019.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>Faster study-permit decisions reflect lower volumes under the cap rather than added capacity; for institutions recruiting for winter 2027, the bottleneck remains approvals, not delays.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>In-Canada study permits: two weeks faster</li><li>2,076,745 temporary-residence applications finalized, Jan.–Aug. 2026</li><li>365,425 in inventory at Aug. 31</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>CIC News</b> · 13 novembre 2026
+      </div>
+      <a class="pill pill--dark" href="https://www.cicnews.com/2026/11/work-permit-wait-times-rise-as-study-permit-processing-times-fall-1182503.html" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="provinces" id="computek-inspection-prioritaire" hidden>
+<nav class="subnav" style="background:#FF6C00"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-provinces"><b>Ailleurs au Canada</b></a></li><li><a href="#computek-inspection-prioritaire" class=on>Career colleges</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#FF6C00">
+  <article class="art" lang="en">
+    <div class="msheet__bar m-only" style="background:#FF6C00"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Ailleurs au Canada</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="computek-inspection-prioritaire" data-title="Career college with clean record asks Ontario to inspect it first" data-sec="Ailleurs au Canada" data-color="#FF6C00" data-img="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Career college with clean record asks Ontario to inspect it first" data-url="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge" style="background:#FF6C00">Ailleurs au Canada</span></div>
+    <p class="art__kicker">Ontario</p>
+    <h1 class="art__title">Career college with clean record asks Ontario to inspect it first</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>13 nov.</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 1 min</span></div><div class="msrc m-only">Global News</div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : GLOBAL NEWS</span><span class="cap">Career colleges</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  <span>D’après Global News, 13 novembre 2026</span></div>
+</div>
+    <p class="art__lead">Computek College, which laid off staff for the first time in 35 years, says the blanket OSAP freeze hits schools that are audited and inspected every year. The ban covers all 242 private career colleges.</p>
+    <p>&quot;Our revenues and income completely stopped all of a sudden, which resulted in layoffs. After 35 years, we did layoffs for the first time Monday,&quot; Muraly Srinarayanathas, chairman of Computek College, told Global News. The school, with locations in Toronto, Ajax and Markham, mainly trains students for health care, business and technology.</p><p>&quot;We&#x27;ve requested the ministry to be first in terms of the inspections so that we can get back to what we do best, which is serving our students,&quot; he said, calling the blanket ban &quot;confusing&quot; for a college audited each year and visited annually by inspectors.</p><p>Global reports that the province first disqualified students at five career colleges from OSAP in July and extended the ban to all 242 private career colleges in October. Minister Nolan Quinn says legislation to tighten oversight will be introduced on Monday.</p>
+    <div class="why"><div class="why__label">Pourquoi c’est important</div><p>The request for priority inspections points to the design question for any regulator: how to separate compliant schools quickly once a whole sector&#x27;s funding is frozen.</p></div>
+    <div class="facts"><div class="why__label">En bref</div><ol><li>OSAP ban extended to all 242 private career colleges in October</li><li>Computek: first layoffs in 35 years</li><li>Ontario bill due Monday, Nov. 16</li></ol></div>
+    <div class="srcbox">
+      <div><div class="why__label">Source</div><b>Global News</b> · 13 novembre 2026
+      </div>
+      <a class="pill pill--dark" href="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/" target="_blank" rel="noopener">Lire l’original ›</a>
+    </div>
+    
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="colleges" id="college-lasalle-dette" hidden>
+<nav class="subnav" style="background:#840132"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-colleges"><b>Collèges privés</b></a></li><li><a href="#college-lasalle-dette" class=on>Dossier</a></li><li><a href="#permis-colleges-superieurs">Dossier</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#840132">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#840132"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Dossier · Collèges privés</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="college-lasalle-dette" data-title="Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier" data-sec="Collèges privés" data-color="#840132" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier" data-url="https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>9 jalons</span><span class="badge" style="background:#840132">Collèges privés</span></div>
+    <p class="art__kicker">Dossier à suivre</p>
+    <h1 class="art__title">Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>Aujourd’hui</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 2 min</span></div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/f47ac5502a2938feaac94cc5452f6914.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : WWW.LAPRESSE.CA</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  </div>
+</div>
+    <div class="why why--update"><div class="why__label"><span class="status">Rien de neuf</span> Aujourd’hui</div><p>Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.</p></div>
+    <p>Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.</p><p>Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.</p><p>À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC.</p>
+    <h2 class="sechead">Chronologie</h2>
+    <ol class="timeline"><li><time>Printemps 2022</time><p>Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais. <a href="https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>12 juill. 2025</time><p>Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision. <a href="https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>Fin juin 2026</time><p>Québec gèle les subventions versées au Collège. <a href="https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>24 août 2026</time><p>Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions. <a href="https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>24 août 2026</time><p>Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC). <a href="https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/" target="_blank" rel="noopener">source ›</a></p></li><li><time>3 sept. 2026</time><p>Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière. <a href="https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>24 sept. 2026</time><p>Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée. <a href="https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>10 nov. 2026</time><p>Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre. <a href="https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/" target="_blank" rel="noopener">source ›</a></p></li><li><time>11 nov. 2026</time><p>Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver. <a href="https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130" target="_blank" rel="noopener">source ›</a></p></li></ol>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="colleges" id="permis-colleges-superieurs" hidden>
+<nav class="subnav" style="background:#840132"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-colleges"><b>Collèges privés</b></a></li><li><a href="#college-lasalle-dette">Dossier</a></li><li><a href="#permis-colleges-superieurs" class=on>Dossier</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#840132">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#840132"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Dossier · Collèges privés</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="permis-colleges-superieurs" data-title="Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif" data-sec="Collèges privés" data-color="#840132" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif" data-url="https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>3 jalons</span><span class="badge" style="background:#840132">Collèges privés</span></div>
+    <p class="art__kicker">Dossier à suivre</p>
+    <h1 class="art__title">Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>Aujourd’hui</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 1 min</span></div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#840132"><span class="vis__glyph">AEC</span><span class="vis__name">Collèges privés</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : LA PRESSE</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  </div>
+</div>
+    <div class="why why--update"><div class="why__label"><span class="status">Rien de neuf</span> Aujourd’hui</div><p>Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.</p></div>
+    <p>En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.</p><p>Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.</p><p>À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier.</p>
+    <h2 class="sechead">Chronologie</h2>
+    <ol class="timeline"><li><time>10 juill. 2026</time><p>Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ». <a href="https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>13 juill. 2026</time><p>Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais. <a href="https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>28 juill. 2026</time><p>Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités. <a href="https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php" target="_blank" rel="noopener">source ›</a></p></li></ol>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="etudiants" id="plafonds-etudiants-etrangers" hidden>
+<nav class="subnav" style="background:#207FB7"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-etudiants"><b>Étudiants étrangers</b></a></li><li><a href="#plafonds-etudiants-etrangers" class=on>Dossier</a></li><li><a href="#delais-permis-etudes-baissent">Processing times</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#207FB7">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#207FB7"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Dossier · Étudiants étrangers</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="plafonds-etudiants-etrangers" data-title="Étudiants étrangers : les plafonds et leurs effets" data-sec="Étudiants étrangers" data-color="#207FB7" data-img="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Étudiants étrangers : les plafonds et leurs effets" data-url="https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>7 jalons</span><span class="badge" style="background:#207FB7">Étudiants étrangers</span></div>
+    <p class="art__kicker">Dossier à suivre</p>
+    <h1 class="art__title">Étudiants étrangers : les plafonds et leurs effets</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>Aujourd’hui</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 2 min</span></div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : LA PRESSE</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  </div>
+</div>
+    <div class="why why--update"><div class="why__label"><span class="status">Rien de neuf</span> Aujourd’hui</div><p>Rien de neuf au Québec. Les délais de traitement des permis d’études au Canada raccourcissent (deux semaines de moins pour les demandes faites au pays). Le deuxième volet du décret québécois commence le 17 décembre.</p></div>
+    <p>Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.</p><p>La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.</p><p>Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds.</p>
+    <h2 class="sechead">Chronologie</h2>
+    <ol class="timeline"><li><time>26 févr. 2025</time><p>Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés. <a href="https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>17 déc. 2025</time><p>Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %. <a href="https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762" target="_blank" rel="noopener">source ›</a></p></li><li><time>5 nov. 2026</time><p>Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024. <a href="https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau" target="_blank" rel="noopener">source ›</a></p></li><li><time>6 nov. 2026</time><p>Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025. <a href="https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/" target="_blank" rel="noopener">source ›</a></p></li><li><time>10 nov. 2026</time><p>L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337. <a href="https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>11 nov. 2026</time><p>Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région. <a href="https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649" target="_blank" rel="noopener">source ›</a></p></li><li><time>11 nov. 2026</time><p>Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026. <a href="https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/" target="_blank" rel="noopener">source ›</a></p></li></ol>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" data-section="immqc" id="plan-immigration-quebec" hidden>
+<nav class="subnav" style="background:#14A574"><ul class="wrap"><li><a class="subnav__back" href="#top">‹ La une</a></li><li><a href="#sec-immqc"><b>Immigration Québec</b></a></li><li><a href="#plan-immigration-quebec" class=on>Dossier</a></li></ul></nav>
+<div class="wrap artgrid" style="--c:#14A574">
+  <article class="art">
+    <div class="msheet__bar m-only" style="background:#14A574"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Dossier · Immigration Québec</span><span class="acts"><button class="bm" type="button" aria-label="Enregistrer" data-id="plan-immigration-quebec" data-title="Immigration : le premier plan du gouvernement péquiste" data-sec="Immigration Québec" data-color="#14A574" data-img="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg></button><button class="sh" type="button" aria-label="Partager" data-title="Immigration : le premier plan du gouvernement péquiste" data-url="https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V3M8 7l4-4 4 4M7 11H5v10h14V11h-2"/></svg></button></span></div>
+    <div class="card__badges"><span class="badge badge--dossier"><b>Dossier</b>13 jalons</span><span class="badge" style="background:#14A574">Immigration Québec</span></div>
+    <p class="art__kicker">Dossier à suivre</p>
+    <h1 class="art__title">Immigration : le premier plan du gouvernement péquiste</h1>
+    <div class="mmeta m-only"><span><i class="mdot"></i>Aujourd’hui</span><span><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3 5v14c4-.5 7 0 9 1.5 2-1.5 5-2 9-1.5V5c-4-.5-7 0-9 1.5zM12 6.5V20"/></svg> 1 min</span></div>
+    <figure class="art__fig"><div class="vis vis--art" style="--c:#14A574"><span class="vis__glyph">QC</span><span class="vis__name">Immigration Québec</span><img src="https://images.radio-canada.ca/q_auto,w_1250/v1/ici-info/16x9/conseil-des-ministres-pq.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div>
+      <figcaption><span class="credit">Photo : ICI.RADIO-CANADA.CA</span></figcaption>
+    </figure>
+    <div class="byline">
+  <div class="byline__logo">ÉPI</div>
+  <div><b>Le Quotidien ÉPI</b><span>Publié le samedi 14 novembre 2026 à 06 h 20</span>
+  </div>
+</div>
+    <div class="why why--update"><div class="why__label"><span class="status status--new">Du nouveau</span> Aujourd’hui</div><p>Selon CIC News, les 100 000 places supplémentaires du Programme des candidats des provinces visent des travailleurs hors Québec; les nominations doivent être faites d’ici le 31 mars 2027. Tête-à-tête Carney–St-Pierre Plamondon dimanche à Phnom Penh.</p></div>
+    <p>Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.</p><p>Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.</p><p>Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil.</p>
+    <h2 class="sechead">Chronologie</h2>
+    <ol class="timeline"><li><time>5 oct. 2026</time><p>Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9). <a href="https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation" target="_blank" rel="noopener">source ›</a></p></li><li><time>21 oct. 2026</time><p>Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ». <a href="https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere" target="_blank" rel="noopener">source ›</a></p></li><li><time>22 oct. 2026</time><p>Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ». <a href="https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction" target="_blank" rel="noopener">source ›</a></p></li><li><time>28 oct. 2026</time><p>Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise. <a href="https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf" target="_blank" rel="noopener">source ›</a></p></li><li><time>4 nov. 2026</time><p>Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024. <a href="https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile" target="_blank" rel="noopener">source ›</a></p></li><li><time>5 nov. 2026</time><p>Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé. <a href="https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau" target="_blank" rel="noopener">source ›</a></p></li><li><time>7 nov. 2026</time><p>Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ». <a href="https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore" target="_blank" rel="noopener">source ›</a></p></li><li><time>9 nov. 2026</time><p>Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027. <a href="https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires" target="_blank" rel="noopener">source ›</a></p></li><li><time>10 nov. 2026</time><p>La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge. <a href="https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>11 nov. 2026</time><p>Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents. <a href="https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/" target="_blank" rel="noopener">source ›</a></p></li><li><time>12 nov. 2026</time><p>Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin. <a href="https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration" target="_blank" rel="noopener">source ›</a></p></li><li><time>12 nov. 2026</time><p>Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000. <a href="https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php" target="_blank" rel="noopener">source ›</a></p></li><li><time>12 nov. 2026</time><p>IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News. <a href="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html" target="_blank" rel="noopener">source ›</a></p></li></ol>
+  </article>
+  <aside class="aside">
+  <div class="promo">
+    <div class="promo__logo"><span>Le Quotidien</span><b>ÉPI.</b></div>
+    <h3>Aussi dans l'édition du jour</h3>
+    <a class="mini" href="#manifestation-etudiante-degenere"><div class="vis mini__img" style="--c:#5A79A0"><span class="vis__glyph">DEC</span><span class="vis__name">Cégeps et universités</span><img src="https://mobile-img.lpcdn.ca/v2/924x/r3996/3e3ecbcf21d635b693acdd10c4268d67.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#5A79A0">Cégeps et universités</small>La manifestation étudiante dégénère au centre-ville de Montréal</span></a><a class="mini" href="#pnp-100000-hors-quebec"><div class="vis mini__img" style="--c:#D25F68"><span class="vis__glyph">CA</span><span class="vis__name">Immigration Canada</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/PNP-nominations-by-March-2027.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#D25F68">Immigration Canada</small>Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</span></a><a class="mini" href="#delais-permis-etudes-baissent"><div class="vis mini__img" style="--c:#207FB7"><span class="vis__glyph">CAQ</span><span class="vis__name">Étudiants étrangers</span><img src="https://www.cicnews.com/wp-content/uploads/2026/11/work-permit-wait-times-rise-study-wait-times-fall.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#207FB7">Étudiants étrangers</small>Study-permit processing speeds up as work-permit waits grow</span></a><a class="mini" href="#computek-inspection-prioritaire"><div class="vis mini__img" style="--c:#FF6C00"><span class="vis__glyph">10+3</span><span class="vis__name">Ailleurs au Canada</span><img src="https://globalnews.ca/wp-content/uploads/2026/10/e4156c29fbafc13247a168f43405e34d26bd1d163e90642e7ae24ea973c73d57.jpg?quality=65&amp;strip=all&amp;w=720&amp;h=379&amp;crop=1" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.classList.add('vis--none');this.remove()"></div><span><small style="color:#FF6C00">Ailleurs au Canada</small>Career college with clean record asks Ontario to inspect it first</span></a>
+    <a class="pill pill--outline" href="#top">Retour à la une</a>
+  </div>
+</aside>
+</div>
+</div><div class="page" id="saved" hidden><div class="wrap artgrid"><article class="art"><div class="msheet__bar m-only" style="background:#232325"><a class="msheet__grab" href="#top" data-close aria-label="Fermer"></a><span>Articles enregistrés</span></div><h1 class="art__title" style="margin-top:18px">Articles enregistrés</h1><div id="savedList"></div></article></div></div></div>
+<footer id="sources"><div class="wrap">
+  <div class="foot__top"><a class="logo" href="#top"><span>Le Quotidien</span><b>ÉPI.</b></a><div><h4>Sources de cette édition</h4>Chaque article renvoie à sa source d’origine. Suivez les liens pour vérifier.</div></div>
+  <ol><li><a href="https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php" target="_blank" rel="noopener">La manifestation étudiante dégénère au centre-ville de Montréal</a> — La Presse</li><li><a href="https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php" target="_blank" rel="noopener">Grève étudiante : première crise en vue pour St-Pierre Plamondon</a> — La Presse</li><li><a href="https://www.lapresse.ca/actualites/editoriaux/2026-11-14/les-etudiants-ont-la-meche-courte.php" target="_blank" rel="noopener">« Les étudiants ont la mèche courte », tranche La Presse</a> — La Presse</li><li><a href="https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html" target="_blank" rel="noopener">Provinces get 139 days to nominate workers for 100,000 extra PR spots — outside Quebec</a> — CIC News</li><li><a href="https://www.cicnews.com/2026/11/work-permit-wait-times-rise-as-study-permit-processing-times-fall-1182503.html" target="_blank" rel="noopener">Study-permit processing speeds up as work-permit waits grow</a> — CIC News</li><li><a href="https://globalnews.ca/news/12148797/ontario-career-college-funding-stalls/" target="_blank" rel="noopener">Career college with clean record asks Ontario to inspect it first</a> — Global News</li></ol>
+  <div class="colophon">Le Quotidien ÉPI · N° 6 · Préparé automatiquement par Claude le samedi 14 novembre 2026 à 06 h 20 à partir de sources publiques. Les résumés peuvent contenir des erreurs : vérifiez toujours à la source. Mise en page inspirée de La Presse; les images appartiennent à leurs sources respectives.</div>
+</div></footer>
+<nav class="tabbar m-only"><a href="#top" data-tab="home"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg><span>La une</span></a><a href="#m-dossiers" data-tab="dossiers"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3 3 8l9 5 9-5zM3 13l9 5 9-5"/></svg><span>Dossiers</span></a><a href="#saved" data-tab="saved"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21z"/></svg><span>Enregistrés</span></a><a href="#m-sections" data-tab="sections"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h7v7H4zM13 4h7v7h-7zM4 13h7v7H4zM13 13h7v7h-7z"/></svg><span>Sections</span></a><a href="/archive.html" data-tab="archive"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v15H4zM4 10h16M8 3v4M16 3v4"/></svg><span>Archives</span></a></nav><div class="scrim"></div>
+<script>
+(function(){
+  var home=document.getElementById('home'),stage=document.getElementById('stage'),scrim=document.querySelector('.scrim');
+  var body=document.body,mq=matchMedia('(max-width:700px)');
+  var KEY='qepi-saved',ed=body.dataset.edition||location.pathname,depth=0,openPage=null,MS=520;
+  function esc(s){return String(s||'').replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+  function saved(){try{return JSON.parse(localStorage.getItem(KEY))||[]}catch(x){return[]}}
+  function paintBm(){var keys=saved().map(function(x){return x.key});
+    document.querySelectorAll('.bm').forEach(function(b){b.classList.toggle('on',keys.indexOf(ed+'#'+b.dataset.id)>=0)})}
+  function renderSaved(){var box=document.getElementById('savedList');if(!box)return;var l=saved().slice().reverse();
+    box.innerHTML=l.length?'':'<p>Aucun article enregistré. Touchez le signet d’un article pour le retrouver ici.</p>';
+    l.forEach(function(x){var a=document.createElement('a');a.className='mcard mcard--row';
+      a.href=x.key.split('#')[0]===ed?'#'+x.id:x.key;
+      a.innerHTML='<div class="mcard__body"><p class="mcard__sup" style="color:'+esc(x.color)+'">'+esc(x.sec)+'</p><h3 class="mcard__title">'+esc(x.title)+'</h3><div class="mcard__foot"><i class="mdot"></i>'+esc(x.date)+'</div></div>'+
+        (x.img?'<div class="mcard__img"><div class="vis"><img src="'+esc(x.img)+'" alt="" referrerpolicy="no-referrer"></div></div>':'');
+      box.appendChild(a)})}
+
+  // ---- iOS-style sheet: slides up over the feed, which recedes behind it
+  function showSheet(p){
+    clearTimeout(p._t);p._t=null;p.hidden=false;p.scrollTop=0;
+    stage.style.transformOrigin='50% '+window.scrollY+'px';
+    p.getBoundingClientRect();                       // start the transition from off-screen
+    body.classList.add('sheet');p.classList.add('is-open');openPage=p;
+  }
+  function hideSheet(p){
+    p.classList.remove('is-open');body.classList.remove('sheet');if(openPage===p)openPage=null;
+    clearTimeout(p._t);p._t=setTimeout(function(){p._t=null;if(!p.classList.contains('is-open'))p.hidden=true},MS);
+  }
+  function close(){
+    if(openPage&&mq.matches)hideSheet(openPage);
+    if(depth>0){history.back()}else{history.replaceState(null,'',location.pathname+location.search);route()}
+  }
+
+  document.addEventListener('click',function(ev){
+    var b=ev.target.closest('.bm');
+    if(b){ev.preventDefault();var k=ed+'#'+b.dataset.id,l=saved(),i=-1;
+      l.forEach(function(x,j){if(x.key===k)i=j});
+      if(i>=0)l.splice(i,1);else l.push({key:k,id:b.dataset.id,title:b.dataset.title,sec:b.dataset.sec,color:b.dataset.color,img:b.dataset.img,date:body.dataset.date});
+      localStorage.setItem(KEY,JSON.stringify(l));paintBm();renderSaved();
+      if(navigator.vibrate)navigator.vibrate(8);return}
+    var s=ev.target.closest('.sh');
+    if(s){ev.preventDefault();var d={title:s.dataset.title,url:s.dataset.url};
+      if(navigator.share){navigator.share(d).catch(function(){})}else if(navigator.clipboard){navigator.clipboard.writeText(d.url)}return}
+    if(ev.target.closest('[data-close]')||ev.target===scrim){ev.preventDefault();close()}
+  });
+
+  // ---- drag the sheet down to dismiss; it follows the finger, then closes or springs back
+  var drag=null;
+  function setT(v){if(!openPage)return;openPage.style.transition=v;stage.style.transition=v;scrim.style.transition=v}
+  document.addEventListener('touchstart',function(e){
+    if(!mq.matches||!openPage||e.touches.length>1)return;
+    var p=e.target.closest('.page');if(p!==openPage)return;
+    drag={y0:e.touches[0].clientY,x0:e.touches[0].clientX,t:Date.now(),y:e.touches[0].clientY,v:0,dy:0,on:false,top:p.scrollTop<=0};
+  },{passive:true});
+  document.addEventListener('touchmove',function(e){
+    if(!drag)return;
+    var y=e.touches[0].clientY,dy=y-drag.y0,dx=e.touches[0].clientX-drag.x0,now=Date.now();
+    if(!drag.on){
+      if(!drag.top||dy<0||Math.abs(dx)>Math.abs(dy)+4){drag=null;return}
+      if(e.cancelable)e.preventDefault();             // keep iOS from rubber-banding the content
+      if(dy<6)return;
+      drag.on=true;setT('none');
+    }
+    if(e.cancelable)e.preventDefault();
+    drag.v=(y-drag.y)/Math.max(1,now-drag.t);drag.y=y;drag.t=now;
+    drag.dy=Math.max(0,dy);
+    var k=1-Math.min(1,drag.dy/(window.innerHeight*.85));
+    openPage.style.transform='translate3d(0,'+drag.dy+'px,0)';
+    scrim.style.opacity=String(k);stage.style.setProperty('--k',k);
+  },{passive:false});
+  function endDrag(){
+    if(!drag)return;var d=drag;drag=null;if(!d.on||!openPage)return;
+    var p=openPage;setT('');p.style.transform='';scrim.style.opacity='';stage.style.removeProperty('--k');
+    if(d.dy>window.innerHeight*.25||(d.v>1&&d.dy>40))close();
+  }
+  document.addEventListener('touchend',endDrag,{passive:true});
+  document.addEventListener('touchcancel',endDrag,{passive:true});
+  scrim.addEventListener('touchmove',function(e){if(e.cancelable)e.preventDefault()},{passive:false});
+
+  function route(){
+    var id=decodeURIComponent(location.hash.slice(1)),t=id&&document.getElementById(id);
+    var page=t&&t.classList.contains('page')?t:null,mobile=mq.matches;
+    if(mobile){
+      document.querySelectorAll('.page').forEach(function(p){
+        if(p===page)return;
+        if(p.classList.contains('is-open'))hideSheet(p);else if(!p._t)p.hidden=true});
+      if(page&&!page.classList.contains('is-open'))showSheet(page);
+      home.hidden=false;
+    }else{
+      document.querySelectorAll('.page').forEach(function(p){p.hidden=p!==page;p.classList.remove('is-open')});
+      body.classList.remove('sheet');openPage=null;home.hidden=!!page;
+    }
+    if(page&&page.id==='saved')renderSaved();
+    var cur=page?page.dataset.section||'':(id.indexOf('sec-')===0?id.slice(4):'');
+    document.querySelectorAll('.nav a[data-s]').forEach(function(a){a.classList.toggle('on',a.dataset.s===cur)});
+    var tab=page?(page.id==='saved'?'saved':''):(id==='m-dossiers'?'dossiers':(id==='m-sections'||id.indexOf('m-sec-')===0)?'sections':'home');
+    document.querySelectorAll('.tabbar a').forEach(function(a){a.classList.toggle('on',a.dataset.tab===tab)});
+    if(page){if(!mobile)window.scrollTo(0,0)}
+    else if(id==='top'){window.scrollTo({top:0,behavior:mobile?'smooth':'auto'})}
+    else if(t){t.scrollIntoView({behavior:mobile?'smooth':'auto'})}
+    else if(!mobile){window.scrollTo(0,0)}
+  }
+  if('scrollRestoration' in history){history.scrollRestoration='manual'}
+  window.addEventListener('hashchange',function(){var id=location.hash.slice(1),t=id&&document.getElementById(id);
+    depth=t&&t.classList.contains('page')?depth+1:0;route()});
+  if(mq.addEventListener)mq.addEventListener('change',route);
+  paintBm();route();
+})();
+</script>
+</body></html>
