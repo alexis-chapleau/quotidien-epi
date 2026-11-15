@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 6
-- Date: 2026-11-14 (Saturday; published around 6 h 20)
+- Number: 7
+- Date: 2026-11-15 (Sunday; published around 6 h 25)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-15 (No. 7; Sunday, 5 stories, 2 in English)
+- LEAD [immqc] PSPP « assez optimiste »; immigration among « sujets essentiels » for Carney meeting 15 Nov (Le Devoir 14 Nov; Globe 14 Nov preview: PQ 28 %, 59 US letters) — https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp
+- FEATURED [etudiants, EN] Global Enrolment Benchmark Survey: Canada postgrad declines 27 % of institutions (71 % in 2025); UG declines 50 % (81 %), increases 43 % (6 %); policy barrier 92 % (ICEF 12 Nov) — https://monitor.icef.com/2026/11/global-survey-tracks-universities-foreign-enrolment-for-2026-and-outlook-for-2027/
+- FEATURED [provinces, EN] Ontario bill Monday; OSAP grants to career colleges ~$1 billion in 2024-25, nearly doubled; KPMG clearing low-risk schools first (Global/CP 12 Nov) — https://globalnews.ca/news/12148094/ontario-to-cap-osap-growth-at-career-colleges-following-massive-increases/
+- FEATURED [chiffres] ISQ Panorama: Mékinac oldest MRC, average age ~52, ~37 % 65+ (Radio-Canada 14 Nov) — https://ici.radio-canada.ca/article/info/2300738/mrc-mekinac-plus-agee-quebec
+- [immqc] Milliard: 380 M$ French plan incl. faster francisation vs commissaire's 11–13 G$ (Le Devoir 13 Nov) — https://www.ledevoir.com/politique/quebec/1024946/debut-mandat-gouvernement-rend-gens-mal-aise-selon-charles-milliard
+- Quote: PSPP. Number: 27 %.
 
 ### 2026-11-14 (No. 6; Saturday, 6 stories, 3 in English)
 - LEAD [superieur] CRUES march degenerates: tear gas, 3 arrests, 8 mischief; Lefebvre/Lapointe joint statement; CRUES claims 100 000 on strike; assembly 21 Nov on GGI winter 2027 (La Presse 13 Nov) — https://www.lapresse.ca/actualites/education/2026-11-13/greve-etudiante/une-manifestation-a-degenere-a-montreal.php
@@ -92,7 +100,8 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 15 Nov run: report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
+- 16 Nov run (Monday, look back up to 7 days): REPORT THE OUTCOME of the Carney–St-Pierre Plamondon meeting held 15 Nov at 6 h Montréal (nothing published before this run); Ontario bill tabled 16 Nov. Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
+- (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
 - Earlier note — watch for the outcome of the CRUES march (13 Nov), any Quebec position on the 100,000 PNP places (Quebec has no PNP; IRCC release silent on Quebec), and Milliard/PQ on the PQ ban of religious symbols for primary pupils (La Presse 12 Nov, one paragraph only). TVA Nouvelles and qub.ca loop on redirects with curl (do not retry). Radio-Canada section pages list article URLs with `curl --http1.1` (grep /article/info/); articles still via WebFetch. Radio-Canada site search https://ici.radio-canada.ca/recherche?q=... works with WebFetch. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
 - IRCC news: the Atom feed works with curl --http1.1: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&pick=12&format=atom (canada.ca article pages still need WebFetch).
 - Radio-Canada section pages: /info/politique works with WebFetch; /info/education is 404.
