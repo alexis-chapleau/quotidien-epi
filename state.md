@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 7
-- Date: 2026-11-15 (Sunday; published around 6 h 25)
+- Number: 8
+- Date: 2026-11-16 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-16 (No. 8; 5 stories, 3 in English)
+- LEAD [immqc] Carney–PSPP met ~45 min in Phnom Penh 15 Nov: economy, immigration, housing, US trade; homelessness deal; Quebec City meeting in December (La Presse 15 Nov) — https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php
+- FEATURED [immca] La Presse explainer 380 000 vs 662 000; Mahboubi, Xhardez; ISQ interprovincial 2025 net −9083 — https://www.lapresse.ca/actualites/2026-11-16/immigration/380-000-ou-662-000-nouveaux-residents-permanents.php
+- [immca, EN] Asylum claims −52 % Jan–Aug 2026 vs 2025, −68 % vs 2024 (CP copy, DiscoverMooseJaw 15 Nov) — https://www.discovermoosejaw.com/articles/canada-introduces-new-asylum-rules-as-refugee-claims-drop-by-more-than-50-per-cent
+- FEATURED [chiffres, EN] Nanos/Globe: 46 % support withholding provincial programs from TFWs, 51 % oppose; Quebec 43–48 % (14 Nov) — https://www.theglobeandmail.com/canada/alberta/article-canadians-split-on-withholding-public-programs-from-non-permanent/
+- FEATURED [provinces, EN] B.C. PNP 6,254 (2026); PNP 95,000 in 2027 (My Powell River Now 15 Nov) — https://www.mypowellrivernow.com/65556/news/business/economy/federal-budget-will-give-b-c-more-say-over-immigration-experts-say/
+- Quote: Xhardez. Number: 9083.
 
 ### 2026-11-15 (No. 7; Sunday, 5 stories, 2 in English)
 - LEAD [immqc] PSPP « assez optimiste »; immigration among « sujets essentiels » for Carney meeting 15 Nov (Le Devoir 14 Nov; Globe 14 Nov preview: PQ 28 %, 59 US letters) — https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp
@@ -100,7 +108,8 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 16 Nov run (Monday, look back up to 7 days): REPORT THE OUTCOME of the Carney–St-Pierre Plamondon meeting held 15 Nov at 6 h Montréal (nothing published before this run); Ontario bill tabled 16 Nov. Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
+- 17 Nov run: report the Ontario career-college/OSAP bill tabled 16 Nov (read the bill or Queen's Park coverage). The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
+- (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
 - Earlier note — watch for the outcome of the CRUES march (13 Nov), any Quebec position on the 100,000 PNP places (Quebec has no PNP; IRCC release silent on Quebec), and Milliard/PQ on the PQ ban of religious symbols for primary pupils (La Presse 12 Nov, one paragraph only). TVA Nouvelles and qub.ca loop on redirects with curl (do not retry). Radio-Canada section pages list article URLs with `curl --http1.1` (grep /article/info/); articles still via WebFetch. Radio-Canada site search https://ici.radio-canada.ca/recherche?q=... works with WebFetch. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
 - IRCC news: the Atom feed works with curl --http1.1: https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&pick=12&format=atom (canada.ca article pages still need WebFetch).
