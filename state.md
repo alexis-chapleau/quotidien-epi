@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 8
-- Date: 2026-11-16 (published around 6 h 20)
+- Number: 9
+- Date: 2026-11-17 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-17 (No. 9; 5 stories, 2 in English)
+- LEAD [provinces, EN] Ontario tabled Protect Ontario Families and Communities Act, 2026 (omnibus) with OSAP/career-college measures (Western Standard 16 Nov) — https://www.westernstandard.news/news/ford-government-tables-bill-that-tightens-childrens-aid-finances-folds-in-student-loan-crackdown/78778
+- FEATURED [superieur] Montréal defends police response; debriefing with SPVM (La Presse 16 Nov) — https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/manifestation-etudiante/montreal-defend-la-reponse-policiere-mais-va-discuter-avec-le-spvm.php
+- FEATURED [chiffres] Fédération des cégeps report: 1 boy in 5 fails half of first-term courses (Radio-Canada 16 Nov) — https://ici.radio-canada.ca/article/info/2300458/garcons-aide-cegep-reussites-donnes-cours-echec
+- FEATURED [immca, EN] Start-Up Visa replacement: IRCC can't confirm timing; 10–35 year waits; IRCC −3,300 jobs (BetaKit 16 Nov) — https://betakit.com/ircc-cant-confirm-if-start-up-visa-replacement-program-details-will-come-this-year/
+- [ecoles] PCQ ambivalent on banning religious symbols for primary pupils; PLQ opposed (Le Devoir 16 Nov) — https://www.ledevoir.com/politique/quebec/1025381/conservateurs-duhaime-ambivalents-interdiction-signes-religieux-primaire
+- Quote: Jim Beis. Number: 1 sur 5.
 
 ### 2026-11-16 (No. 8; 5 stories, 3 in English)
 - LEAD [immqc] Carney–PSPP met ~45 min in Phnom Penh 15 Nov: economy, immigration, housing, US trade; homelessness deal; Quebec City meeting in December (La Presse 15 Nov) — https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php
@@ -108,7 +116,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 17 Nov run: report the Ontario career-college/OSAP bill tabled 16 Nov (read the bill or Queen's Park coverage). The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
+- 18 Nov run: Gazette officielle no 46 (18 Nov) — check for anything on private education/immigration (publicationsduquebec PDF 2646-F.pdf). Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
 - Earlier note — watch for the outcome of the CRUES march (13 Nov), any Quebec position on the 100,000 PNP places (Quebec has no PNP; IRCC release silent on Quebec), and Milliard/PQ on the PQ ban of religious symbols for primary pupils (La Presse 12 Nov, one paragraph only). TVA Nouvelles and qub.ca loop on redirects with curl (do not retry). Radio-Canada section pages list article URLs with `curl --http1.1` (grep /article/info/); articles still via WebFetch. Radio-Canada site search https://ici.radio-canada.ca/recherche?q=... works with WebFetch. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
