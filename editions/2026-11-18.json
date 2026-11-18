@@ -1,0 +1,452 @@
+{
+ "date": "2026-11-18",
+ "date_long": "mercredi 18 novembre 2026",
+ "issue": 10,
+ "generated_at": "06 h 20",
+ "quote": {
+  "text": "Now they’re trying to pass legislation to protect themselves from lawsuits, and it’s retroactive. Shame on you.",
+  "speaker": "Marit Stiles",
+  "context": "cheffe du NPD ontarien, à Queen’s Park",
+  "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005"
+ },
+ "number": {
+  "value": "1 508 675",
+  "text": "Demandes en attente de décision à IRCC au 30 septembre 2026, 35 180 de moins qu’un mois plus tôt.",
+  "url": "https://www.cicnews.com/2026/11/canada-reports-drop-in-immigration-and-citizenship-applications-awaiting-finalization-1182599.html"
+ },
+ "agenda": [
+  {
+   "date": "21 nov.",
+   "text": "Assemblée de la CRUES sur une grève générale illimitée à l’hiver 2027",
+   "url": "https://www.lapresse.ca/actualites/analyses/2026-11-14/greve-etudiante/premiere-crise-pour-st-pierre-plamondon.php"
+  },
+  {
+   "date": "Fin nov.",
+   "text": "Planification pluriannuelle de l’immigration du Québec",
+   "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec, 14 h (décret 1437-2026); les travaux se terminent le 11 décembre",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "date": "Déc.",
+   "text": "Rencontre Carney–St-Pierre Plamondon à Québec",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+  },
+  {
+   "date": "17 déc.",
+   "text": "Début de la deuxième période du décret québécois sur les demandes d’étudiants étrangers",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+  },
+  {
+   "date": "21-22 janv.",
+   "text": "Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+  }
+ ],
+ "stories": [
+  {
+   "id": "ontario-projet-loi-148-poursuites",
+   "section": "provinces",
+   "lead": true,
+   "lang": "en",
+   "brief": "Ontario's Bill 148 would bar lawsuits over the OSAP pause and over decisions on the fund that protects students when a career college closes",
+   "kicker": "Queen's Park",
+   "suptitle": "Bill 148",
+   "title": "Ontario moves to shield itself from lawsuits over career-college OSAP freeze",
+   "standfirst": "The omnibus bill, past first reading, would bar damage claims against officials and any action arising from fraud probes, enforcement, registration suspensions or the Training Completion Assurance Fund. The NDP calls it retroactive.",
+   "body": [
+    "Bill 148, the omnibus legislation tabled Monday, would ensure that legal action could not be launched against government officials for financial damages, neglect and default under the Ministry of Training, Colleges and Universities Act, CBC News reports. The bill has passed first reading.",
+    "It would also eliminate legal action against the government arising from fraud investigations, enforcement action, suspension of registration or decisions about the Training Completion Assurance Fund, which protects students when a career college stops operating.",
+    "\"Now they're trying to pass legislation to protect themselves from lawsuits, and it's retroactive. Shame on you,\" NDP Leader Marit Stiles said in question period on Tuesday, adding that Minister Nolan Quinn has no dollar figure for money paid to \"scam\" colleges and no plan to make students whole.",
+    "Quinn defended the freeze: \"We're holding these institutions accountable, and that is why we're bringing forward legislation that they are going to be liable for misuse of OSAP across the private career college system.\" OSAP is to resume in the new year, with no firm date; the low-interest bank loans he promised have not materialized."
+   ],
+   "why": "Shielding the regulator from suits over enforcement and over the student-protection fund is a design choice worth noting: it hardens the state's hand against colleges but leaves students who lost aid with no recourse, a trade-off any Quebec reform of student protection on closure would face.",
+   "facts": [
+    "Bill 148 passed first reading",
+    "No damage claims against officials under the Ministry of Training, Colleges and Universities Act",
+    "No action over fraud probes, enforcement, registration suspensions or Training Completion Assurance Fund decisions",
+    "NDP says the shield is retroactive"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CBC News",
+    "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005",
+    "date": "17 novembre 2026"
+   }
+  },
+  {
+   "id": "ircc-inventaire-septembre",
+   "section": "immca",
+   "featured": true,
+   "lang": "en",
+   "brief": "IRCC inventory falls to 1.51 million files; 3 million applications finalized from January to September",
+   "kicker": "IRCC",
+   "suptitle": "Processing data",
+   "title": "IRCC trims its inventory as 3 million applications are finalized in nine months",
+   "standfirst": "IRCC had 1,508,675 applications awaiting finalization at Sept. 30, down 35,180 in September. Protection cases are the largest permanent-residence backlog, with 44 per cent waiting for space.",
+   "body": [
+    "Immigration, Refugees and Citizenship Canada finalized 3,001,860 applications between Jan. 1 and Sept. 30, including 311,510 in September, according to data published Nov. 17 and reported by CIC News. Its inventory stood at 1,508,675 applications at Sept. 30, down 35,180 over the month.",
+    "Permanent-residence files awaiting finalization totalled 707,405. Economic applications numbered 250,010, of which 22 per cent were waiting for space under the levels plan; family applications rose to 168,855, with 42 per cent waiting; protection applications, the largest group, stood at 288,540, with 44 per cent waitlisted.",
+    "Temporary-residence applications awaiting finalization fell by 17,490 to 347,935. The category covers initial work permits, study permits and visitor visas."
+   ],
+   "why": "The 'waiting for space' share in each class is the backlog the one-time transition measures for 2027 are meant to absorb; the decline in temporary files reflects lower intake under the caps.",
+   "facts": [
+    "Inventory at Sept. 30: 1,508,675 (−35,180 in September)",
+    "PR inventory: 707,405; protection 288,540 (44 % waitlisted)",
+    "Temporary-residence inventory: 347,935 (−17,490)",
+    "3,001,860 applications finalized Jan.–Sept. 2026"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CIC News",
+    "url": "https://www.cicnews.com/2026/11/canada-reports-drop-in-immigration-and-citizenship-applications-awaiting-finalization-1182599.html",
+    "date": "17 novembre 2026"
+   }
+  },
+  {
+   "id": "uqo-faculte-medecine-gatineau",
+   "section": "superieur",
+   "featured": true,
+   "brief": "Gatineau presse le PQ de concrétiser la faculté de médecine à l’UQO; Lefebvre en fait une priorité",
+   "kicker": "Gatineau",
+   "suptitle": "Médecine en région",
+   "title": "Gatineau presse Québec de réaliser la faculté de médecine à l’UQO",
+   "standfirst": "La mairesse Maude Marquis-Bissonnette présente une résolution au conseil municipal. La ministre Elsie Lefebvre dit que le programme de médecine du réseau de l’UQ sera une priorité de son mandat.",
+   "body": [
+    "La mairesse de Gatineau, Maude Marquis-Bissonnette, presse le gouvernement péquiste d’appuyer une faculté de médecine à l’Université du Québec en Outaouais et compte faire adopter une résolution en ce sens par le conseil municipal mardi, rapporte Radio-Canada. L’Université du Québec a déposé un programme axé sur la médecine familiale, qui vise à former 75 % de ses étudiants en région.",
+    "« Nous allons certainement étudier le dossier d’opportunité déposé au gouvernement par l’Université du Québec », a écrit la ministre de l’Enseignement supérieur, Elsie Lefebvre, qui dit avoir reçu du premier ministre le mandat d’ajouter ce programme au réseau universitaire et en faire une priorité. Le gouvernement précédent avait signé une entente de collaboration avec le ministère l’an dernier.",
+    "La rectrice de l’UQO, Murielle Laberge, juge que les facultés existantes ne forment pas assez de médecins pour les régions. Santé Québec Outaouais compte 96 postes à pourvoir en médecine familiale et attend 5 nouveaux médecins en 2027; le futur hôpital doit ouvrir en 2032. Le cégep de l’Outaouais a refusé cet automne près de deux demandes sur trois en soins infirmiers."
+   ],
+   "why": "La création d’un programme de médecine au réseau de l’UQ sera l’une des premières grandes décisions de la ministre Lefebvre en matière d’offre de formation, dans un budget serré.",
+   "facts": [
+    "Programme de l’UQ : 75 % des étudiants formés en région",
+    "Outaouais : 96 postes à pourvoir en médecine familiale",
+    "Nouvel hôpital prévu en 2032",
+    "Cégep de l’Outaouais : près de 2 demandes sur 3 refusées en soins infirmiers"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2300522/medecine-familiale-uqo-gatineau-projet",
+    "date": "16 novembre 2026"
+   }
+  },
+  {
+   "id": "gazette-46-convocation-assemblee",
+   "section": "droit",
+   "featured": true,
+   "brief": "Gazette officielle no 46 : l’Assemblée convoquée le 1er décembre à 14 h; aucune mesure sur l’enseignement privé",
+   "kicker": "Québec",
+   "suptitle": "Gazette officielle",
+   "title": "L’Assemblée nationale convoquée pour le 1er décembre à 14 h",
+   "standfirst": "La Gazette officielle du 18 novembre publie le décret de convocation et une série de nominations de sous-ministres. Rien sur l’enseignement privé ou l’immigration.",
+   "body": [
+    "Le décret 1437-2026 du 4 novembre, publié dans la Gazette officielle du 18 novembre, convoque l’Assemblée nationale pour le 1er décembre 2026 à 14 h et modifie en conséquence le décret 1356-2026 du 27 août.",
+    "Le même numéro publie des nominations dans plusieurs ministères, dont l’engagement de Stéphan La Roche comme sous-ministre de la Culture, du Patrimoine, des Communications et de la Langue française, de Benoit Dagenais à la Justice, de Pierre-Luc Desgagné aux Relations internationales et de Martin Beaumont à la Santé, ainsi que d’Isabelle Fontaine comme secrétaire générale associée au Conseil exécutif.",
+    "Aucun projet de règlement ni décret ne touche l’enseignement privé, l’enseignement supérieur ou l’immigration dans ce numéro."
+   ],
+   "why": "La convocation fixe le calendrier : les projets de loi sur le français au cégep et sur la laïcité ne pourront être déposés qu’à partir du 1er décembre; le ministère de la Langue française a désormais son sous-ministre.",
+   "facts": [
+    "Décret 1437-2026 : Assemblée convoquée le 1er décembre 2026, 14 h",
+    "Stéphan La Roche, sous-ministre de la Culture et de la Langue française (décret 1423-2026)",
+    "Rien sur l’enseignement privé ou l’immigration"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Gazette officielle du Québec",
+    "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf",
+    "date": "18 novembre 2026"
+   }
+  },
+  {
+   "id": "idees-cegep-anglophone-francais",
+   "section": "superieur",
+   "opinion": true,
+   "brief": "Idées : une prof de français d’un cégep anglophone répond aux partisans de la loi 101 au cégep",
+   "kicker": "Idées",
+   "suptitle": "Loi 101 au cégep",
+   "title": "« Le cégep en français, même chez les Anglais »",
+   "standfirst": "Une professeure de français et de littérature dans un cégep anglophone conteste l’idée que ses étudiants ne seraient pas exposés à la culture québécoise.",
+   "body": [
+    "Dans Le Devoir, Catherine Duranleau, professeure de français et de littérature dans un cégep anglophone, répond à une lettre du 11 novembre selon laquelle étendre la loi 101 au cégep intégrerait davantage de jeunes à l’espace culturel québécois. Laisser entendre que cette exposition est absente du réseau anglophone l’a « troublée », écrit-elle.",
+    "Elle décrit ses cours, qui commencent souvent par une chanson francophone et par l’actualité québécoise, et la préparation à l’Épreuve uniforme de français. Son cégep participe depuis plus de quinze ans au Prix littéraire des collégiens. « Je leur assure qu’ils font partie de ce Québec et de cette francophonie d’aujourd’hui », écrit-elle."
+   ],
+   "why": "Le débat sur la loi 101 au cégep, qui touchera aussi les collèges privés anglophones, se joue désormais dans le réseau lui-même, à deux semaines de la rentrée parlementaire.",
+   "facts": [
+    "Réplique à une lettre du 11 novembre dans Le Devoir",
+    "Projet de loi sur la Charte annoncé pour 2027"
+   ],
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/opinion/idees/1025744/cegep-francais-meme-anglais",
+    "date": "18 novembre 2026"
+   }
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier",
+   "status": "nochange",
+   "update": "Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre.",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver.",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+    }
+   ]
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "nochange",
+   "update": "Rien de neuf au Québec. Un sondage mondial montre une nette amélioration des inscriptions aux cycles supérieurs au Canada, exemptés du plafond. Le deuxième volet du décret québécois commence le 17 décembre.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région.",
+     "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026.",
+     "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "nochange",
+   "update": "Rien de neuf depuis la rencontre Carney–St-Pierre Plamondon du 15 novembre. Le plan pluriannuel québécois est attendu fin novembre.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents.",
+     "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin.",
+     "url": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News.",
+     "url": "https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"
+    },
+    {
+     "date": "14 nov. 2026",
+     "text": "PSPP se dit « assez optimiste » avant de rencontrer Carney; l’immigration figure parmi les sujets à discuter.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp"
+    },
+    {
+     "date": "15 nov. 2026",
+     "text": "Rencontre de 45 minutes à Phnom Penh; immigration abordée, entente sur l’itinérance, rencontre à Québec en décembre.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ontario moves to shield itself from lawsuits over career-college OSAP freeze",
+   "outlet": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005"
+  },
+  {
+   "title": "IRCC trims its inventory as 3 million applications are finalized in nine months",
+   "outlet": "CIC News",
+   "url": "https://www.cicnews.com/2026/11/canada-reports-drop-in-immigration-and-citizenship-applications-awaiting-finalization-1182599.html"
+  },
+  {
+   "title": "Gatineau presse Québec de réaliser la faculté de médecine à l’UQO",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2300522/medecine-familiale-uqo-gatineau-projet"
+  },
+  {
+   "title": "L’Assemblée nationale convoquée pour le 1er décembre à 14 h",
+   "outlet": "Gazette officielle du Québec",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "title": "« Le cégep en français, même chez les Anglais »",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1025744/cegep-francais-meme-anglais"
+  }
+ ]
+}
