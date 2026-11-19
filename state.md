@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 10
-- Date: 2026-11-18 (published around 6 h 20)
+- Number: 11
+- Date: 2026-11-19 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-19 (No. 11; 5 stories, 2 in English)
+- LEAD [immqc] Legault backs PQ halving temporaries; StatCan 531 821 NPR in Quebec at 1 July 2026 (190 727 asylum, 341 094 permits) (Le Devoir/PC 17 Nov) — https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration
+- FEATURED [chiffres] AHQ hotel survey: 82 % vacancies, half lost a temporary worker (Journal Métro 17 Nov) — https://journalmetro.com/actualites/national/3234865/penurie-de-main-d-uvre-hoteliere-les-hoteliers-quebecois-sonnent-l-alarme/
+- FEATURED [immca, EN] Express Entry counts stipends for professors (NOC 41200); NOC 41201 removed (CIC 18 Nov) — https://www.cicnews.com/2026/11/canada-broadens-qualifying-work-experience-for-university-professors-and-lecturers-under-express-entry-1182653.html
+- FEATURED [superieur] Métro Université-de-Montréal vandalized by "Conseil pour le maintien des hostilités" (Le Devoir 18 Nov) — https://www.ledevoir.com/actualites/education/1025897/station-metro-universite-montreal-vandalisee-faire-perdurer-greve-etudiante
+- [immca, EN] Proof of citizenship 35 months, queue 139,200 (CIC 18 Nov) — https://www.cicnews.com/2026/11/proof-of-canadian-citizenship-wait-time-hits-35-months-as-queue-reaches-a-record-high-1182615.html
+- Quote: Legault. Number: 531 821.
 
 ### 2026-11-18 (No. 10; 5 stories, 2 in English)
 - LEAD [provinces, EN] Bill 148 shields Ontario from lawsuits over OSAP pause, fraud probes, TCAF decisions; Stiles "retroactive" (CBC 17 Nov) — https://www.cbc.ca/news/canada/toronto/ontario-government-legislation-osap-pause-9.7426005
@@ -124,7 +132,8 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 19 Nov run: next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
+- 20 Nov run: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
+- Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
 - Earlier note — watch for the outcome of the CRUES march (13 Nov), any Quebec position on the 100,000 PNP places (Quebec has no PNP; IRCC release silent on Quebec), and Milliard/PQ on the PQ ban of religious symbols for primary pupils (La Presse 12 Nov, one paragraph only). TVA Nouvelles and qub.ca loop on redirects with curl (do not retry). Radio-Canada section pages list article URLs with `curl --http1.1` (grep /article/info/); articles still via WebFetch. Radio-Canada site search https://ici.radio-canada.ca/recherche?q=... works with WebFetch. Not used on 12 Nov: Le Devoir on school-board staffing agencies (Arseneau, 11 Nov; public network, out of scope); Noovo on Université Laval finances (URL not found); QUB radio Gentilcore « Carney a menti » (qub.ca loops on redirects); Radio-Canada « Faute de personnel, les écoles se tournent vers le privé » (URL not found); Montreal Gazette on Quebec universities' second year of double-digit international declines (unreadable; find the figures elsewhere, e.g. BCI).
