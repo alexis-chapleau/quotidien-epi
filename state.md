@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 11
-- Date: 2026-11-19 (published around 6 h 20)
+- Number: 12
+- Date: 2026-11-20 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-20 (No. 12; 5 stories, 3 in English)
+- LEAD [superieur] Lefebvre interview: « un peu de patience »; funding reform; McGill 955 M$ vs UQAM 65 M$ international fees over 5 years; 995 M$ underfunding; loi 101 cégep (La Presse 20 Nov) — https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php
+- FEATURED [provinces, EN] Dunlop refuses OSAP questions; CCO warned 4 times in 2023 (CBC 19 Nov) — https://www.cbc.ca/news/canada/toronto/jill-dunlop-colleges-and-universities-osap-9.7428530
+- FEATURED [droit, EN] IRCC administrative penalties regime (in force 23 Oct); FLSC guidance (Canadian Lawyer 19 Nov) — https://www.canadianlawyermag.com/practice-areas/immigration/flsc-gives-guidance-on-new-immigration-administrative-penalties-regime/394944
+- FEATURED [etudiants, EN] Saskatchewan: up to $700 M, 9,000+ international students (WestCentralOnline 18 Nov) — https://www.westcentralonline.com/articles/international-students-contribute-up-to-700-million-annually-to-saskatchewans-economy
+- [superieur] SPVM defends response; injuries; 130+ cégep profs letter (La Presse 20 Nov) — https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/manifestation-etudiante/le-spvm-estime-avoir-bien-agi.php
+- Quote: Lefebvre. Number: 955 M$.
 
 ### 2026-11-19 (No. 11; 5 stories, 2 in English)
 - LEAD [immqc] Legault backs PQ halving temporaries; StatCan 531 821 NPR in Quebec at 1 July 2026 (190 727 asylum, 341 094 permits) (Le Devoir/PC 17 Nov) — https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration
@@ -132,7 +140,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 20 Nov run: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
+- 21 Nov run: report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
 - Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
