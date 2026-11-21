@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 12
-- Date: 2026-11-20 (published around 6 h 20)
+- Number: 13
+- Date: 2026-11-21 (Saturday; published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-21 (No. 13; Saturday, 5 stories, 2 in English)
+- LEAD [droit] Supreme Court ruling on Bill 21 set for Fri 27 Nov 9 h 45 (Radio-Canada 20 Nov) — https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme
+- [immqc, opinion] La Presse column « Le trouble de l'opposition » (21 Nov) — https://www.lapresse.ca/actualites/chroniques/2026-11-21/parti-quebecois/le-trouble-de-l-opposition.php
+- FEATURED [etudiants, EN, opinion] Queen's Journal: 4,037 → 3,199 intl students; $47,324 vs $7,771 (20 Nov) — https://www.queensjournal.ca/canada-can-count-international-students-but-can-it-see-them/
+- FEATURED [immca, EN] Extensions slower; 24,900 study-permit extensions pending (CIC 19 Nov) — https://www.cicnews.com/2026/11/ircc-updates-processing-timelines-for-temporary-residence-applications-1182659.html
+- FEATURED [provinces] B.C. Conservative cabinet sworn (Radio-Canada 20 Nov) — https://ici.radio-canada.ca/article/info/2302182/conseil-ministres-cabinet-lorne-doerkson
+- Quote: La Presse column. Number: 27 nov.
 
 ### 2026-11-20 (No. 12; 5 stories, 3 in English)
 - LEAD [superieur] Lefebvre interview: « un peu de patience »; funding reform; McGill 955 M$ vs UQAM 65 M$ international fees over 5 years; 995 M$ underfunding; loi 101 cégep (La Presse 20 Nov) — https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php
@@ -140,7 +148,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 21 Nov run: report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
+- 22 Nov run: REPORT THE CRUES VOTE (held 21 Nov). Radio-Canada ARTICLES ARE READABLE WITH CURL --http1.1 (art.py does this); list new URLs from https://ici.radio-canada.ca/info/{politique,societe,economie} with curl --http1.1 and grep /article/info/; site search is JS-only. Le Devoir chroniques/Idées/some education pieces return no body with curl. FlamboroughToday (Village Media) returns a Cloudflare challenge. Supreme Court Bill 21 ruling 27 Nov 9 h 45. (21 Nov note follows:) report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
 - Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).
