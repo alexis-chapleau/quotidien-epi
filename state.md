@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 13
-- Date: 2026-11-21 (Saturday; published around 6 h 20)
+- Number: 14
+- Date: 2026-11-22 (Sunday; published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-22 (No. 14; Sunday, 5 stories, 1 in English)
+- LEAD [immqc, EN] PEQ closed since 31 Oct, no reopening date; immigration plan "before the holidays" (CBC 21 Nov) — https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661
+- FEATURED [provinces] Ontario private-college students at Queen's Park; bill sets no date (Le Droit 22 Nov) — https://www.ledroit.com/actualites/politique/2026/11/22/nous-navons-rien-fait-de-mal-plaident-des-etudiants-de-colleges-prives-DTCYBIXAIVGQ5ONAWLOFRZMTHI/
+- FEATURED [superieur] CRUES voted 21 Nov, result Monday 23 Nov (La Presse/PC) — https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php
+- FEATURED [etudiants] Erasmus+: Quebec wants sole control with opt-out and full compensation (La Presse 22 Nov) — https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php
+- [superieur] Collège Ahuntsic: 5 students suspended (Journal des voisins 20 Nov) — https://journaldesvoisins.com/college-ahuntsic-des-etudiants-suspendus-apres-la-greve/
+- Quote: Le Nédic. Number: 31 oct.
 
 ### 2026-11-21 (No. 13; Saturday, 5 stories, 2 in English)
 - LEAD [droit] Supreme Court ruling on Bill 21 set for Fri 27 Nov 9 h 45 (Radio-Canada 20 Nov) — https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme
@@ -130,7 +138,7 @@
 1. `college-lasalle-dette` [colleges] — Collège LaSalle, ~$48 M owed to Québec. UNDER CCAA (LACC) SINCE 24 AUG 2026; protection extended on 10 Nov to 29 Jan 2027 (CP); penalty hearing 21–22 Jan 2027; Quebec granted leave to appeal the 3 Sept subsidy order (no date). Watch for the appeal date and any settlement. OUTCOME NOT FOUND after a wide search on 10 Nov (La Presse, Le Devoir, Radio-Canada, Google News; the college's own timeline at lasallecollege.lcieducation.com/en/news-and-events/news/penalty stops at 4 Sept). Keep looking every day (settlement; position of the PQ government). Not readable: insolvencies.deloitte.ca, insolvencyinsider.ca, fasken.com.
 2. `permis-colleges-superieurs` [colleges] — Collège supérieur de Montréal and de Sherbrooke, permits not renewed (July 2026), TAQ stay of 28 July. Merits decision NOT FOUND. Check the TAQ public hearing roll every few days (https://www.roles.taq.gouv.qc.ca/Recherche.aspx; it only shows about three weeks ahead; on 10 Nov nothing under Collège/Hajibi/Doray). SOQUIJ needs a captcha and CanLII returns 403. Related, not yet read: Collège de technologie Véritas, Herzing vocational permit.
 3. `plafonds-etudiants-etrangers` [etudiants] — federal and Quebec caps and their effects. Next: Quebec's multi-year plan (end of November); second period of Quebec's cap decree starts 17 Dec 2026 (verified on quebec.ca, communiqué of 17 Dec 2025); nothing announced by the new government. IRCC has not yet published the 2027 study-permit cap or provincial allocations: watch for it.
-4. `plan-immigration-quebec` [immqc] — the PQ government's first immigration plan (35 000 permanent; temporary halved in four years). Promised « à la fin du mois de novembre ». Note: the federal one-time measure's 100 000 worker places are for workers outside Quebec, so do not write that Quebec gets a share of them.
+4. `plan-immigration-quebec` [immqc] — the PQ government's first immigration plan (35 000 permanent; temporary halved in four years). Promised « à la fin du mois de novembre », now « avant les Fêtes » (CBC 21 Nov). Note: the federal one-time measure's 100 000 worker places are for workers outside Quebec, so do not write that Quebec gets a share of them.
 
 ## Agenda (upcoming dates; remove when passed)
 - 15 Nov (Sunday), 18 h Phnom Penh / 6 h Montréal: Carney–St-Pierre Plamondon meeting — https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie
@@ -148,7 +156,8 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 22 Nov run: REPORT THE CRUES VOTE (held 21 Nov). Radio-Canada ARTICLES ARE READABLE WITH CURL --http1.1 (art.py does this); list new URLs from https://ici.radio-canada.ca/info/{politique,societe,economie} with curl --http1.1 and grep /article/info/; site search is JS-only. Le Devoir chroniques/Idées/some education pieces return no body with curl. FlamboroughToday (Village Media) returns a Cloudflare challenge. Supreme Court Bill 21 ruling 27 Nov 9 h 45. (21 Nov note follows:) report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
+- 23 Nov run (Monday): CRUES announces strike-vote RESULT Monday morning (may come after the run; check). Quebec immigration plan now promised « avant les Fêtes » (CBC 21 Nov), not end of November. Toronto Star/Welland Tribune 21 Nov on CCO's letter about OSAP red flags: URL not found.
+- (22 Nov note) Radio-Canada ARTICLES ARE READABLE WITH CURL --http1.1 (art.py does this); list new URLs from https://ici.radio-canada.ca/info/{politique,societe,economie} with curl --http1.1 and grep /article/info/; site search is JS-only. Le Devoir chroniques/Idées/some education pieces return no body with curl. FlamboroughToday (Village Media) returns a Cloudflare challenge. Supreme Court Bill 21 ruling 27 Nov 9 h 45. (21 Nov note follows:) report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
 - Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.
 - (14 Nov note) report the Carney–St-Pierre Plamondon meeting (15 Nov, 6 h Montréal) — immigration and the 100,000 PNP places (outside Quebec per CIC News). Agenda adds 21 Nov CRUES assembly on an unlimited general strike. Not read: La Presse 12 Nov BMO Québec president on immigration (URL not found); 98.5 « 70 000, c'est un chiffre mathématique » (URL not found); Palmarès des écoles 2026 (Journal de Montréal, unreadable).

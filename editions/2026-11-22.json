@@ -1,0 +1,464 @@
+{
+ "date": "2026-11-22",
+ "date_long": "dimanche 22 novembre 2026",
+ "issue": 14,
+ "generated_at": "06 h 20",
+ "quote": {
+  "text": "En ce moment, l’heure n’est pas à la patience.",
+  "speaker": "Naïma Le Nédic",
+  "context": "responsable aux relations internes de la CRUES",
+  "url": "https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php"
+ },
+ "number": {
+  "value": "31 oct.",
+  "text": "Date de fermeture du PEQ, sans date de réouverture annoncée; le programme doit prendre fin d’ici 2028.",
+  "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+ },
+ "agenda": [
+  {
+   "date": "23 nov.",
+   "text": "La CRUES annonce le résultat de son vote sur une grève générale illimitée à l’hiver",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php"
+  },
+  {
+   "date": "27 nov.",
+   "text": "Cour suprême : jugement sur la loi 21 (laïcité), 9 h 45",
+   "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec, 14 h; les travaux se terminent le 11 décembre",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "date": "Avant les Fêtes",
+   "text": "Plan d’immigration du gouvernement du Québec",
+   "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+  },
+  {
+   "date": "17 déc.",
+   "text": "Début de la deuxième période du décret québécois sur les demandes d’étudiants étrangers",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+  },
+  {
+   "date": "21-22 janv.",
+   "text": "Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+  }
+ ],
+ "stories": [
+  {
+   "id": "peq-ferme-plan-avant-fetes",
+   "section": "immqc",
+   "lead": true,
+   "lang": "en",
+   "brief": "PEQ closed again with no reopening date; Quebec's immigration plan will come \"before the holidays\"",
+   "kicker": "Montreal",
+   "suptitle": "Quebec Experience Program",
+   "title": "Quebec's PEQ is closed again, and no one knows when it will reopen",
+   "standfirst": "The first application window ran July 2 to Oct. 31. Minister Catherine Gentilcore's office says there is no planned reopening date and that the PQ government's immigration plan will be presented before the holidays.",
+   "body": [
+    "Three weeks after the first application window for the Programme de l'expérience québécoise (PEQ) closed on Oct. 31, there is no word on a second one, CBC News reports. The previous government scrapped the PEQ in November 2025 in favour of the PSTQ, then temporarily revived it this year with plans to end it for good in 2028; a second window could open any time before July 2028.",
+    "\"There has been no decision regarding a new period to accept applications,\" the Quebec government's website says. The spokesperson for Immigration Minister Catherine Gentilcore, Éli Dubois, said the government is committed to a \"predictable path toward permanent residence\" for people who meet Quebec's criteria, but that the PEQ \"has to also take into consideration our ability to take in people and objectives the province has set for immigration, integration and francization.\"",
+    "He said the summer reopening \"generated a high volume of requests in a short period of time\" and that the government's overall immigration plan will be presented before the holidays. The ministry did not say how many applications it received.",
+    "\"Federal work permits are expiring, work permits aren't getting renewed so these people are losing their statuses and their ability to work and support their families,\" said Sabrina Kouider-Philippon of the group Le Québec c'est nous aussi, which is also asking Ottawa to extend work permits."
+   ],
+   "why": "The PEQ's graduate stream is the main route to permanent residence for international students in Quebec, including at private colleges; its fate is now tied to the multi-year plan, which slips from end of November to before the holidays.",
+   "facts": [
+    "First PEQ window: July 2 to Oct. 31, 2026",
+    "No date for a second window; program to end by 2028",
+    "Immigration plan to be presented before the holidays (minister's office)",
+    "Number of applications received not disclosed"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CBC News",
+    "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661",
+    "date": "21 novembre 2026"
+   }
+  },
+  {
+   "id": "etudiants-colleges-prives-ontario-rafeo",
+   "section": "provinces",
+   "featured": true,
+   "brief": "Ontario : des étudiants de collèges privés privés de RAFÉO plaident leur cause à Queen’s Park; la loi ne fixe aucun échéancier",
+   "kicker": "Queen’s Park",
+   "suptitle": "RAFÉO",
+   "title": "« Nous n’avons rien fait de mal », plaident des étudiants de collèges privés ontariens",
+   "standfirst": "Des étudiants dont l’aide avait été approuvée témoignent de leur détresse. Le projet de loi omnibus ne prévoit aucune date de reprise des versements; le sort des dossiers approuvés sera réglé par règlement.",
+   "body": [
+    "« Je n’ai aucun revenu et je crains pour mon dossier de crédit ainsi que pour mon avenir », a dit Cindy Claros De Torres, étudiante d’un programme en ligne dans un collège privé, en conférence de presse à Queen’s Park aux côtés de la porte-parole néo-démocrate Peggy Sattler, rapporte Le Droit. Son aide avait été approuvée en mai avant la suspension du RAFÉO dans tous les collèges privés.",
+    "Diane Yu, inscrite dans un collège privé d’hygiène dentaire, ne reçoit pas d’aide mais craint la fermeture de son établissement : « Un si grand nombre de mes camarades de classe dépendent du RAFÉO que mon établissement pourrait être contraint de fermer ses portes avant même que je puisse terminer mes études. »",
+    "Le projet de loi omnibus rend les collèges financièrement responsables des abus, plafonne la croissance des inscriptions financées et exclut les programmes principalement en ligne. Mais il omet tout échéancier de reprise et renvoie à des règlements le sort des dossiers déjà approuvés. Le ministre Nolan Quinn a évoqué un retour d’ici le Nouvel An."
+   ],
+   "why": "Le cas ontarien montre le coût, pour les étudiants de bonne foi, d’un gel sectoriel décidé sans mécanisme de protection : une leçon directe pour toute mesure visant les collèges privés non subventionnés au Québec.",
+   "facts": [
+    "Versements du RAFÉO suspendus dans tous les collèges privés depuis octobre",
+    "Programmes principalement en ligne exclus par le projet de loi",
+    "Sort des dossiers approuvés renvoyé à des règlements"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Droit",
+    "url": "https://www.ledroit.com/actualites/politique/2026/11/22/nous-navons-rien-fait-de-mal-plaident-des-etudiants-de-colleges-prives-DTCYBIXAIVGQ5ONAWLOFRZMTHI/",
+    "date": "22 novembre 2026"
+   }
+  },
+  {
+   "id": "crues-vote-greve-illimitee-lundi",
+   "section": "superieur",
+   "featured": true,
+   "brief": "Grève générale illimitée à l’hiver : la CRUES a voté samedi, résultat annoncé lundi matin",
+   "kicker": "Montréal",
+   "suptitle": "Grève étudiante",
+   "title": "Une grève générale illimitée envisagée à la session d’hiver",
+   "standfirst": "Réunie samedi à l’UQAM, la CRUES a tenu une assemblée populaire et un congrès extraordinaire; le résultat sera annoncé lundi. La ministre Lefebvre promet des annonces, notamment en logement étudiant.",
+   "body": [
+    "Des étudiants collégiaux et universitaires se sont réunis samedi à l’UQAM pour une assemblée populaire, suivie d’un congrès extraordinaire de la Coalition de résistance pour l’unité étudiante syndicale (CRUES) sur une grève générale illimitée à la session d’hiver, rapporte La Presse Canadienne. Le résultat sera annoncé lundi matin en conférence de presse.",
+    "« On voit un ras-le-bol général et on voit que la seule solution actuellement est la grève générale illimitée », a dit Naïma Le Nédic, de la CRUES. La ministre Elsie Lefebvre a de nouveau demandé de la patience : « On a des engagements qui vont dans le sens de leurs revendications, notamment le financement des stages, on veut revoir l’aide aux études, on a des annonces aussi qui vont être faites, notamment pour du logement étudiant. »",
+    "« En ce moment, l’heure n’est pas à la patience », a répliqué Mme Le Nédic."
+   ],
+   "why": "Une grève illimitée à l’hiver perturberait les stages et les calendriers des cégeps, au moment où la ministre prépare ses premiers arbitrages budgétaires.",
+   "facts": [
+    "Vote tenu le 21 novembre à l’UQAM",
+    "Résultat annoncé lundi 23 novembre",
+    "Lefebvre promet des annonces en logement étudiant"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse (La Presse Canadienne)",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php",
+    "date": "21 novembre 2026"
+   }
+  },
+  {
+   "id": "erasmus-quebec-maitre-oeuvre",
+   "section": "etudiants",
+   "featured": true,
+   "brief": "Erasmus+ : Québec appuie l’adhésion canadienne mais exige d’en être le seul gestionnaire, avec droit de retrait et pleine compensation",
+   "kicker": "Québec",
+   "suptitle": "Mobilité étudiante",
+   "title": "Erasmus+ : Québec veut être le seul maître d’œuvre sur son territoire",
+   "standfirst": "Ottawa négocie avec l’Union européenne un élargissement de sa participation au programme d’échanges. Québec appuie « sur le principe », mais exige un droit de retrait avec pleine compensation.",
+   "body": [
+    "Le gouvernement fédéral a annoncé, au sommet Canada-UE de la fin d’octobre, des négociations pour élargir sa participation à Erasmus+, rapporte La Presse. Le financement reste à négocier; pour réintégrer le programme, le Royaume-Uni devait débourser 570 millions de livres (près de 1,1 milliard de dollars canadiens) pour 2027-2028.",
+    "Le cabinet de la ministre Elsie Lefebvre appuie le projet « sur le principe », mais prévient que si Ottawa met sur pied ses propres mécanismes, Québec « doit pouvoir s’en retirer avec pleine compensation et administrer lui-même ces sommes ». Combien d’étudiants Erasmus le Québec accueillerait-il ? « Il est trop tôt pour avancer un chiffre », répond le cabinet, qui invoque la « capacité d’accueil, notamment en matière de logement, d’infrastructures et de services ».",
+    "Le président de l’Université du Québec, Alexandre Cloutier, dit n’avoir « pas été consulté » : « On est en mode attente. »"
+   ],
+   "why": "Même la mobilité étudiante européenne est soumise au critère de « capacité d’accueil » qui guide les plafonds d’étudiants étrangers; c’est un nouveau front de compétence avec Ottawa.",
+   "facts": [
+    "Négociations Canada-UE sur Erasmus+ annoncées fin octobre",
+    "Coût britannique : 570 M£ pour 2027-2028",
+    "Québec exige un droit de retrait avec pleine compensation"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php",
+    "date": "22 novembre 2026"
+   }
+  },
+  {
+   "id": "college-ahuntsic-suspensions",
+   "section": "superieur",
+   "brief": "Collège Ahuntsic : cinq étudiants suspendus après avoir forcé l’entrée du collège pendant la grève",
+   "kicker": "Montréal",
+   "suptitle": "Grève étudiante",
+   "title": "Cinq étudiants du collège Ahuntsic suspendus après la grève",
+   "standfirst": "Membres du conseil de grève, ils ont forcé l’entrée du collège fermé, rompant l’entente de grève, selon l’association étudiante. Trois suspensions ont été temporairement levées.",
+   "body": [
+    "Cinq étudiants du collège Ahuntsic ont reçu le 16 novembre un avis de suspension « pour une durée indéterminée » après la grève du 9 au 13 novembre, rapporte le Journal des voisins. Membres du conseil de grève, ils avaient forcé l’entrée du collège, fermé pendant la grève, ce qui a nécessité l’intervention du SPVM; l’association étudiante (AGÉCA) admet « un petit peu de vandalisme ».",
+    "La suspension de trois étudiants aurait été temporairement levée le 17 novembre; la durée des sanctions doit être connue la semaine du 23 novembre. La grève avait été votée par environ 58 % des participants à une consultation."
+   ],
+   "why": "Les sanctions disciplinaires deviennent un enjeu du conflit à l’approche d’une possible grève illimitée.",
+   "facts": [
+    "5 étudiants suspendus le 16 novembre",
+    "3 suspensions temporairement levées le 17 novembre"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Journal des voisins",
+    "url": "https://journaldesvoisins.com/college-ahuntsic-des-etudiants-suspendus-apres-la-greve/",
+    "date": "20 novembre 2026"
+   }
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier",
+   "status": "nochange",
+   "update": "Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre.",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver.",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+    }
+   ]
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "nochange",
+   "update": "La ministre Lefebvre veut réformer le financement universitaire pour mieux répartir les droits des étudiants étrangers : McGill a touché 955 M$ en cinq ans, l’UQAM environ 65 M$. Le deuxième volet du décret québécois commence le 17 décembre.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région.",
+     "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026.",
+     "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/"
+    },
+    {
+     "date": "20 nov. 2026",
+     "text": "Lefebvre annonce une réforme du financement des universités; McGill 955 M$ contre 65 M$ pour l’UQAM en droits d’étudiants internationaux sur cinq ans.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "new",
+   "update": "Le cabinet de la ministre Gentilcore annonce que le plan d’immigration sera présenté « avant les Fêtes » (et non fin novembre). Le PEQ est fermé depuis le 31 octobre, sans date de réouverture.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents.",
+     "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin.",
+     "url": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News.",
+     "url": "https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"
+    },
+    {
+     "date": "14 nov. 2026",
+     "text": "PSPP se dit « assez optimiste » avant de rencontrer Carney; l’immigration figure parmi les sujets à discuter.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp"
+    },
+    {
+     "date": "15 nov. 2026",
+     "text": "Rencontre de 45 minutes à Phnom Penh; immigration abordée, entente sur l’itinérance, rencontre à Québec en décembre.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+    },
+    {
+     "date": "17 nov. 2026",
+     "text": "Legault appuie publiquement la cible péquiste de 200 000 à 250 000 résidents temporaires.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration"
+    },
+    {
+     "date": "21 nov. 2026",
+     "text": "PEQ fermé depuis le 31 octobre, aucune date de réouverture; plan d’immigration promis avant les Fêtes.",
+     "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Quebec's PEQ is closed again, and no one knows when it will reopen",
+   "outlet": "CBC News",
+   "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+  },
+  {
+   "title": "« Nous n’avons rien fait de mal », plaident des étudiants de collèges privés ontariens",
+   "outlet": "Le Droit",
+   "url": "https://www.ledroit.com/actualites/politique/2026/11/22/nous-navons-rien-fait-de-mal-plaident-des-etudiants-de-colleges-prives-DTCYBIXAIVGQ5ONAWLOFRZMTHI/"
+  },
+  {
+   "title": "Une grève générale illimitée envisagée à la session d’hiver",
+   "outlet": "La Presse (La Presse Canadienne)",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php"
+  },
+  {
+   "title": "Erasmus+ : Québec veut être le seul maître d’œuvre sur son territoire",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php"
+  },
+  {
+   "title": "Cinq étudiants du collège Ahuntsic suspendus après la grève",
+   "outlet": "Journal des voisins",
+   "url": "https://journaldesvoisins.com/college-ahuntsic-des-etudiants-suspendus-apres-la-greve/"
+  }
+ ]
+}
