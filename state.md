@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 14
-- Date: 2026-11-22 (Sunday; published around 6 h 20)
+- Number: 15
+- Date: 2026-11-23 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-23 (No. 15; quiet Monday, 5 stories, 2 in English)
+- LEAD [superieur] CRUES vote result due this morning (Radio-Canada 21 Nov) — https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver
+- [superieur] Gaspé student mobilization (Radio-Canada 21 Nov) — https://ici.radio-canada.ca/article/info/2302333/mobilisation-etudiants-gaspe-precarite-cegep
+- FEATURED [etudiants, opinion] Le Devoir Idées, poverty of international students (23 Nov) — https://www.ledevoir.com/opinion/idees/1026923/crise-pauvrete-afflige-etudiants-etrangers
+- FEATURED [provinces, EN] Manitoba 1,050 Ukrainians invited (CIC 20 Nov) — https://www.cicnews.com/2026/11/manitoba-invites-1050-ukrainian-nationals-to-apply-for-provincial-nomination-in-targeted-selection-1182711.html
+- FEATURED [chiffres, EN] QS sustainability: UBC 4th, U of T top 10 (CIC 17 Nov) — https://www.cicnews.com/2026/11/two-canadian-universities-crack-global-top-10-in-2027-qs-sustainability-ranking-1182589.html
+- Quote: Elki Mercier. Number: 1 050.
 
 ### 2026-11-22 (No. 14; Sunday, 5 stories, 1 in English)
 - LEAD [immqc, EN] PEQ closed since 31 Oct, no reopening date; immigration plan "before the holidays" (CBC 21 Nov) — https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661
@@ -156,7 +164,8 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 23 Nov run (Monday): CRUES announces strike-vote RESULT Monday morning (may come after the run; check). Quebec immigration plan now promised « avant les Fêtes » (CBC 21 Nov), not end of November. Toronto Star/Welland Tribune 21 Nov on CCO's letter about OSAP red flags: URL not found.
+- 24 Nov run: REPORT THE CRUES STRIKE-VOTE RESULT (announced 23 Nov morning, after the run). The Koala News and The Varsity now block curl (challenge / 403). Supreme Court Bill 21 ruling Fri 27 Nov. Next Gazette no 47 on 25 Nov.
+- (23 Nov note) Quebec immigration plan now promised « avant les Fêtes » (CBC 21 Nov), not end of November. Toronto Star/Welland Tribune 21 Nov on CCO's letter about OSAP red flags: URL not found.
 - (22 Nov note) Radio-Canada ARTICLES ARE READABLE WITH CURL --http1.1 (art.py does this); list new URLs from https://ici.radio-canada.ca/info/{politique,societe,economie} with curl --http1.1 and grep /article/info/; site search is JS-only. Le Devoir chroniques/Idées/some education pieces return no body with curl. FlamboroughToday (Village Media) returns a Cloudflare challenge. Supreme Court Bill 21 ruling 27 Nov 9 h 45. (21 Nov note follows:) report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
 - Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.
 - (16 Nov note, done) Not readable: macdonaldlaurier.ca (proxy 502), National Post opinion (paywall). La Presse live blog frames only show the latest entries.

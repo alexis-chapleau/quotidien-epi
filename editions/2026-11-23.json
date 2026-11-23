@@ -1,0 +1,456 @@
+{
+ "date": "2026-11-23",
+ "date_long": "lundi 23 novembre 2026",
+ "issue": 15,
+ "generated_at": "06 h 20",
+ "quote": {
+  "text": "Ça fait 40 ans qu’on nous répète qu’il va y avoir des réformes, qu’il va y avoir des améliorations. L’heure n’est plus à la patience, il faut agir, et maintenant.",
+  "speaker": "Elki Mercier",
+  "context": "responsable à la coordination de la CRUES",
+  "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
+ },
+ "number": {
+  "value": "1 050",
+  "text": "Invitations du Manitoba à des Ukrainiens vivant et travaillant dans la province, lors d’un seul tirage de son programme des candidats.",
+  "url": "https://www.cicnews.com/2026/11/manitoba-invites-1050-ukrainian-nationals-to-apply-for-provincial-nomination-in-targeted-selection-1182711.html"
+ },
+ "agenda": [
+  {
+   "date": "23 nov.",
+   "text": "La CRUES annonce le résultat de son vote sur une grève générale illimitée à l’hiver",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-21/cegep-et-universite/une-greve-illimitee-envisagee-durant-la-session-d-hiver.php"
+  },
+  {
+   "date": "27 nov.",
+   "text": "Cour suprême : jugement sur la loi 21 (laïcité), 9 h 45",
+   "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec, 14 h; les travaux se terminent le 11 décembre",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "date": "Avant les Fêtes",
+   "text": "Plan d’immigration du gouvernement du Québec",
+   "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+  },
+  {
+   "date": "17 déc.",
+   "text": "Début de la deuxième période du décret québécois sur les demandes d’étudiants étrangers",
+   "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+  },
+  {
+   "date": "21-22 janv.",
+   "text": "Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+  }
+ ],
+ "stories": [
+  {
+   "id": "crues-resultat-vote-ce-matin",
+   "section": "superieur",
+   "lead": true,
+   "brief": "Grève générale illimitée : la CRUES dévoile ce matin le résultat de son vote de samedi",
+   "kicker": "Montréal",
+   "suptitle": "Grève étudiante",
+   "title": "Grève illimitée à l’hiver : le verdict de la CRUES attendu ce matin",
+   "standfirst": "Réunie samedi à l’UQAM, la coalition étudiante annonce ce lundi matin si elle lance une grève générale illimitée à la session d’hiver. « Ça fait 40 ans qu’on nous répète qu’il va y avoir des réformes », dit sa coordonnatrice.",
+   "body": [
+    "La Coalition de résistance pour l’unité étudiante syndicale (CRUES) doit annoncer lundi matin, en conférence de presse, le résultat du vote tenu samedi à l’UQAM sur une grève générale illimitée à la session d’hiver, rapporte Radio-Canada. Le vote a suivi une assemblée populaire et un congrès extraordinaire.",
+    "« Ça fait 40 ans qu’on nous répète qu’il va y avoir des réformes, qu’il va y avoir des améliorations. L’heure n’est plus à la patience, il faut agir, et maintenant », a déclaré la responsable à la coordination, Elki Mercier, en réponse à la ministre Elsie Lefebvre, qui demande « un peu de patience » et promet des annonces, notamment en logement étudiant.",
+    "Le mouvement réclame une réforme de l’aide financière aux études, la rémunération des stages et un financement accru des établissements. Des milliers d’étudiants ont fait grève du 9 au 13 novembre; Radio-Canada signale aussi des classes bloquées à l’Université Laval."
+   ],
+   "why": "Un mandat de grève illimitée ouvrirait un conflit long à la session d’hiver, au moment des stages et des arbitrages de la mise à jour économique : c’est le premier vrai test de la ministre Lefebvre.",
+   "facts": [
+    "Vote tenu le 21 novembre à l’UQAM",
+    "Résultat annoncé le 23 novembre en matinée",
+    "Revendications : aide financière, stages rémunérés, financement des établissements"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver",
+    "date": "21 novembre 2026"
+   }
+  },
+  {
+   "id": "gaspe-mobilisation-precarite",
+   "section": "superieur",
+   "brief": "Gaspé : rassemblement contre la précarité étudiante; loyers, aide alimentaire et stages rémunérés au cœur des demandes",
+   "kicker": "Gaspé",
+   "suptitle": "Précarité étudiante",
+   "title": "La mobilisation étudiante gagne Gaspé",
+   "standfirst": "Des étudiants du cégep de la Gaspésie et des Îles réclament un contrôle des loyers, de l’aide contre l’insécurité alimentaire et la rémunération des stages.",
+   "body": [
+    "S’inspirant du mouvement français et des mobilisations québécoises, des étudiants ont tenu à Gaspé un rassemblement « festif, respectueux et pacifique » contre la précarité, rapporte Radio-Canada. « Ce n’est pas parce qu’on est une petite région qu’on ne peut pas avoir un mot à dire », dit la coorganisatrice Marilou Balasi.",
+    "Les organisatrices dénoncent la difficulté d’accès à l’aide alimentaire, un organisme ayant cessé de fournir des invendus, et réclament la rémunération des stages. « En stage, on vit vraiment les mêmes réalités que les infirmières sur l’étage », dit l’étudiant en soins infirmiers Désiré Magbli."
+   ],
+   "why": "Le mouvement s’étend aux cégeps de région, où la précarité touche aussi les étudiants étrangers recrutés pour soutenir les effectifs.",
+   "facts": [
+    "Revendications : contrôle des loyers, aide alimentaire, stages rémunérés"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2302333/mobilisation-etudiants-gaspe-precarite-cegep",
+    "date": "21 novembre 2026"
+   }
+  },
+  {
+   "id": "idees-pauvrete-etudiants-etrangers",
+   "section": "etudiants",
+   "featured": true,
+   "opinion": true,
+   "brief": "Idées : « La crise de la pauvreté afflige les étudiants étrangers », écrit une chercheuse au parcours migratoire",
+   "kicker": "Idées",
+   "suptitle": "Idées",
+   "title": "« La crise de la pauvreté afflige les étudiants étrangers »",
+   "standfirst": "Dans Le Devoir, Neslihan Sriram-Uzundal, qui étudie les migrants en milieu scolaire, décrit une précarité financière des étudiants internationaux « largement passée sous silence ».",
+   "body": [
+    "Dans une lettre publiée par Le Devoir, Neslihan Sriram-Uzundal, première diplômée universitaire de sa famille et chercheuse sur les migrants en milieu scolaire, dit vivre elle-même la pauvreté comme étudiante étrangère avec sa famille. Elle cite le rapport 2025 du Conseil consultatif national sur la pauvreté, selon lequel la pauvreté est persistante, systémique et peut résulter de la discrimination.",
+    "« L’obtention d’un diplôme ne devrait pas se faire au détriment de la sécurité financière, du bien-être psychologique ou de la capacité de subvenir aux besoins de sa famille », écrit-elle, déplorant que cette réalité soit absente du discours public."
+   ],
+   "why": "La précarité des étudiants étrangers, absente des débats sur les plafonds, pèse sur la réussite et la rétention, y compris dans les collèges privés qui les recrutent.",
+   "facts": [
+    "Référence : rapport 2025 du Conseil consultatif national sur la pauvreté"
+   ],
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/opinion/idees/1026923/crise-pauvrete-afflige-etudiants-etrangers",
+    "date": "23 novembre 2026"
+   }
+  },
+  {
+   "id": "manitoba-ukrainiens-pnp",
+   "section": "provinces",
+   "featured": true,
+   "lang": "en",
+   "brief": "Manitoba invites 1,050 Ukrainians living in the province to apply for nomination; 10,169 invitations so far in 2026",
+   "kicker": "Manitoba",
+   "suptitle": "Provincial Nominee Program",
+   "title": "Manitoba targets 1,050 Ukrainian workers for provincial nomination",
+   "standfirst": "The Nov. 19 draw issued 1,116 invitations, 1,050 of them to Ukrainian nationals living and working in Manitoba under the Skilled Worker in Manitoba pathway.",
+   "body": [
+    "The Manitoba Provincial Nominee Program issued 1,116 Letters of Advice to Apply on Nov. 19, including 1,050 to Ukrainian nationals living and working in the province through a targeted selection under the Skilled Worker in Manitoba pathway, CIC News reports. The selection used the same criteria as a Sept. 4, 2025, draw that issued 1,466 invitations to Ukrainians.",
+    "Candidates have 60 days to apply for nomination and, if successful, can then apply for permanent residence. Manitoba has issued 10,169 invitations so far in 2026."
+   ],
+   "why": "Provinces are using their nominee programs to move temporary residents already on their territory to permanent status, the lever Quebec controls through its own selection programs.",
+   "facts": [
+    "1,116 invitations on Nov. 19; 1,050 to Ukrainian nationals",
+    "10,169 Manitoba invitations in 2026",
+    "60 days to apply for nomination"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CIC News",
+    "url": "https://www.cicnews.com/2026/11/manitoba-invites-1050-ukrainian-nationals-to-apply-for-provincial-nomination-in-targeted-selection-1182711.html",
+    "date": "20 novembre 2026"
+   }
+  },
+  {
+   "id": "qs-durabilite-ubc-uoft",
+   "section": "chiffres",
+   "featured": true,
+   "lang": "en",
+   "brief": "QS sustainability ranking 2027: UBC 4th and U of T in the global top 10",
+   "kicker": "Rankings",
+   "suptitle": "QS Sustainability Rankings",
+   "title": "Two Canadian universities in the global top 10 for sustainability",
+   "standfirst": "UBC climbed to fourth place and the University of Toronto also made the top 10 among more than 2,000 universities in 107 locations.",
+   "body": [
+    "The University of British Columbia rose to fourth place worldwide and the University of Toronto also placed in the top 10 of the 2027 QS Sustainability Rankings, published Nov. 17, CIC News reports. The ranking assessed more than 2,000 universities in 107 locations on environmental impact, social impact and governance.",
+    "All but one of Canada's top 10 universities in the ranking are in Ontario, British Columbia or Quebec."
+   ],
+   "why": "Rankings remain a recruitment argument for universities facing fewer international students.",
+   "facts": [
+    "UBC: 4th worldwide; U of T: top 10",
+    "More than 2,000 universities assessed"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CIC News",
+    "url": "https://www.cicnews.com/2026/11/two-canadian-universities-crack-global-top-10-in-2027-qs-sustainability-ranking-1182589.html",
+    "date": "17 novembre 2026"
+   }
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier",
+   "status": "nochange",
+   "update": "Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre.",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver.",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+    }
+   ]
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "nochange",
+   "update": "La ministre Lefebvre veut réformer le financement universitaire pour mieux répartir les droits des étudiants étrangers : McGill a touché 955 M$ en cinq ans, l’UQAM environ 65 M$. Le deuxième volet du décret québécois commence le 17 décembre.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région.",
+     "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026.",
+     "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/"
+    },
+    {
+     "date": "20 nov. 2026",
+     "text": "Lefebvre annonce une réforme du financement des universités; McGill 955 M$ contre 65 M$ pour l’UQAM en droits d’étudiants internationaux sur cinq ans.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "nochange",
+   "update": "Le cabinet de la ministre Gentilcore annonce que le plan d’immigration sera présenté « avant les Fêtes » (et non fin novembre). Le PEQ est fermé depuis le 31 octobre, sans date de réouverture.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents.",
+     "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin.",
+     "url": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News.",
+     "url": "https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"
+    },
+    {
+     "date": "14 nov. 2026",
+     "text": "PSPP se dit « assez optimiste » avant de rencontrer Carney; l’immigration figure parmi les sujets à discuter.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp"
+    },
+    {
+     "date": "15 nov. 2026",
+     "text": "Rencontre de 45 minutes à Phnom Penh; immigration abordée, entente sur l’itinérance, rencontre à Québec en décembre.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+    },
+    {
+     "date": "17 nov. 2026",
+     "text": "Legault appuie publiquement la cible péquiste de 200 000 à 250 000 résidents temporaires.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration"
+    },
+    {
+     "date": "21 nov. 2026",
+     "text": "PEQ fermé depuis le 31 octobre, aucune date de réouverture; plan d’immigration promis avant les Fêtes.",
+     "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "Grève illimitée à l’hiver : le verdict de la CRUES attendu ce matin",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
+  },
+  {
+   "title": "La mobilisation étudiante gagne Gaspé",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2302333/mobilisation-etudiants-gaspe-precarite-cegep"
+  },
+  {
+   "title": "« La crise de la pauvreté afflige les étudiants étrangers »",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/opinion/idees/1026923/crise-pauvrete-afflige-etudiants-etrangers"
+  },
+  {
+   "title": "Manitoba targets 1,050 Ukrainian workers for provincial nomination",
+   "outlet": "CIC News",
+   "url": "https://www.cicnews.com/2026/11/manitoba-invites-1050-ukrainian-nationals-to-apply-for-provincial-nomination-in-targeted-selection-1182711.html"
+  },
+  {
+   "title": "Two Canadian universities in the global top 10 for sustainability",
+   "outlet": "CIC News",
+   "url": "https://www.cicnews.com/2026/11/two-canadian-universities-crack-global-top-10-in-2027-qs-sustainability-ranking-1182589.html"
+  }
+ ]
+}
