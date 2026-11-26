@@ -1,8 +1,8 @@
 # Le Quotidien ÉPI — state
 
 ## Last issue
-- Number: 17
-- Date: 2026-11-25 (published around 6 h 20)
+- Number: 18
+- Date: 2026-11-26 (published around 6 h 20)
 
 ## Who holds which post (checked 2026-11-10; re-check when a name matters)
 - Quebec: Parti québécois minority government since the 5 October 2026 election (PQ 59 of 127, PLQ 40, PCQ 19, QS 9, CAQ 0). Premier Paul St-Pierre Plamondon, cabinet sworn in 21 October.
@@ -11,6 +11,14 @@
 - Ontario: Colleges and Universities: Nolan Quinn.
 
 ## Stories used (last 7 editions)
+
+### 2026-11-26 (No. 18; 5 stories, 3 in English)
+- LEAD [immca] Conservative motion defeated 25 Nov; Bloc voted for (Noovo/PC) — https://www.noovo.info/nouvelles/politique/article/la-motion-visant-a-rejeter-le-plan-2027-2029-du-federal-en-immigration-est-rejetee/
+- FEATURED [chiffres] StatCan: Montréal CMA share of new PRs 83.1 % → 65.3 % (2020–2025); Capitale-Nationale 14.7 % (La Presse 25 Nov) — https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/immigration/montreal-perd-du-terrain-au-profit-des-regions.php
+- FEATURED [etudiants, EN] Reuters/Globe: 292,830 new students in 2024 vs 150,000 target; Humber −$40 M (25 Nov) — https://www.theglobeandmail.com/business/article-canadas-foreign-student-restrictions-test-carneys-push-to-attract/
+- FEATURED [immca, EN] Express Entry 6,000 francophone ITAs (CIC 25 Nov) — https://www.cicnews.com/2026/11/canada-invites-6000-francophones-to-apply-for-permanent-residence-1182792.html
+- [etudiants, EN] Oliphant at CBIE (PIE 25 Nov) — https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/
+- Quote: Joseph Wong. Number: 65,3 %.
 
 ### 2026-11-25 (No. 17; 5 stories, 2 in English)
 - LEAD [immca] Diab: 200 000 one-time admissions are a maximum; unused provincial places not filled (Le Devoir/PC 24 Nov) — https://www.ledevoir.com/politique/canada/1027529/ottawa-assure-plan-residents-permanents-est-limite-200-000-admissions
@@ -180,7 +188,7 @@
 - 1 March 2027: proposed TFW changes (15 % cap) if provinces agree. Early 2027: États généraux sur l'éducation; Ontario's new approval process for private colleges.
 
 ## Notes for next run
-- 26 Nov run: watch the Commons vote result on the Conservative PR motion; Supreme Court Bill 21 on 27 Nov (report it in the 28 Nov edition); next Gazette no 48 on 2 Dec (2648-F.pdf). Not read: arabcanadanews 'PGWPs jump to 286,000 over 9 months' (find primary). (25 Nov: Gazette 47 checked.) Earlier: Commons vote on Conservative PR motion this week; Supreme Court Bill 21 on 27 Nov. Unverified: Immigration.ca claim that IRCC plans a 13 % staffing cut (no primary source found). CP24 article pages return a generic page with curl; use Global News copies of CP stories. (24 Nov: CRUES result reported — ultimatum 1 Feb / strike 15 Feb.) The Koala News and The Varsity now block curl (challenge / 403). Supreme Court Bill 21 ruling Fri 27 Nov. Next Gazette no 47 on 25 Nov.
+- 27 Nov run: Supreme Court Bill 21 ruling at 9 h 45 today (after the run; report on 28 Nov). Not read: Radio-Canada 25 Nov « Apprendre le français pour rester au Canada »; Courrier international on French nationals in Quebec. (26 Nov: Commons motion result reported.) Earlier: Supreme Court Bill 21 on 27 Nov (report it in the 28 Nov edition); next Gazette no 48 on 2 Dec (2648-F.pdf). Not read: arabcanadanews 'PGWPs jump to 286,000 over 9 months' (find primary). (25 Nov: Gazette 47 checked.) Earlier: Commons vote on Conservative PR motion this week; Supreme Court Bill 21 on 27 Nov. Unverified: Immigration.ca claim that IRCC plans a 13 % staffing cut (no primary source found). CP24 article pages return a generic page with curl; use Global News copies of CP stories. (24 Nov: CRUES result reported — ultimatum 1 Feb / strike 15 Feb.) The Koala News and The Varsity now block curl (challenge / 403). Supreme Court Bill 21 ruling Fri 27 Nov. Next Gazette no 47 on 25 Nov.
 - (23 Nov note) Quebec immigration plan now promised « avant les Fêtes » (CBC 21 Nov), not end of November. Toronto Star/Welland Tribune 21 Nov on CCO's letter about OSAP red flags: URL not found.
 - (22 Nov note) Radio-Canada ARTICLES ARE READABLE WITH CURL --http1.1 (art.py does this); list new URLs from https://ici.radio-canada.ca/info/{politique,societe,economie} with curl --http1.1 and grep /article/info/; site search is JS-only. Le Devoir chroniques/Idées/some education pieces return no body with curl. FlamboroughToday (Village Media) returns a Cloudflare challenge. Supreme Court Bill 21 ruling 27 Nov 9 h 45. (21 Nov note follows:) report the CRUES vote (Saturday 21 Nov) on an unlimited general strike; WebFetch was unavailable on 20 Nov (Radio-Canada not read; owner asked for no subagents). National Post articles are paywalled. Earlier: watch CRUES assembly 21 Nov; Quebec multi-year immigration plan (end Nov). Le Devoir Idées pages sometimes return no body text with curl (19 Nov 'L'université, voilà l'ennemi'). Journal Métro has AI-written ('Agent IA') pieces; prefer another source when possible.
 - Next Gazette is no 47 (25 Nov, 2647-F.pdf). Not found: The Record (Waterloo) 17 Nov 'Why international students are choosing Germany over Canada' (URL not found). (18 Nov: Gazette no 46 checked, nothing on private education.) Toronto Star 17 Nov on approved career-college students still unfunded: URL not found. Watch whether the religious-symbols ban covers private schools. (17 Nov done: Ontario bill reported.) The Trillium returns 403. ccrweb.ca's levels release is last year's (do not reuse). Carney–PSPP met 15 Nov (reported in No. 8); next meeting in Quebec City in December.

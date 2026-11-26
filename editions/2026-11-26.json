@@ -1,0 +1,473 @@
+{
+ "date": "2026-11-26",
+ "date_long": "jeudi 26 novembre 2026",
+ "issue": 18,
+ "generated_at": "06 h 20",
+ "quote": {
+  "text": "These study permit caps really tarnished Canada’s brand.",
+  "speaker": "Joseph Wong",
+  "context": "vice-président international de l’Université de Toronto",
+  "url": "https://www.theglobeandmail.com/business/article-canadas-foreign-student-restrictions-test-carneys-push-to-attract/"
+ },
+ "number": {
+  "value": "65,3 %",
+  "text": "Part des nouveaux résidents permanents du Québec établis dans la région de Montréal en 2025, contre 83,1 % en 2020 (Statistique Canada).",
+  "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/immigration/montreal-perd-du-terrain-au-profit-des-regions.php"
+ },
+ "agenda": [
+  {
+   "date": "27 nov.",
+   "text": "Cour suprême : jugement sur la loi 21 (laïcité), 9 h 45",
+   "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec, 14 h; les travaux se terminent le 11 décembre",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "date": "Avant les Fêtes",
+   "text": "Plan d’immigration du gouvernement du Québec",
+   "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+  },
+  {
+   "date": "21-22 janv.",
+   "text": "Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+  },
+  {
+   "date": "1er févr.",
+   "text": "Échéance de l’ultimatum de la CRUES; grève générale illimitée possible le 15 février",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-23/ultimatum-d-un-regroupement-etudiant/sans-changements-reels-une-greve-generale-etudiante-le-15-fevrier.php"
+  }
+ ],
+ "stories": [
+  {
+   "id": "motion-conservatrice-rejetee-bloc-pour",
+   "section": "immca",
+   "lead": true,
+   "brief": "Communes : la motion conservatrice contre le plan d’immigration est battue; le Bloc l’a appuyée",
+   "kicker": "Ottawa",
+   "suptitle": "Plan des niveaux 2027-2029",
+   "title": "La motion pour rejeter le plan fédéral d’immigration est battue, malgré l’appui du Bloc",
+   "standfirst": "Libéraux, néo-démocrates et la députée verte ont voté contre mercredi. Le Bloc québécois a appuyé la motion conservatrice, qui dénonçait des niveaux d’immigration permanente « sans précédent ».",
+   "body": [
+    "La motion conservatrice demandant à la Chambre des communes de rejeter le plan d’immigration 2027-2029 a été battue mercredi, rapporte La Presse Canadienne sur Noovo. Les bloquistes l’ont appuyée, mais les libéraux, les néo-démocrates et la députée verte Elizabeth May s’y sont opposés. Le texte affirmait que le plan a pour effet d’« augmenter l’immigration permanente l’année prochaine pour atteindre des niveaux sans précédent ».",
+    "Les conservateurs visent la mesure permettant à un maximum de 200 000 résidents temporaires « de longue date » de devenir résidents permanents d’ici la fin de 2027, hors des cibles officielles de 380 000 résidents permanents et de 370 000 résidents temporaires. « C’était toute une illusion. On voit maintenant qu’il continue dans la même voie. En fait, il accélère », a dit Pierre Poilievre.",
+    "Mark Carney a répondu que la stabilisation se poursuit, citant des données du budget de 2026 sur une diminution de 57 % à 71 % de l’accueil de nouveaux travailleurs étrangers."
+   ],
+   "why": "L’appui du Bloc illustre la convergence québécoise contre la « hausse cachée » dénoncée par la ministre Gentilcore; le plan fédéral reste intact et Québec doit maintenant présenter le sien avant les Fêtes.",
+   "facts": [
+    "Motion conservatrice battue le 25 novembre",
+    "Bloc pour; libéraux, NPD et Elizabeth May contre",
+    "Cibles : 380 000 permanents et 370 000 temporaires par an, plus jusqu’à 200 000 transitions ponctuelles"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Noovo Info (La Presse Canadienne)",
+    "url": "https://www.noovo.info/nouvelles/politique/article/la-motion-visant-a-rejeter-le-plan-2027-2029-du-federal-en-immigration-est-rejetee/",
+    "date": "25 novembre 2026"
+   }
+  },
+  {
+   "id": "montreal-perd-terrain-regions",
+   "section": "chiffres",
+   "featured": true,
+   "brief": "Statistique Canada : la part des nouveaux résidents permanents du Québec qui s’installent dans la région de Montréal passe de 83 % à 65 % en cinq ans",
+   "kicker": "Québec",
+   "suptitle": "Régionalisation",
+   "title": "Montréal perd du terrain au profit des régions dans l’établissement des immigrants",
+   "standfirst": "De 2020 à 2025, la part des nouveaux résidents permanents du Québec établis dans la région métropolitaine est passée de 83,1 % à 65,3 %, le plus fort recul des grandes métropoles. La Capitale-Nationale en accueille désormais 14,7 %.",
+   "body": [
+    "Selon une étude de Statistique Canada publiée mardi et rapportée par La Presse, la part des nouveaux arrivants du Québec qui s’établissent dans la région métropolitaine de Montréal est passée de 83,1 % en 2020 à 65,3 % en 2025, un recul de près de 18 points, contre 16 points pour Toronto et 7 pour Vancouver dans leurs provinces. Tout le recul est attribuable à l’île de Montréal; les banlieues ont légèrement augmenté leur part.",
+    "Montréal accueille pourtant davantage d’immigrants qu’avant : 37 629 en 2025 contre 27 665 en 2020. Mais l’immigration a crû beaucoup plus vite ailleurs. La Capitale-Nationale accueille 14,7 % des nouveaux immigrants du Québec, contre 6,7 % en 2020; Gatineau, Sherbrooke, Trois-Rivières et Drummondville progressent, et les petites villes et régions rurales en reçoivent près d’un sur dix.",
+    "Les règles de sélection favorisant l’établissement hors Montréal semblent porter leurs fruits. L’étude ne couvre que les nouveaux résidents permanents, pas les résidents temporaires, dont les étudiants étrangers, et ne dit pas s’ils resteront en région."
+   ],
+   "why": "La régionalisation fonctionne pour les résidents permanents; le futur plan québécois, qui réduira les temporaires, devra préserver ce levier pour les régions, où se trouvent aussi de nombreux étudiants étrangers des cégeps et collèges.",
+   "facts": [
+    "Part de la RMR de Montréal : 83,1 % (2020) à 65,3 % (2025)",
+    "Nouveaux immigrants dans la RMR : 27 665 à 37 629",
+    "Capitale-Nationale : 6,7 % à 14,7 %",
+    "Étude limitée aux nouveaux résidents permanents"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/immigration/montreal-perd-du-terrain-au-profit-des-regions.php",
+    "date": "25 novembre 2026"
+   }
+  },
+  {
+   "id": "restrictions-etudiants-talents-recherche",
+   "section": "etudiants",
+   "featured": true,
+   "lang": "en",
+   "brief": "Study-permit cuts test Carney's $1.7-billion push for research talent; Humber faces a $40-million shortfall",
+   "kicker": "Canada",
+   "suptitle": "Research talent",
+   "title": "Foreign student restrictions test Carney's push to attract research talent",
+   "standfirst": "The target of 150,000 new international students a year compares with 292,830 arrivals in 2024. Universities say the caps \"tarnished Canada's brand\" as Ottawa courts researchers.",
+   "body": [
+    "Canada's immigration plan targets 150,000 new international student arrivals a year, down from 292,830 in 2024, Reuters reports in The Globe and Mail. Lower international revenue has led to staff and program cuts at polytechnics and public colleges; Humber Polytechnic faces a $40-million revenue shortfall.",
+    "\"These study permit caps really tarnished Canada's brand,\" said Joseph Wong, vice-president international at the University of Toronto. \"It gave the impression that Canada was closing its doors to international students.\" U15 chief executive Robert Asselin warned that changing rules might deter talent even with graduate students exempted.",
+    "The cuts may undermine Prime Minister Mark Carney's $1.7-billion effort to attract top researchers; more than $625 million has been committed through new research funding programs, with more recipients expected in early 2027."
+   ],
+   "why": "Ottawa is trying to recruit researchers while restricting students; the same tension frames Quebec's choices on per-institution quotas.",
+   "facts": [
+    "New international students: 292,830 in 2024; target 150,000 a year",
+    "Humber Polytechnic: $40-million shortfall",
+    "$1.7-billion research-talent strategy; $625 M+ committed"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "The Globe and Mail (Reuters)",
+    "url": "https://www.theglobeandmail.com/business/article-canadas-foreign-student-restrictions-test-carneys-push-to-attract/",
+    "date": "25 novembre 2026"
+   }
+  },
+  {
+   "id": "entree-express-6000-francophones",
+   "section": "immca",
+   "featured": true,
+   "lang": "en",
+   "brief": "Express Entry: 6,000 invitations to French-speaking candidates on Nov. 25",
+   "kicker": "IRCC",
+   "suptitle": "Francophone immigration",
+   "title": "Express Entry invites 6,000 French-speaking candidates",
+   "standfirst": "The second draw under the revised ranking system targeted candidates with French-language ability. IRCC has issued 157,408 invitations in 67 draws this year.",
+   "body": [
+    "IRCC issued 6,000 invitations to apply to candidates with French-language abilities on Nov. 25, the second Express Entry draw under the revised Comprehensive Ranking System, CIC News reports. It was the 67th draw of 2026, bringing the year's total to 157,408 invitations.",
+    "Francophone draws feed the federal target for French-speaking immigration outside Quebec, which rises to 9.5 per cent in 2027."
+   ],
+   "why": "Ottawa's francophone draws recruit French speakers for the rest of Canada, competing with Quebec for the same candidates, including French-speaking graduates.",
+   "facts": [
+    "6,000 invitations on Nov. 25",
+    "157,408 invitations in 67 draws in 2026"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "CIC News",
+    "url": "https://www.cicnews.com/2026/11/canada-invites-6000-francophones-to-apply-for-permanent-residence-1182792.html",
+    "date": "25 novembre 2026"
+   }
+  },
+  {
+   "id": "oliphant-cbie-etudiants",
+   "section": "etudiants",
+   "lang": "en",
+   "brief": "At CBIE, a federal parliamentary secretary urges the sector to push the immigration minister on international students",
+   "kicker": "Ottawa",
+   "suptitle": "CBIE conference",
+   "title": "Federal MP urges sector to press the immigration minister on international students",
+   "standfirst": "Robert Oliphant, parliamentary secretary to the foreign affairs minister, told the CBIE conference that international education is \"an even more important strategic asset for Canada.\"",
+   "body": [
+    "Robert Oliphant, parliamentary secretary to the minister of foreign affairs, urged delegates at the Canadian Bureau for International Education conference in Ottawa to lobby the government, The PIE News reports. \"I'm giving you permission. In fact, I request that you push our minister of immigration to talk about the need for students to come to this country,\" he said.",
+    "He also called for more federal funding for research collaboration and for recognition of the arts and humanities alongside STEM."
+   ],
+   "why": "A government voice publicly inviting pressure on its own immigration minister signals internal debate in Ottawa over the student caps.",
+   "facts": [
+    "Speech at the CBIE conference in Ottawa",
+    "Calls for more research collaboration funding"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "The PIE News",
+    "url": "https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/",
+    "date": "25 novembre 2026"
+   }
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier",
+   "status": "nochange",
+   "update": "Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre.",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver.",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+    }
+   ]
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "nochange",
+   "update": "La ministre Lefebvre veut réformer le financement universitaire pour mieux répartir les droits des étudiants étrangers : McGill a touché 955 M$ en cinq ans, l’UQAM environ 65 M$. Le deuxième volet du décret québécois commence le 17 décembre.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région.",
+     "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026.",
+     "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/"
+    },
+    {
+     "date": "20 nov. 2026",
+     "text": "Lefebvre annonce une réforme du financement des universités; McGill 955 M$ contre 65 M$ pour l’UQAM en droits d’étudiants internationaux sur cinq ans.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "new",
+   "update": "La motion conservatrice contre le plan fédéral est battue malgré l’appui du Bloc. Statistique Canada montre la régionalisation des nouveaux résidents permanents au Québec (Montréal de 83 % à 65 %). Plan québécois attendu avant les Fêtes.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents.",
+     "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin.",
+     "url": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News.",
+     "url": "https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"
+    },
+    {
+     "date": "14 nov. 2026",
+     "text": "PSPP se dit « assez optimiste » avant de rencontrer Carney; l’immigration figure parmi les sujets à discuter.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp"
+    },
+    {
+     "date": "15 nov. 2026",
+     "text": "Rencontre de 45 minutes à Phnom Penh; immigration abordée, entente sur l’itinérance, rencontre à Québec en décembre.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+    },
+    {
+     "date": "17 nov. 2026",
+     "text": "Legault appuie publiquement la cible péquiste de 200 000 à 250 000 résidents temporaires.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration"
+    },
+    {
+     "date": "21 nov. 2026",
+     "text": "PEQ fermé depuis le 31 octobre, aucune date de réouverture; plan d’immigration promis avant les Fêtes.",
+     "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    },
+    {
+     "date": "23 nov. 2026",
+     "text": "Motion conservatrice aux Communes pour rejeter la hausse des résidents permanents; vote attendu dans la semaine.",
+     "url": "https://www.ledevoir.com/politique/canada/1027088/conservateurs-reclament-vote-cibles-federales-immigration-permanente"
+    },
+    {
+     "date": "24 nov. 2026",
+     "text": "Diab aux Communes : les 200 000 admissions ponctuelles sont un « maximum et non des cibles ».",
+     "url": "https://www.ledevoir.com/politique/canada/1027529/ottawa-assure-plan-residents-permanents-est-limite-200-000-admissions"
+    },
+    {
+     "date": "25 nov. 2026",
+     "text": "Motion conservatrice battue aux Communes; le Bloc l’a appuyée.",
+     "url": "https://www.noovo.info/nouvelles/politique/article/la-motion-visant-a-rejeter-le-plan-2027-2029-du-federal-en-immigration-est-rejetee/"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "La motion pour rejeter le plan fédéral d’immigration est battue, malgré l’appui du Bloc",
+   "outlet": "Noovo Info (La Presse Canadienne)",
+   "url": "https://www.noovo.info/nouvelles/politique/article/la-motion-visant-a-rejeter-le-plan-2027-2029-du-federal-en-immigration-est-rejetee/"
+  },
+  {
+   "title": "Montréal perd du terrain au profit des régions dans l’établissement des immigrants",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/immigration/montreal-perd-du-terrain-au-profit-des-regions.php"
+  },
+  {
+   "title": "Foreign student restrictions test Carney's push to attract research talent",
+   "outlet": "The Globe and Mail (Reuters)",
+   "url": "https://www.theglobeandmail.com/business/article-canadas-foreign-student-restrictions-test-carneys-push-to-attract/"
+  },
+  {
+   "title": "Express Entry invites 6,000 French-speaking candidates",
+   "outlet": "CIC News",
+   "url": "https://www.cicnews.com/2026/11/canada-invites-6000-francophones-to-apply-for-permanent-residence-1182792.html"
+  },
+  {
+   "title": "Federal MP urges sector to press the immigration minister on international students",
+   "outlet": "The PIE News",
+   "url": "https://thepienews.com/push-immigration-minister-to-back-international-students-canadian-mp-urges/"
+  }
+ ]
+}
