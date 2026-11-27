@@ -1,0 +1,479 @@
+{
+ "date": "2026-11-27",
+ "date_long": "vendredi 27 novembre 2026",
+ "issue": 19,
+ "generated_at": "06 h 20",
+ "quote": {
+  "text": "Est-ce que vous venez d’apprendre que, pour la majorité des travailleurs étrangers au Québec, le Québec n’a pas son mot à dire ?",
+  "speaker": "Alexis Brunelle-Duceppe",
+  "context": "député du Bloc québécois, au comité de l’immigration",
+  "url": "https://www.ledevoir.com/politique/canada/1028225/ministre-federale-immigration-ignore-cibles-quebec"
+ },
+ "number": {
+  "value": "61 %",
+  "text": "Part des 304 130 titulaires de permis de mobilité internationale au Québec (30 juin 2025) dont la sélection relève exclusivement d’Ottawa.",
+  "url": "https://www.ledevoir.com/politique/canada/1028225/ministre-federale-immigration-ignore-cibles-quebec"
+ },
+ "agenda": [
+  {
+   "date": "27 nov.",
+   "text": "Cour suprême : jugement sur la loi 21, 9 h 45; vote du conseil du Collège Glendon, 13 h 30",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/decision-de-la-cour-supreme-du-canada/jour-j-pour-la-loi-sur-la-laicite-de-l-etat.php"
+  },
+  {
+   "date": "1er déc.",
+   "text": "Rentrée parlementaire à Québec, 14 h; les travaux se terminent le 11 décembre",
+   "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2646-F.pdf"
+  },
+  {
+   "date": "Avant les Fêtes",
+   "text": "Plan d’immigration du gouvernement du Québec",
+   "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+  },
+  {
+   "date": "21-22 janv.",
+   "text": "Collège LaSalle : audience sur les pénalités de 30 millions; protection contre les créanciers jusqu’au 29 janvier",
+   "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+  },
+  {
+   "date": "1er févr.",
+   "text": "Échéance de l’ultimatum de la CRUES; grève générale illimitée possible le 15 février",
+   "url": "https://www.lapresse.ca/actualites/education/2026-11-23/ultimatum-d-un-regroupement-etudiant/sans-changements-reels-une-greve-generale-etudiante-le-15-fevrier.php"
+  }
+ ],
+ "stories": [
+  {
+   "id": "diab-ignore-cibles-quebec",
+   "section": "immqc",
+   "lead": true,
+   "brief": "En comité, la ministre Diab ne peut nommer les cibles d’immigration de Québec; 61 % des permis de mobilité internationale au Québec échappent à sa sélection",
+   "kicker": "Ottawa",
+   "suptitle": "Relations Québec-Ottawa",
+   "title": "La ministre fédérale de l’Immigration incapable de nommer les cibles de Québec",
+   "standfirst": "Devant le comité de la citoyenneté et de l’immigration, Lena Metlege Diab a dit n’avoir vu que « quelques chiffres » dans les médias et ne pas avoir rencontré son homologue québécoise. Ottawa sélectionne seul 61 % des titulaires de permis de mobilité internationale au Québec.",
+   "body": [
+    "Interrogée jeudi en comité par le bloquiste Alexis Brunelle-Duceppe, la ministre fédérale de l’Immigration, Lena Metlege Diab, n’a pas pu nommer les seuils promis par le gouvernement St-Pierre Plamondon, rapporte Le Devoir. « J’ai envoyé une lettre à la ministre [québécoise]. Je suis ici pour [la] rencontrer », a-t-elle d’abord répondu, avant d’ajouter que Québec « n’a pas envoyé ses chiffres » et que « je n’ai pas rencontré [la ministre] en personne ».",
+    "Le PQ a promis en campagne de ramener le seuil d’admissions permanentes à 35 000 par an, contre 45 000 actuellement; ces seuils ne sont pas encore officiellement adoptés.",
+    "La ministre a aussi eu du mal à chiffrer les travailleurs étrangers sélectionnés uniquement par Ottawa au Québec dans le Programme de mobilité internationale, les estimant à « 10 % du nombre du reste du Canada ». Selon les données fédérales, au 30 juin 2025, Québec avait un pouvoir de sélection direct ou indirect sur environ 39 % des 304 130 titulaires de permis de ce programme; les 61 % restants relevaient exclusivement d’Ottawa.",
+    "« Est-ce que vous venez d’apprendre que, pour la majorité des travailleurs étrangers au Québec, le Québec n’a pas son mot à dire ? » a lancé M. Brunelle-Duceppe. « J’ai beaucoup travaillé avec le ministre responsable à Québec. Ils ont demandé de prolonger les permis et on a travaillé ensemble », a répondu Mme Diab."
+   ],
+   "why": "Le Programme de mobilité internationale, qui inclut notamment les permis postdiplôme des étudiants étrangers, est le cœur de l’immigration temporaire que Québec veut réduire de moitié; sans négociation avec Ottawa, Québec ne contrôle qu’environ 39 % de ces permis.",
+   "facts": [
+    "Diab n’a pas rencontré la ministre Gentilcore en personne",
+    "Seuil promis par le PQ : 35 000, contre 45 000",
+    "PMI au Québec : 304 130 titulaires au 30 juin 2025",
+    "Sélection exclusivement fédérale : 61 %"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Le Devoir",
+    "url": "https://www.ledevoir.com/politique/canada/1028225/ministre-federale-immigration-ignore-cibles-quebec",
+    "date": "26 novembre 2026"
+   }
+  },
+  {
+   "id": "loi-21-jour-j-cour-supreme",
+   "section": "droit",
+   "featured": true,
+   "brief": "Loi 21 : la Cour suprême rend sa décision ce matin à 9 h 45; trois scénarios selon un constitutionnaliste",
+   "kicker": "Ottawa",
+   "suptitle": "Laïcité de l’État",
+   "title": "Jour J pour la loi 21 à la Cour suprême",
+   "standfirst": "Sept juges se prononcent ce matin sur la Loi sur la laïcité de l’État et l’usage préventif de la disposition de dérogation. Le statu quo est le scénario « le plus crédible », selon le professeur Patrick Taillon.",
+   "body": [
+    "La Cour suprême du Canada rend ce vendredi matin sa décision sur la Loi sur la laïcité de l’État, adoptée en 2019 et protégée de manière préventive par la disposition de dérogation, rapporte La Presse. Les opposants demandaient au tribunal d’encadrer le recours à l’article 33.",
+    "Selon le professeur de droit constitutionnel Patrick Taillon (Université Laval), le scénario « le plus crédible » est le statu quo, où Québec gagne « sans que ce soit véritablement une victoire ». La Cour pourrait aussi rendre un jugement « déclaratoire » sur le fond, ou distinguer l’usage préventif de la dérogation de l’usage en réponse aux tribunaux, un scénario qu’il juge moins probable. « Sans l’article 33, il n’y aurait jamais eu de charte en 1982 », rappelle-t-il.",
+    "Sept des neuf juges ont entendu l’affaire : le juge Mahmud Jamal s’est récusé et la juge Mary Moreau est restée en marge pour assurer un nombre impair. Rectificatif : notre édition du 21 novembre indiquait à tort huit juges."
+   ],
+   "why": "La décision encadrera la capacité du gouvernement péquiste à protéger par la dérogation ses projets sur la loi 101 au cégep, le renouvellement de la loi 96 et l’interdiction des signes religieux au primaire.",
+   "facts": [
+    "Décision : vendredi 27 novembre, 9 h 45",
+    "Sept juges sur neuf",
+    "La Cour d’appel avait donné raison à Québec en 2024"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "La Presse",
+    "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/decision-de-la-cour-supreme-du-canada/jour-j-pour-la-loi-sur-la-laicite-de-l-etat.php",
+    "date": "26 novembre 2026"
+   }
+  },
+  {
+   "id": "sondage-research-co-etudiants",
+   "section": "chiffres",
+   "featured": true,
+   "lang": "en",
+   "brief": "Research Co.: 68 % of Canadians favour accepting international students; 60 % of Quebecers want the federal cap re-evaluated",
+   "kicker": "Canada",
+   "suptitle": "Research Co. poll",
+   "title": "Most Canadians back international students, but want a crackdown on low-quality institutions",
+   "standfirst": "Sixty-eight per cent say accepting international students is a good idea, 57 per cent want the federal cap re-evaluated (60 per cent in Quebec) and 77 per cent want Ottawa to crack down on institutions that lure students with false promises.",
+   "body": [
+    "Sixty-eight per cent of Canadians think it is a good idea for colleges and universities to accept international students, 22 per cent a bad idea, according to a Research Co. online poll of 1,001 adults conducted Nov. 7 to 9 (margin of error ±3.1 points). Forty-two per cent want numbers kept the same, 20 per cent want an increase and 28 per cent a decrease.",
+    "Fifty-seven per cent think the federal decision to limit study permits should be re-evaluated, rising to 64 per cent in Atlantic Canada and 60 per cent in Quebec. Seventy-seven per cent believe Ottawa must crack down on low-quality institutions that lure international students with false hopes about housing and job placement.",
+    "Canadians overestimate the international share of bachelor's students (33 per cent guessed, 18 per cent actual, per Statistics Canada) and underestimate it at the master's and doctoral levels (36 per cent actual). Forty-two per cent think international students have hurt the economy; 48 per cent disagree."
+   ],
+   "why": "Public support for a crackdown on 'low-quality institutions' is near-unanimous: oversight of private colleges, not the cap itself, is where opinion converges.",
+   "facts": [
+    "68 % good idea; 22 % bad idea",
+    "57 % want the cap re-evaluated; Quebec 60 %",
+    "77 % want a crackdown on low-quality institutions",
+    "1,001 adults, Nov. 7–9, ±3.1 points"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Research Co.",
+    "url": "https://researchco.ca/2026/11/26/students-canada/",
+    "date": "26 novembre 2026"
+   }
+  },
+  {
+   "id": "glendon-vote-conseil-avenir-campus",
+   "section": "provinces",
+   "featured": true,
+   "brief": "Ontario : le conseil du Collège Glendon vote aujourd’hui sur la proposition de York pour l’avenir du campus francophone",
+   "kicker": "Toronto",
+   "suptitle": "Francophonie",
+   "title": "Vote décisif sur l’avenir du campus du Collège Glendon",
+   "standfirst": "Le conseil de faculté, majoritairement composé de professeurs, se prononce sur la proposition de la direction de l’Université York, qui pourrait s’appliquer dès l’automne 2029. York s’est engagée à ne pas aller de l’avant sans son appui.",
+   "body": [
+    "Les membres du conseil du Collège Glendon de l’Université York, composé majoritairement de professeurs à temps plein, votent vendredi à 13 h 30 sur la proposition de la direction, qui pourrait être appliquée dès l’automne 2029, rapporte Radio-Canada. Le Caucus des étudiants de Glendon a indiqué que ses 13 membres votants s’y opposeraient.",
+    "L’Université York assure qu’elle n’ira pas de l’avant sans l’appui du conseil de faculté. « Nous allons les tenir responsables », dit Amanda Glasbeek, présidente de l’association des professeurs (YUFA). Le président de l’association étudiante, Samuel Nieva, souhaite que le Collège demeure sur son campus actuel."
+   ],
+   "why": "Le sort du principal établissement postsecondaire francophone de Toronto illustre la fragilité de l’offre en français hors Québec, alors que les cibles fédérales d’immigration francophone augmentent.",
+   "facts": [
+    "Vote du conseil le 27 novembre, 13 h 30",
+    "Application possible dès l’automne 2029",
+    "13 étudiants votants opposés"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2303285/glendon-college-york-universite-demenagement",
+    "date": "27 novembre 2026"
+   }
+  },
+  {
+   "id": "etudiant-gaza-permis-etudes",
+   "section": "etudiants",
+   "brief": "Un étudiant de Gaza obtient son permis d’études pour l’Université de l’Alberta après plus d’un an d’attente",
+   "kicker": "Edmonton",
+   "suptitle": "Permis d’études",
+   "title": "Après plus d’un an d’attente, un étudiant de Gaza obtient son permis d’études",
+   "standfirst": "Housam Abouelreish, boursier en génie biomédical à l’Université de l’Alberta, devait commencer en septembre 2025; la confirmation d’IRCC est arrivée jeudi, avant l’expiration de sa bourse en janvier.",
+   "body": [
+    "Housam Abouelreish, diplômé en génie biomédical à Gaza et réfugié en Égypte depuis 2024, a reçu jeudi la confirmation d’IRCC pour son permis d’études, alors que sa bourse de maîtrise à l’Université de l’Alberta risquait d’expirer en janvier 2027, rapporte Radio-Canada. Il devait commencer ses études en septembre 2025.",
+    "« Les études des étudiants palestiniens dans les universités canadiennes devraient être considérées comme un investissement dans l’avenir », dit-il. Une gestionnaire de projets montréalaise l’a aidé à faire avancer son dossier et à payer un avocat."
+   ],
+   "why": "Le dossier illustre les délais de traitement des permis d’études pour certains pays, même pour des boursiers aux cycles supérieurs exemptés du plafond.",
+   "facts": [
+    "Plus d’un an d’attente",
+    "Bourse de maîtrise qui expirait en janvier 2027"
+   ],
+   "opinion": false,
+   "source": {
+    "name": "Radio-Canada",
+    "url": "https://ici.radio-canada.ca/article/info/2303316/gaza-etudiant-permis-etudes-alberta",
+    "date": "26 novembre 2026"
+   }
+  }
+ ],
+ "dossiers": [
+  {
+   "id": "college-lasalle-dette",
+   "section": "colleges",
+   "title": "Collège LaSalle : sous la protection de la LACC, audience sur les pénalités les 21 et 22 janvier",
+   "status": "nochange",
+   "update": "Rien de neuf. La protection contre les créanciers court jusqu’au 29 janvier 2027; audience sur les pénalités les 21 et 22 janvier.",
+   "background": [
+    "Le Collège LaSalle, établissement privé subventionné du centre-ville de Montréal qui compte quelque 3 000 étudiants et 420 employés, doit près de 48 millions de dollars au gouvernement du Québec. La somme vient de deux sources : des pénalités de près de 30 millions pour avoir dépassé son contingent d’étudiants dans les programmes en anglais (716 étudiants de trop en 2023-2024, soit 8 781 740 $, puis 1 066 en 2024-2025, soit 21 113 864 $), et 17,9 millions de subventions versées en trop en 2025-2026.",
+    "Les contingents découlent de la Loi 14 (projet de loi 96), adoptée au printemps 2022. Le Collège soutient qu’ils ont été appliqués « sans période de transition ni droits acquis » et qu’il lui était impossible de les respecter, notamment parce que des étudiants étrangers avaient déjà été admis. Il dit s’y conformer depuis 2025-2026. Québec répond que le Collège est le seul établissement privé subventionné à ne pas avoir respecté la loi.",
+    "À vérifier : la date de l’appel de Québec, le contenu de l’audience de janvier et la position du nouveau gouvernement. L’issue de la date du 24 septembre n’a jamais été rapportée; on sait maintenant que le Collège était alors sous la protection de la LACC."
+   ],
+   "timeline": [
+    {
+     "date": "Printemps 2022",
+     "text": "Adoption de la Loi 14 (projet de loi 96), qui plafonne les inscriptions dans les programmes collégiaux en anglais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "12 juill. 2025",
+     "text": "Le Collège demande à la Cour supérieure d’annuler une amende de 30 millions. La ministre Pascale Déry défend la décision.",
+     "url": "https://www.lapresse.ca/actualites/2025-07-12/non-respect-des-quotas-linguistiques/le-college-lasalle-conteste-une-amende-de-30-millions.php"
+    },
+    {
+     "date": "Fin juin 2026",
+     "text": "Québec gèle les subventions versées au Collège.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Rentrée suspendue. Un juge accorde dix jours aux parties pour s’entendre; la dette totale est chiffrée à 47,8 millions.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-08-24/dette-de-48-millions-de-dollars/le-college-lasalle-obtient-un-sursis.php"
+    },
+    {
+     "date": "24 août 2026",
+     "text": "Le Collège se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "3 sept. 2026",
+     "text": "Le juge Martin Castonguay ordonne à Québec de reprendre le versement des subventions pour 2026-2027, « sans aucune retenue »; les cours reprennent le lendemain. La question de la dette reste entière.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "24 sept. 2026",
+     "text": "Date fixée pour le retour devant le tribunal avec une « solution pérenne ». Issue non trouvée.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-09-03/malgre-ses-dettes-envers-le-gouvernement/le-college-lasalle-pourra-rouvrir-des-ce-vendredi.php"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "Protection prolongée jusqu’à la fin de janvier; audience sur les pénalités fixée aux 21 et 22 janvier; responsabilité possible des administrateurs fixée à 1,5 M$. Québec a obtenu la permission d’en appeler de l’ordonnance du 3 septembre.",
+     "url": "https://www.ctvnews.ca/montreal/article/lasalle-colleges-creditor-protection-extended-as-30m-quebec-penalty-hearing-set-for-january/"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Le porte-parole du Collège précise que la protection court jusqu’au 29 janvier 2027; les étudiants préparent la session d’hiver.",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-lasalle-college-creditor-protection-9.7418130"
+    }
+   ]
+  },
+  {
+   "id": "permis-colleges-superieurs",
+   "section": "colleges",
+   "title": "Permis non renouvelés : deux collèges privés en sursis devant le Tribunal administratif",
+   "status": "nochange",
+   "update": "Rien de neuf. Aucune décision sur le fond du Tribunal administratif du Québec n’a été rapportée; les deux collèges enseignent toujours à la faveur de la suspension du 28 juillet.",
+   "background": [
+    "En juillet 2026, le ministère de l’Éducation a refusé de renouveler les permis du Collège supérieur de Montréal (582 étudiants) et du Collège supérieur de Sherbrooke (296 étudiants), deux établissements privés dirigés par Noureddine Hajibi qui accueillent ensemble 878 étudiants étrangers. Le ministère a dit avoir agi « dans le respect de la Loi sur l’enseignement privé », après analyse « au regard des exigences applicables », sans préciser ses motifs.",
+    "Les collèges contestent la décision, qu’ils disent fondée sur des « motifs inexacts ». Le 28 juillet, le Tribunal administratif du Québec a suspendu les effets du refus, ce qui leur a permis de rouvrir.",
+    "À vérifier : la date de l’audience sur le fond et la décision du Tribunal, ainsi que la position du ministre de l’Éducation nationale, Joël Arseneau, de qui relève maintenant le dossier."
+   ],
+   "timeline": [
+    {
+     "date": "10 juill. 2026",
+     "text": "Le Collège supérieur de Montréal avise ses étudiants qu’il suspend ses activités « jusqu’à nouvel ordre ».",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "13 juill. 2026",
+     "text": "Le ministère confirme le non-renouvellement des deux permis. Environ 150 personnes manifestent devant le collège montréalais.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-13/fermeture-de-deux-colleges-prives/pres-de-900-etudiants-etrangers-dans-l-incertitude.php"
+    },
+    {
+     "date": "28 juill. 2026",
+     "text": "Le Tribunal administratif du Québec suspend les effets du refus; les deux collèges reprennent leurs activités.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-07-28/permis-non-renouveles/le-tribunal-administratif-suspend-la-decision-de-quebec-et-permet-a-deux-colleges-prives-de-rouvrir.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/7bca07756da33b27bd46be7271a68d13.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plafonds-etudiants-etrangers",
+   "section": "etudiants",
+   "title": "Étudiants étrangers : les plafonds et leurs effets",
+   "status": "nochange",
+   "update": "La ministre Lefebvre veut réformer le financement universitaire pour mieux répartir les droits des étudiants étrangers : McGill a touché 955 M$ en cinq ans, l’UQAM environ 65 M$. Le deuxième volet du décret québécois commence le 17 décembre.",
+   "background": [
+    "Deux paliers plafonnent les étudiants étrangers. Ottawa limite le nombre de permis d’études. Québec, qui s’est donné par loi le pouvoir de limiter les demandes par établissement, attribue depuis février 2025 un quota de certificats d’acceptation du Québec (CAQ) à chaque établissement : 124 760 certificats en 2025, contre 156 647 attribués en 2024.",
+    "La baisse a été concentrée dans les collèges et établissements privés, en particulier dans les attestations d’études collégiales (AEC), que la ministre de l’époque, Pascale Déry, accusait de servir de « voies rapides » vers la résidence permanente. Le décret désignait le Collège Ellis, le Collège Universel, le Collège LaSalle et l’Institut Teccart comme les établissements privés accueillant, et de loin, le plus d’étudiants étrangers.",
+    "Le décret en vigueur, publié le 17 décembre 2025, fixe les maximums par établissement sur deux périodes d’un an : du 17 décembre 2025 au 16 décembre 2026, puis du 17 décembre 2026 au 16 décembre 2027. Il maintient le DEC, les AEC protégées et l’université à un niveau semblable à 2024, réduit de 75 % les AEC non protégées et de 35 % la formation professionnelle privée, et exempte les renouvellements. À surveiller : la planification pluriannuelle de l’immigration que le gouvernement péquiste promet pour la fin de novembre. Il s’est engagé à réduire de moitié l’immigration temporaire en quatre ans, sans avoir dit ce que cela signifie pour ces plafonds."
+   ],
+   "timeline": [
+    {
+     "date": "26 févr. 2025",
+     "text": "Québec impose un quota de CAQ à chaque établissement : 124 760 certificats en 2025, contre 156 647 en 2024. Les collèges privés et les AEC sont les plus touchés.",
+     "url": "https://www.lapresse.ca/actualites/education/2025-02-26/etudiants-etrangers/quebec-impose-un-plafond-aux-etablissements.php"
+    },
+    {
+     "date": "17 déc. 2025",
+     "text": "Nouveau décret québécois : plafonds par établissement pour deux périodes d’un an, jusqu’au 16 décembre 2027. Les AEC non protégées sont réduites de 75 %, la formation professionnelle privée de 35 %.",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/entree-vigueur-gestion-demandes-a-recevoir-programme-etudiants-etrangers-deux-prochaines-annees-67762"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Budget fédéral : 150 000 nouveaux étudiants étrangers par année de 2027 à 2029; les arrivées ont chuté de 71 % depuis 2024.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "6 nov. 2026",
+     "text": "Le Bureau canadien de l’éducation internationale dit que le pays est « loin » d’atteindre la cible fédérale; un peu moins de 700 000 étudiants étrangers à la fin de 2025.",
+     "url": "https://thepienews.com/canada-extends-150000-international-student-arrivals-target-to-2029/"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "L’UQ rapporte une baisse de 50 % des nouvelles inscriptions internationales en deux ans; dans les cégeps du SRAM, les demandes passent de 11 274 à 2 337.",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-10/discours-devant-la-ccmm/les-etudiants-internationaux-ne-sont-pas-des-immigrants-lance-le-president-de-l-uq.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Universités de l’Atlantique : −18 % d’étudiants étrangers en un an, près de −48 % depuis janvier 2024; les approbations ont chuté d’au moins 59 % dans la région.",
+     "url": "https://theconversation.com/canadas-international-student-cap-hit-atlantic-universities-hard-heres-why-it-matters-295649"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Un peu plus de 65 000 nouvelles arrivées de janvier à août (BCEI); certains analystes prévoient moins de 90 000 nouveaux permis en 2026.",
+     "url": "https://monitor.icef.com/2026/11/canada-announces-targets-for-new-international-student-arrivals-through-2029/"
+    },
+    {
+     "date": "20 nov. 2026",
+     "text": "Lefebvre annonce une réforme du financement des universités; McGill 955 M$ contre 65 M$ pour l’UQAM en droits d’étudiants internationaux sur cinq ans.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/menace-d-une-greve-generale-illimitee/elsie-lefebvre-demande-un-peu-de-patience-aux-etudiants.php"
+    }
+   ],
+   "image": {
+    "url": "https://mobile-img.lpcdn.ca/v2/924x/r3996/acdc50799fe232fcbdb0d902587da532.jpg",
+    "credit": "LA PRESSE"
+   }
+  },
+  {
+   "id": "plan-immigration-quebec",
+   "section": "immqc",
+   "title": "Immigration : le premier plan du gouvernement péquiste",
+   "status": "new",
+   "update": "La ministre fédérale Diab n’a pu nommer les cibles de Québec en comité et n’a pas rencontré la ministre Gentilcore. Ottawa sélectionne seul 61 % des 304 130 titulaires de permis de mobilité internationale au Québec. Plan québécois attendu avant les Fêtes.",
+   "background": [
+    "Le Parti québécois, élu minoritaire le 5 octobre 2026 avec 59 sièges sur 127, a promis de ramener l’immigration permanente de 45 000 à 35 000 admissions par année et de réduire de moitié le nombre d’immigrants temporaires, d’environ 500 000 à 250 000 ou 300 000, en quatre ans.",
+    "Catherine Gentilcore, vice-première ministre et ministre de l’Immigration et de l’Intégration, a dit le soir de son assermentation qu’elle serait surprise que les seuils bougent. Elle a promis de clarifier « le plus rapidement possible » la situation des personnes déjà sur le territoire et de celles visées par le Programme de l’expérience québécoise (PEQ), auquel Québec avait mis fin en 2025 avant de le réactiver à l’été 2026 pour deux ans.",
+    "Les employeurs des régions demandent de ne pas renvoyer les travailleurs déjà en poste : « Cessez d’expulser ceux qui travaillent déjà chez nous », a lancé le PDG de Canam, Marc Dutil."
+   ],
+   "timeline": [
+    {
+     "date": "5 oct. 2026",
+     "text": "Élection générale : gouvernement minoritaire du Parti québécois (59 sièges), devant le PLQ (40), le PCQ (19) et QS (9).",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation"
+    },
+    {
+     "date": "21 oct. 2026",
+     "text": "Assermentation du Conseil des ministres. Catherine Gentilcore hérite de l’Immigration et promet une planification pluriannuelle « à la fin du mois de novembre ».",
+     "url": "https://www.ledevoir.com/politique/quebec/1018703/ministre-chargee-acceder-independance-premiere"
+    },
+    {
+     "date": "22 oct. 2026",
+     "text": "Le PDG de Canam demande une intervention immédiate pour les travailleurs temporaires; la ministre dit que ces situations seront « prioritaires ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295203/immigration-gouvernement-quebec-dutil-reaction"
+    },
+    {
+     "date": "28 oct. 2026",
+     "text": "Décret 1414-2026 : le ministère devient le ministère de l’Immigration et de l’Intégration et reçoit l’application de la Loi sur l’intégration à la nation québécoise.",
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/gazette/pdf_encrypte/gaz_entiere/2645-F.pdf"
+    },
+    {
+     "date": "4 nov. 2026",
+     "text": "Québec réclame à Ottawa environ 690 millions pour l’accueil des demandeurs d’asile en 2024.",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "5 nov. 2026",
+     "text": "Le budget fédéral maintient ses cibles jusqu’en 2029 et n’accorde pas le remboursement demandé.",
+     "url": "https://www.ledevoir.com/actualites/immigration/1022801/seuils-immigration-ottawa-restent-meme-niveau"
+    },
+    {
+     "date": "7 nov. 2026",
+     "text": "Faux CSQ : une ex-coordonnatrice du PEQ est accusée; la ministre se dit « très choquée ».",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    },
+    {
+     "date": "9 nov. 2026",
+     "text": "Ottawa offre aux provinces de porter de 10 % à 15 % le plafond de travailleurs temporaires à bas salaire à compter du 1er mars 2027.",
+     "url": "https://www.ledevoir.com/politique/canada/1023551/ottawa-assouplit-certaines-regles-relatives-travailleurs-etrangers-temporaires"
+    },
+    {
+     "date": "10 nov. 2026",
+     "text": "La ministre Gentilcore dénonce des « seuils insoutenables » à Ottawa; le premier ministre soulèvera la question avec Mark Carney au Cambodge.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-10/le-fil-politique/revivez-la-journee-du-10-novembre.php"
+    },
+    {
+     "date": "11 nov. 2026",
+     "text": "Gentilcore promet son plan « dans les prochaines semaines »; The Globe and Mail arrive au même total de 662 000 résidents permanents.",
+     "url": "https://www.journaldesherbrooke.com/2026/11/11/immigration-gentilcore-demande-des-comptes-a-ottawa/"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Analyse de Radio-Canada : 662 000 résidents permanents prévus en 2027; 143 000 admissions requises pour maintenir le poids démographique du Québec, selon Pierre Fortin.",
+     "url": "https://ici.radio-canada.ca/article/info/2300019/ottawa-seme-confusion-sur-immigration"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "Le PLQ annonce son opposition à la réduction des temporaires (−200 000 à −250 000); Gentilcore maintient 35 000.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-12/caucus-du-plq/charles-milliard-rejette-la-surenchere-identitaire-du-gouvernement.php"
+    },
+    {
+     "date": "12 nov. 2026",
+     "text": "IRCC fixe au 31 mars 2027 l’échéance des nominations provinciales supplémentaires (jusqu’à 100 000), réservées aux travailleurs hors Québec selon CIC News.",
+     "url": "https://www.cicnews.com/2026/11/ottawa-gives-provinces-139-days-to-nominate-tens-of-thousands-more-workers-for-permanent-residence-1182451.html"
+    },
+    {
+     "date": "14 nov. 2026",
+     "text": "PSPP se dit « assez optimiste » avant de rencontrer Carney; l’immigration figure parmi les sujets à discuter.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025057/pays-francophonie-parlent-independance-quebec-coulisses-dit-pspp"
+    },
+    {
+     "date": "15 nov. 2026",
+     "text": "Rencontre de 45 minutes à Phnom Penh; immigration abordée, entente sur l’itinérance, rencontre à Québec en décembre.",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-15/la-presse-au-cambodge/la-glace-est-brisee-entre-carney-et-st-pierre-plamondon.php"
+    },
+    {
+     "date": "17 nov. 2026",
+     "text": "Legault appuie publiquement la cible péquiste de 200 000 à 250 000 résidents temporaires.",
+     "url": "https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration"
+    },
+    {
+     "date": "21 nov. 2026",
+     "text": "PEQ fermé depuis le 31 octobre, aucune date de réouverture; plan d’immigration promis avant les Fêtes.",
+     "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    },
+    {
+     "date": "23 nov. 2026",
+     "text": "Motion conservatrice aux Communes pour rejeter la hausse des résidents permanents; vote attendu dans la semaine.",
+     "url": "https://www.ledevoir.com/politique/canada/1027088/conservateurs-reclament-vote-cibles-federales-immigration-permanente"
+    },
+    {
+     "date": "24 nov. 2026",
+     "text": "Diab aux Communes : les 200 000 admissions ponctuelles sont un « maximum et non des cibles ».",
+     "url": "https://www.ledevoir.com/politique/canada/1027529/ottawa-assure-plan-residents-permanents-est-limite-200-000-admissions"
+    },
+    {
+     "date": "25 nov. 2026",
+     "text": "Motion conservatrice battue aux Communes; le Bloc l’a appuyée.",
+     "url": "https://www.noovo.info/nouvelles/politique/article/la-motion-visant-a-rejeter-le-plan-2027-2029-du-federal-en-immigration-est-rejetee/"
+    },
+    {
+     "date": "26 nov. 2026",
+     "text": "Diab, en comité, ne peut nommer les cibles du Québec; 61 % des permis PMI au Québec relèvent exclusivement d’Ottawa.",
+     "url": "https://www.ledevoir.com/politique/canada/1028225/ministre-federale-immigration-ignore-cibles-quebec"
+    }
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "title": "La ministre fédérale de l’Immigration incapable de nommer les cibles de Québec",
+   "outlet": "Le Devoir",
+   "url": "https://www.ledevoir.com/politique/canada/1028225/ministre-federale-immigration-ignore-cibles-quebec"
+  },
+  {
+   "title": "Jour J pour la loi 21 à la Cour suprême",
+   "outlet": "La Presse",
+   "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/decision-de-la-cour-supreme-du-canada/jour-j-pour-la-loi-sur-la-laicite-de-l-etat.php"
+  },
+  {
+   "title": "Most Canadians back international students, but want a crackdown on low-quality institutions",
+   "outlet": "Research Co.",
+   "url": "https://researchco.ca/2026/11/26/students-canada/"
+  },
+  {
+   "title": "Vote décisif sur l’avenir du campus du Collège Glendon",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2303285/glendon-college-york-universite-demenagement"
+  },
+  {
+   "title": "Après plus d’un an d’attente, un étudiant de Gaza obtient son permis d’études",
+   "outlet": "Radio-Canada",
+   "url": "https://ici.radio-canada.ca/article/info/2303316/gaza-etudiant-permis-etudes-alberta"
+  }
+ ]
+}
